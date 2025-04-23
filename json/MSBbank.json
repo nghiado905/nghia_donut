@@ -1,0 +1,4432 @@
+[
+    {
+        "image": "D:/Private/Project/kaggle/VietOCR/ocr_with_normal_table/output/json\\images\\page_MSBbank_1.jpg",
+        "ground_truth": {
+            "gt_parse": {
+                "ten_ngan_hang": "Ngân hàng MSB",
+                "ma_khach_hang": "",
+                "thong_tin_tai_khoan": {
+                    "ten_chu_tai_khoan": "",
+                    "so_tai_khoan": "",
+                    "kinh_gui": "",
+                    "mst_khach_hang": "0108004867",
+                    "so_du_dau": 0.0
+                },
+                "ten_cac_cot": [
+                    "STT",
+                    "Ngày/Date",
+                    "Mô tả/Description",
+                    "Ghi nợ/Debt",
+                    "Ghi có/Credit",
+                    "Số dư/Balance",
+                    "Ng.hưởng/chuyển",
+                    "NH.hưởng/chuyển"
+                ],
+                "giao_dich": [
+                    {
+                        "stt": "NHÂN QUÂN NĂNG TẠI COUỐC CTECTOUND SHITTER",
+                        "ngay_giao_dich": "",
+                        "mo_ta": "",
+                        "ghi_no": 0.0,
+                        "ghi_co": 0.0,
+                        "so_du": 0.0,
+                        "nguoi_huong_chuyen": "",
+                        "ngan_hang_huong_chuyen": ""
+                    },
+                    {
+                        "stt": "517",
+                        "ngay_giao_dich": "Ngày/Date",
+                        "mo_ta": "Mô tà/Description",
+                        "ghi_no": 0.0,
+                        "ghi_co": 0.0,
+                        "so_du": 0.0,
+                        "nguoi_huong_chuyen": "Na hưởng/chuyển",
+                        "ngan_hang_huong_chuyen": "NHH HƯỞNG/CHUYỂN"
+                    },
+                    {
+                        "stt": "F",
+                        "ngay_giao_dich": "02017,0",
+                        "mo_ta": "CHIẾN THỊ THỊ THỊ THẤT PHỐNG THỊ THUYỀN THUYỀN THỊ THỊ THUY",
+                        "ghi_no": 1.0,
+                        "ghi_co": 0.0,
+                        "so_du": 0.0,
+                        "nguoi_huong_chuyen": "CHUBẢNG TQUYỀN HỘI",
+                        "ngan_hang_huong_chuyen": "MITHOP Ky Thuong"
+                    },
+                    {
+                        "stt": "2",
+                        "ngay_giao_dich": "03/01/19",
+                        "mo_ta": "Ttr A/c.110010 10910996",
+                        "ghi_no": 23000000.0,
+                        "ghi_co": 36000000.0,
+                        "so_du": 29084330.0,
+                        "nguoi_huong_chuyen": "HOANG BAO LY",
+                        "ngan_hang_huong_chuyen": "MARITIME BANK"
+                    },
+                    {
+                        "stt": "3",
+                        "ngay_giao_dich": "03/01/19",
+                        "mo_ta": "RUT TM CHO SHITEK",
+                        "ghi_no": 3300.0,
+                        "ghi_co": 3800000.0,
+                        "so_du": 29081030.0,
+                        "nguoi_huong_chuyen": "0360000000",
+                        "ngan_hang_huong_chuyen": "036000000"
+                    },
+                    {
+                        "stt": "4",
+                        "ngay_giao_dich": "07/01/19",
+                        "mo_ta": "Ttr A/c: 110010.10910996",
+                        "ghi_no": 29000000.0,
+                        "ghi_co": 36000000.0,
+                        "so_du": 81030.0,
+                        "nguoi_huong_chuyen": "HOANG BAO LY",
+                        "ngan_hang_huong_chuyen": "MARITIME BANK"
+                    },
+                    {
+                        "stt": "5",
+                        "ngay_giao_dich": "07/01/19",
+                        "mo_ta": "RUT TM CHO SHITEK",
+                        "ghi_no": 3300.0,
+                        "ghi_co": 3800000.0,
+                        "so_du": 77730.0,
+                        "nguoi_huong_chuyen": "0360000003",
+                        "ngan_hang_huong_chuyen": "036000000"
+                    },
+                    {
+                        "stt": "6",
+                        "ngay_giao_dich": "08/01/19",
+                        "mo_ta": "CHÍNH CÓ THIÊN CỦA VẤT TỪ",
+                        "ghi_no": 0.0,
+                        "ghi_co": 0.0,
+                        "so_du": 0.0,
+                        "nguoi_huong_chuyen": "STYCHOTOTRUONG",
+                        "ngan_hang_huong_chuyen": "Ngan hang DT Viet"
+                    },
+                    {
+                        "stt": "7",
+                        "ngay_giao_dich": "08/01/19",
+                        "mo_ta": "TTr ANc: 11001010910996",
+                        "ghi_no": 18000000.0,
+                        "ghi_co": 3600000.0,
+                        "so_du": 2911730.0,
+                        "nguoi_huong_chuyen": "HOANG BAO LY",
+                        "ngan_hang_huong_chuyen": "MARITIME BANK"
+                    },
+                    {
+                        "stt": "8",
+                        "ngay_giao_dich": "08/01/19",
+                        "mo_ta": "RUT TM CHO SHITEK",
+                        "ghi_no": 3300.0,
+                        "ghi_co": 0.0,
+                        "so_du": 2908430.0,
+                        "nguoi_huong_chuyen": "036000000",
+                        "ngan_hang_huong_chuyen": "036000000"
+                    },
+                    {
+                        "stt": "9",
+                        "ngay_giao_dich": "09/01/19",
+                        "mo_ta": "hop thuy thanh toan hd so 195",
+                        "ghi_no": 36000000.0,
+                        "ghi_co": 9900000.0,
+                        "so_du": 12808430.0,
+                        "nguoi_huong_chuyen": "cong ty tnhh tm va dv",
+                        "ngan_hang_huong_chuyen": "NHTMCP Quoc te"
+                    },
+                    {
+                        "stt": "10",
+                        "ngay_giao_dich": "11/01/19",
+                        "mo_ta": "Ttr A/c.1100 10 109/10996",
+                        "ghi_no": 12000000.0,
+                        "ghi_co": 36000000.0,
+                        "so_du": 808430.0,
+                        "nguoi_huong_chuyen": "HOANG BAO LY",
+                        "ngan_hang_huong_chuyen": "MARITIME BANK"
+                    }
+                ],
+                "tong_ket": {
+                    "tong_ghi_no": 0.0,
+                    "tong_ghi_co": 0.0
+                }
+            }
+        }
+    },
+    {
+        "image": "D:/Private/Project/kaggle/VietOCR/ocr_with_normal_table/output/json\\images\\page_MSBbank_2.jpg",
+        "ground_truth": {
+            "gt_parse": {
+                "ten_ngan_hang": "",
+                "ma_khach_hang": "",
+                "thong_tin_tai_khoan": {
+                    "ten_chu_tai_khoan": "",
+                    "so_tai_khoan": "",
+                    "kinh_gui": "",
+                    "mst_khach_hang": "",
+                    "so_du_dau": 0.0
+                },
+                "ten_cac_cot": [
+                    "STT",
+                    "Ngày/Date",
+                    "Mô tả/Description",
+                    "Ghi nợ/Debt",
+                    "Ghi có/Credit",
+                    "Số dư/Balance",
+                    "Ng.hưởng/chuyển",
+                    "NH.hưởng/chuyển"
+                ],
+                "giao_dich": [
+                    {
+                        "stt": "11",
+                        "ngay_giao_dich": "11/01/19",
+                        "mo_ta": "RUT TM CHO SHITEK",
+                        "ghi_no": 3300.0,
+                        "ghi_co": 36000000.0,
+                        "so_du": 805130.0,
+                        "nguoi_huong_chuyen": "036000000",
+                        "ngan_hang_huong_chuyen": "036000000"
+                    },
+                    {
+                        "stt": "12",
+                        "ngay_giao_dich": "1194/19",
+                        "mo_ta": "NHACO THAI NGUYEN TT TIEN",
+                        "ghi_no": 3600000.0,
+                        "ghi_co": 11880000.0,
+                        "so_du": 12685130.0,
+                        "nguoi_huong_chuyen": "SYCP OTCH TRUÔNG",
+                        "ngan_hang_huong_chuyen": "Nam trang con Kiet."
+                    },
+                    {
+                        "stt": "13",
+                        "ngay_giao_dich": "14/01/19",
+                        "mo_ta": "Ttr A/c.11.0010 109/10996",
+                        "ghi_no": 10000000.0,
+                        "ghi_co": 36000000.0,
+                        "so_du": 0.0,
+                        "nguoi_huong_chuyen": "HOANG BAO LY",
+                        "ngan_hang_huong_chuyen": "MARITIME BANK"
+                    },
+                    {
+                        "stt": "14",
+                        "ngay_giao_dich": "14/01/19",
+                        "mo_ta": "RUT TM CHO SHITEK",
+                        "ghi_no": 3300.0,
+                        "ghi_co": 36000000.0,
+                        "so_du": 2681830.0,
+                        "nguoi_huong_chuyen": "036000000",
+                        "ngan_hang_huong_chuyen": "Discomplicate"
+                    },
+                    {
+                        "stt": "15",
+                        "ngay_giao_dich": "15/01/19",
+                        "mo_ta": "CLANH CÓ TỔ THỊ ĐỘI THỊ CỘNG TRO PHÍU",
+                        "ghi_no": 0.0,
+                        "ghi_co": 9900000.0,
+                        "so_du": 0.0,
+                        "nguoi_huong_chuyen": "SACEP D VÀO NĂM GIANG",
+                        "ngan_hang_huong_chuyen": "hai pho chết hồm cn"
+                    },
+                    {
+                        "stt": "16",
+                        "ngay_giao_dich": "16/01/19",
+                        "mo_ta": "TC 41,76000102 HONDAOTO",
+                        "ghi_no": 0.0,
+                        "ghi_co": 11088000.0,
+                        "so_du": 22669830.0,
+                        "nguoi_huong_chuyen": "CHÍNH HÀNH CAN ĐỒNG",
+                        "ngan_hang_huong_chuyen": "Nhương của thầm cn"
+                    },
+                    {
+                        "stt": "17",
+                        "ngay_giao_dich": "16/91/19",
+                        "mo_ta": "TC. 41.760000101.HONDAQTO",
+                        "ghi_no": 3600000.0,
+                        "ghi_co": 3564000.0,
+                        "so_du": 0.0,
+                        "nguoi_huong_chuyen": "CHÍNH HAINH CHỈ ĐỒNG",
+                        "ngan_hang_huong_chuyen": "Nhà chia cho cho thiểm chí"
+                    },
+                    {
+                        "stt": "18",
+                        "ngay_giao_dich": "17/01/19",
+                        "mo_ta": "Ttr A/c: 11.0010.10910996",
+                        "ghi_no": 27000000.0,
+                        "ghi_co": 36000000.0,
+                        "so_du": 233830.0,
+                        "nguoi_huong_chuyen": "HOANG BAO LY",
+                        "ngan_hang_huong_chuyen": "MARITIME BANK"
+                    },
+                    {
+                        "stt": "19",
+                        "ngay_giao_dich": "17/01/19",
+                        "mo_ta": "RUT TM CHO SHITEK",
+                        "ghi_no": 3300.0,
+                        "ghi_co": 36000000.0,
+                        "so_du": 230530.0,
+                        "nguoi_huong_chuyen": "0360000003",
+                        "ngan_hang_huong_chuyen": "Discomplicate"
+                    },
+                    {
+                        "stt": "20",
+                        "ngay_giao_dich": "21/94/10",
+                        "mo_ta": "CHIẾN PHỦ THỊ THỊ THỊ THỊ THỊ THỊ THẤP NHẤN VĂN THỊ HÀ NHANH THUY THUẬN",
+                        "ghi_no": 3600000.0,
+                        "ghi_co": 14256000.0,
+                        "so_du": 14486530.0,
+                        "nguoi_huong_chuyen": "031221000010101",
+                        "ngan_hang_huong_chuyen": "Ngan hang DT Viet"
+                    },
+                    {
+                        "stt": "21",
+                        "ngay_giao_dich": "22/01/19",
+                        "mo_ta": "03501000000003",
+                        "ghi_no": 3600000.0,
+                        "ghi_co": 13607000.0,
+                        "so_du": 28098530.0,
+                        "nguoi_huong_chuyen": "CTATNH 4, TOYOTA",
+                        "ngan_hang_huong_chuyen": "Nhà cho cho vật hiệm cn"
+                    },
+                    {
+                        "stt": "22",
+                        "ngay_giao_dich": "22/01/19",
+                        "mo_ta": "RUT TM CHO SHITEK",
+                        "ghi_no": 3300.0,
+                        "ghi_co": 36000000.0,
+                        "so_du": 28090230.0,
+                        "nguoi_huong_chuyen": "036000000",
+                        "ngan_hang_huong_chuyen": "036000000"
+                    },
+                    {
+                        "stt": "23",
+                        "ngay_giao_dich": "22/01/19",
+                        "mo_ta": "Ttr A/c.11001010910996",
+                        "ghi_no": 14000000.0,
+                        "ghi_co": 36000000.0,
+                        "so_du": 14090230.0,
+                        "nguoi_huong_chuyen": "HOANG BAO LY",
+                        "ngan_hang_huong_chuyen": "MARITIME BANK"
+                    },
+                    {
+                        "stt": "24",
+                        "ngay_giao_dich": "28/01/19",
+                        "mo_ta": "RUT TM CHO SHITEK",
+                        "ghi_no": 3300.0,
+                        "ghi_co": 3600000.0,
+                        "so_du": 14086930.0,
+                        "nguoi_huong_chuyen": "Deconcession",
+                        "ngan_hang_huong_chuyen": "036000000"
+                    },
+                    {
+                        "stt": "25",
+                        "ngay_giao_dich": "28101/19",
+                        "mo_ta": "Ttr A%c.11.0010 10910996",
+                        "ghi_no": 14000000.0,
+                        "ghi_co": 36000000.0,
+                        "so_du": 86930.0,
+                        "nguoi_huong_chuyen": "HOANG BAO LY",
+                        "ngan_hang_huong_chuyen": "MARITIME BANK"
+                    },
+                    {
+                        "stt": "26",
+                        "ngay_giao_dich": "24101/19",
+                        "mo_ta": "THEO THE PHOT THE THE THU THANH AXAC BO PHING",
+                        "ghi_no": 3600000.0,
+                        "ghi_co": 50250000.0,
+                        "so_du": 0.0,
+                        "nguoi_huong_chuyen": "CNSTXCPDVOTO",
+                        "ngan_hang_huong_chuyen": "NHÀ DÙNG VIỆT HIỂM CN"
+                    },
+                    {
+                        "stt": "27",
+                        "ngay_giao_dich": "200119",
+                        "mo_ta": "03600000300035",
+                        "ghi_no": 0.0,
+                        "ghi_co": 0.0,
+                        "so_du": 0.0,
+                        "nguoi_huong_chuyen": "CÔNG TY THANH",
+                        "ngan_hang_huong_chuyen": "MICHONOCCO - 2002 đã THanh"
+                    }
+                ],
+                "tong_ket": {
+                    "tong_ghi_no": 0.0,
+                    "tong_ghi_co": 0.0
+                }
+            }
+        }
+    },
+    {
+        "image": "D:/Private/Project/kaggle/VietOCR/ocr_with_normal_table/output/json\\images\\page_MSBbank_3.jpg",
+        "ground_truth": {
+            "gt_parse": {
+                "ten_ngan_hang": "",
+                "ma_khach_hang": "",
+                "thong_tin_tai_khoan": {
+                    "ten_chu_tai_khoan": "",
+                    "so_tai_khoan": "",
+                    "kinh_gui": "",
+                    "mst_khach_hang": "",
+                    "so_du_dau": 0.0
+                },
+                "ten_cac_cot": [
+                    "STT",
+                    "Ngày/Date",
+                    "Mô tả/Description",
+                    "Ghi nợ/Debt",
+                    "Ghi có/Credit",
+                    "Số dư/Balance",
+                    "Ng.hưởng/chuyển",
+                    "NH.hưởng/chuyển"
+                ],
+                "giao_dich": [
+                    {
+                        "stt": "22",
+                        "ngay_giao_dich": "2004.",
+                        "mo_ta": "PROPOSPORTIONERAL",
+                        "ghi_no": 182000.0,
+                        "ghi_co": 1.0,
+                        "so_du": 0.0,
+                        "nguoi_huong_chuyen": "CÔNG TY TRANH",
+                        "ngan_hang_huong_chuyen": "chính thược có ranh đã mói"
+                    },
+                    {
+                        "stt": "20",
+                        "ngay_giao_dich": "negger",
+                        "mo_ta": "0360000000055",
+                        "ghi_no": 1.0,
+                        "ghi_co": 0.0,
+                        "so_du": 0.0,
+                        "nguoi_huong_chuyen": "superconsectruôns",
+                        "ngan_hang_huong_chuyen": "HOMETRON"
+                    },
+                    {
+                        "stt": "30",
+                        "ngay_giao_dich": "26/01/19",
+                        "mo_ta": "Ttr A/c.110010.10910996",
+                        "ghi_no": 40000000.0,
+                        "ghi_co": 36000000.0,
+                        "so_du": 384730.0,
+                        "nguoi_huong_chuyen": "HOANG BAO LY",
+                        "ngan_hang_huong_chuyen": "MARITIME BANK"
+                    },
+                    {
+                        "stt": "31",
+                        "ngay_giao_dich": "26/01/19",
+                        "mo_ta": "RUT TM CHO CTY SHITEK",
+                        "ghi_no": 3300.0,
+                        "ghi_co": 36000000.0,
+                        "so_du": 381430.0,
+                        "nguoi_huong_chuyen": "036000000",
+                        "ngan_hang_huong_chuyen": "Discomplicate"
+                    },
+                    {
+                        "stt": "32",
+                        "ngay_giao_dich": "22/01/19",
+                        "mo_ta": "THÁCO THAL NGUYÊN TƯ",
+                        "ghi_no": 3600000.0,
+                        "ghi_co": 7128000.0,
+                        "so_du": 7509430.0,
+                        "nguoi_huong_chuyen": "STYCHOTOTRUONG",
+                        "ngan_hang_huong_chuyen": "NHOT:PT VN Viet"
+                    },
+                    {
+                        "stt": "-",
+                        "ngay_giao_dich": "nancer",
+                        "mo_ta": "",
+                        "ghi_no": 0.0,
+                        "ghi_co": 0.0,
+                        "so_du": 0.0,
+                        "nguoi_huong_chuyen": "",
+                        "ngan_hang_huong_chuyen": "\"\"\"\"\""
+                    },
+                    {
+                        "stt": "-",
+                        "ngay_giao_dich": "mater",
+                        "mo_ta": "1",
+                        "ghi_no": 0.0,
+                        "ghi_co": 0.0,
+                        "so_du": 0.0,
+                        "nguoi_huong_chuyen": "",
+                        "ngan_hang_huong_chuyen": "\"\""
+                    },
+                    {
+                        "stt": "35",
+                        "ngay_giao_dich": "30/01/79",
+                        "mo_ta": "TOYOTAHA DONG TT CÔNG",
+                        "ghi_no": 3600000.0,
+                        "ghi_co": 28235000.0,
+                        "so_du": 31739430.0,
+                        "nguoi_huong_chuyen": "STINH TOYOTA HA",
+                        "ngan_hang_huong_chuyen": "Nhưng cơ CộP Ho Chi"
+                    },
+                    {
+                        "stt": "26",
+                        "ngay_giao_dich": "augyr",
+                        "mo_ta": "03001000000000155",
+                        "ghi_no": 0.0,
+                        "ghi_co": 0.0,
+                        "so_du": 0.0,
+                        "nguoi_huong_chuyen": "CHUNG TQUYỀN HỘI",
+                        "ngan_hang_huong_chuyen": "Han Thich Hay Diraction"
+                    }
+                ],
+                "tong_ket": {
+                    "tong_ghi_no": 0.0,
+                    "tong_ghi_co": 0.0
+                }
+            }
+        }
+    },
+    {
+        "image": "D:/Private/Project/kaggle/VietOCR/ocr_with_normal_table/output/json\\images\\page_MSBbank_4.jpg",
+        "ground_truth": {
+            "gt_parse": {
+                "ten_ngan_hang": "",
+                "ma_khach_hang": "",
+                "thong_tin_tai_khoan": {
+                    "ten_chu_tai_khoan": "",
+                    "so_tai_khoan": "",
+                    "kinh_gui": "",
+                    "mst_khach_hang": "",
+                    "so_du_dau": 0.0
+                },
+                "ten_cac_cot": [
+                    "STT",
+                    "Ngày/Date",
+                    "Mô tả/Description",
+                    "Ghi nợ/Debt",
+                    "Ghi có/Credit",
+                    "Số dư/Balance",
+                    "Ng.hưởng/chuyển",
+                    "NH.hưởng/chuyển"
+                ],
+                "giao_dich": [
+                    {
+                        "stt": "37",
+                        "ngay_giao_dich": "31/01/19",
+                        "mo_ta": "Ttr A/c.11001010910996",
+                        "ghi_no": 33000000.0,
+                        "ghi_co": 36000000.0,
+                        "so_du": 218430.0,
+                        "nguoi_huong_chuyen": "HOANG BAO LY",
+                        "ngan_hang_huong_chuyen": "MARITIME BANK"
+                    },
+                    {
+                        "stt": "38",
+                        "ngay_giao_dich": "31/01/19",
+                        "mo_ta": "Rut TM cho Shitek",
+                        "ghi_no": 3300.0,
+                        "ghi_co": 0.0,
+                        "so_du": 215130.0,
+                        "nguoi_huong_chuyen": "0360000003",
+                        "ngan_hang_huong_chuyen": "Discomplicate"
+                    },
+                    {
+                        "stt": "39",
+                        "ngay_giao_dich": "31/01/19",
+                        "mo_ta": "BÙNG DỊCH PHỤ CẢM VÀ QUA",
+                        "ghi_no": 3600000.0,
+                        "ghi_co": 14135000.0,
+                        "so_du": 14350130.0,
+                        "nguoi_huong_chuyen": "coa ginh mah.ccctt.",
+                        "ngan_hang_huong_chuyen": "Ngan hang DT Viet"
+                    },
+                    {
+                        "stt": "40",
+                        "ngay_giao_dich": "31/01/19",
+                        "mo_ta": "0360000000",
+                        "ghi_no": 55000.0,
+                        "ghi_co": 36000000.0,
+                        "so_du": 0.0,
+                        "nguoi_huong_chuyen": "036000000",
+                        "ngan_hang_huong_chuyen": "Discomplicate"
+                    },
+                    {
+                        "stt": "41",
+                        "ngay_giao_dich": "31/01/19",
+                        "mo_ta": "TRA LAI TIEN GUI KKH",
+                        "ghi_no": 36000000.0,
+                        "ghi_co": 2750.0,
+                        "so_du": 0.0,
+                        "nguoi_huong_chuyen": "036000000",
+                        "ngan_hang_huong_chuyen": "Discomplicate"
+                    },
+                    {
+                        "stt": "42",
+                        "ngay_giao_dich": "oungro",
+                        "mo_ta": "STRANSFORMATION",
+                        "ghi_no": 0.0,
+                        "ghi_co": 0.0,
+                        "so_du": 0.0,
+                        "nguoi_huong_chuyen": "CHUNG TỪ HELLOWING",
+                        "ngan_hang_huong_chuyen": "chỉ thực côn giảm cho"
+                    },
+                    {
+                        "stt": "43",
+                        "ngay_giao_dich": "09/02/19",
+                        "mo_ta": "Rut TM cho Shitek",
+                        "ghi_no": 3300.0,
+                        "ghi_co": 36000000.0,
+                        "so_du": 21169580.0,
+                        "nguoi_huong_chuyen": "036000000",
+                        "ngan_hang_huong_chuyen": "Discomplicate"
+                    },
+                    {
+                        "stt": "44",
+                        "ngay_giao_dich": "09/02/19",
+                        "mo_ta": "Ttr A/c.11001010910996",
+                        "ghi_no": 21000000.0,
+                        "ghi_co": 36000000.0,
+                        "so_du": 169580.0,
+                        "nguoi_huong_chuyen": "HOANG BAO LY",
+                        "ngan_hang_huong_chuyen": "MAIRITIME BANK"
+                    },
+                    {
+                        "stt": "48",
+                        "ngay_giao_dich": "avogra",
+                        "mo_ta": "03500100189660010010011660",
+                        "ghi_no": 0.0,
+                        "ghi_co": 8430400000.0,
+                        "so_du": 0.0,
+                        "nguoi_huong_chuyen": "Có Lược Phát Đồng Tàu",
+                        "ngan_hang_huong_chuyen": "một chương công tiếm cho"
+                    },
+                    {
+                        "stt": ".0",
+                        "ngay_giao_dich": "maggers",
+                        "mo_ta": "supercontractionalists",
+                        "ghi_no": 1.0,
+                        "ghi_co": 0.0,
+                        "so_du": 0.0,
+                        "nguoi_huong_chuyen": "BERREAKENED",
+                        "ngan_hang_huong_chuyen": "nguyễn thoan"
+                    },
+                    {
+                        "stt": "47",
+                        "ngay_giao_dich": "27102/19",
+                        "mo_ta": "Ttr A/c.11001010910996",
+                        "ghi_no": 6000000.0,
+                        "ghi_co": 36000000.0,
+                        "so_du": 10383580.0,
+                        "nguoi_huong_chuyen": "HOANG BAO LY",
+                        "ngan_hang_huong_chuyen": "MARITIME BANK"
+                    },
+                    {
+                        "stt": "48",
+                        "ngay_giao_dich": "27102/19",
+                        "mo_ta": "Rut TM cho Shitek",
+                        "ghi_no": 3300.0,
+                        "ghi_co": 36000000.0,
+                        "so_du": 10380280.0,
+                        "nguoi_huong_chuyen": "036000000",
+                        "ngan_hang_huong_chuyen": "Discomplicate"
+                    },
+                    {
+                        "stt": "49",
+                        "ngay_giao_dich": "221992/10",
+                        "mo_ta": "Cao2nan2zzrasasasasa09/Thanh toan",
+                        "ghi_no": 13200.0,
+                        "ghi_co": 0.0,
+                        "so_du": 10367080.0,
+                        "nguoi_huong_chuyen": "CÔNG TY TNHH",
+                        "ngan_hang_huong_chuyen": "Petrollmex CHP Hà noi"
+                    },
+                    {
+                        "stt": "50",
+                        "ngay_giao_dich": "22/1992/10",
+                        "mo_ta": "Cao2man2zz7.858.809/Thạnh toan",
+                        "ghi_no": 10000000.0,
+                        "ghi_co": 0.0,
+                        "so_du": 367060.0,
+                        "nguoi_huong_chuyen": "CÔNG TY TNHH",
+                        "ngan_hang_huong_chuyen": "Petrolimex CHP Hà noi"
+                    },
+                    {
+                        "stt": "51",
+                        "ngay_giao_dich": "22/102/19",
+                        "mo_ta": "CHARCH TO THE NGA PACO KIM",
+                        "ghi_no": 3600000.0,
+                        "ghi_co": 40590000.0,
+                        "so_du": 40957080.0,
+                        "nguoi_huong_chuyen": "SACEP DY O NĂM GIANG",
+                        "ngan_hang_huong_chuyen": "NHUTMCP NGOALD"
+                    }
+                ],
+                "tong_ket": {
+                    "tong_ghi_no": 0.0,
+                    "tong_ghi_co": 0.0
+                }
+            }
+        }
+    },
+    {
+        "image": "D:/Private/Project/kaggle/VietOCR/ocr_with_normal_table/output/json\\images\\page_MSBbank_5.jpg",
+        "ground_truth": {
+            "gt_parse": {
+                "ten_ngan_hang": "",
+                "ma_khach_hang": "",
+                "thong_tin_tai_khoan": {
+                    "ten_chu_tai_khoan": "",
+                    "so_tai_khoan": "",
+                    "kinh_gui": "",
+                    "mst_khach_hang": "",
+                    "so_du_dau": 0.0
+                },
+                "ten_cac_cot": [
+                    "STT",
+                    "Ngày/Date",
+                    "Mô tả/Description",
+                    "Ghi nợ/Debt",
+                    "Ghi có/Credit",
+                    "Số dư/Balance",
+                    "Ng.hưởng/chuyển",
+                    "NH.hưởng/chuyển"
+                ],
+                "giao_dich": [
+                    {
+                        "stt": "52",
+                        "ngay_giao_dich": "28092719",
+                        "mo_ta": "HOA XE 22 TỔI, TOAN A XAC DO PHÚC",
+                        "ghi_no": 3600000.0,
+                        "ghi_co": 32655000.0,
+                        "so_du": 78612080.0,
+                        "nguoi_huong_chuyen": "INSTXEP DYOTO",
+                        "ngan_hang_huong_chuyen": "Nhương Việt Hiểm CN"
+                    },
+                    {
+                        "stt": "53",
+                        "ngay_giao_dich": "22/02/19",
+                        "mo_ta": "MOGNETCH FORDTHANGLONG",
+                        "ghi_no": 0.0,
+                        "ghi_co": 3146000.0,
+                        "so_du": 76758060.0,
+                        "nguoi_huong_chuyen": "MCCANCTCPFORDTHA",
+                        "ngan_hang_huong_chuyen": "Nhưng cơ CộP Ho Chi"
+                    },
+                    {
+                        "stt": "54",
+                        "ngay_giao_dich": "28/02/19",
+                        "mo_ta": "0360000000",
+                        "ghi_no": 55000.0,
+                        "ghi_co": 38000000.0,
+                        "so_du": 76703080.0,
+                        "nguoi_huong_chuyen": "036000000",
+                        "ngan_hang_huong_chuyen": "Discomplicate"
+                    },
+                    {
+                        "stt": "55",
+                        "ngay_giao_dich": "28/02/19",
+                        "mo_ta": "TRA LAI TIEN GUI KKH",
+                        "ghi_no": 36000000.0,
+                        "ghi_co": 1948.0,
+                        "so_du": 76705028.0,
+                        "nguoi_huong_chuyen": "036000000",
+                        "ngan_hang_huong_chuyen": "Discomplicate"
+                    },
+                    {
+                        "stt": "...",
+                        "ngay_giao_dich": "outgage",
+                        "mo_ta": "0360000000035",
+                        "ghi_no": 1.0,
+                        "ghi_co": 200000000.0,
+                        "so_du": 0.0,
+                        "nguoi_huong_chuyen": "NEGERLEM HAI",
+                        "ngan_hang_huong_chuyen": "Hypnoconny Thuong"
+                    },
+                    {
+                        "stt": "57",
+                        "ngay_giao_dich": "05/03/19",
+                        "mo_ta": "Ttr A/c.11.001010910996",
+                        "ghi_no": 78000000.0,
+                        "ghi_co": 36000000.0,
+                        "so_du": 795028.0,
+                        "nguoi_huong_chuyen": "HOANG BAO LY",
+                        "ngan_hang_huong_chuyen": "MARITIME BANK"
+                    },
+                    {
+                        "stt": "58",
+                        "ngay_giao_dich": "05/03/19",
+                        "mo_ta": "RUT TM CHO SHITEK",
+                        "ghi_no": 3300.0,
+                        "ghi_co": 36000000.0,
+                        "so_du": 791728.0,
+                        "nguoi_huong_chuyen": "036000000",
+                        "ngan_hang_huong_chuyen": "Discomplicate"
+                    },
+                    {
+                        "stt": "59",
+                        "ngay_giao_dich": "05/03/10",
+                        "mo_ta": "CHARCH AN CONTRANH AN 2.2.2001 NINT",
+                        "ghi_no": 3600000.0,
+                        "ghi_co": 11330000.0,
+                        "so_du": 12121728.0,
+                        "nguoi_huong_chuyen": "SACEP D VÀ KIM GIANG",
+                        "ngan_hang_huong_chuyen": "NHƯ TMC P. Mogal"
+                    },
+                    {
+                        "stt": "60",
+                        "ngay_giao_dich": "06/03/10",
+                        "mo_ta": "PHU NANO TOI/2019VVK",
+                        "ghi_no": 3600000.0,
+                        "ghi_co": 3000000.0,
+                        "so_du": 15121728.0,
+                        "nguoi_huong_chuyen": "CTYCROVOTO",
+                        "ngan_hang_huong_chuyen": "Nhưng cơ CộP Ho Chi"
+                    },
+                    {
+                        "stt": "61",
+                        "ngay_giao_dich": "08/03/19",
+                        "mo_ta": "VÀ CÓ NGOÀN CHIÊU AND THIÊN",
+                        "ghi_no": 3600000.0,
+                        "ghi_co": 1210000.0,
+                        "so_du": 16331728.0,
+                        "nguoi_huong_chuyen": "031762010101018",
+                        "ngan_hang_huong_chuyen": "NHOTEPTVN CN TP"
+                    },
+                    {
+                        "stt": "62",
+                        "ngay_giao_dich": "02/0.719",
+                        "mo_ta": "9082 PPP.O 50805722247 CNO SHATTEK",
+                        "ghi_no": 360000.0,
+                        "ghi_co": 18106000.0,
+                        "so_du": 0.0,
+                        "nguoi_huong_chuyen": "031162100000107",
+                        "ngan_hang_huong_chuyen": "GIHO TAPT VN CN SO"
+                    },
+                    {
+                        "stt": "63",
+                        "ngay_giao_dich": "\"1952.0",
+                        "mo_ta": "CHÍNH THỊ THỊ THỊ THỊ THỊ THUẬT",
+                        "ghi_no": 0.0,
+                        "ghi_co": 0.0,
+                        "so_du": 0.0,
+                        "nguoi_huong_chuyen": "SLOOMSLEGYOTA",
+                        "ngan_hang_huong_chuyen": "PHÓ THỊ CHỈ THỊ THỊ THỊ THỊ TIỀM CN"
+                    },
+                    {
+                        "stt": "64",
+                        "ngay_giao_dich": "11/03/19",
+                        "mo_ta": "BAO DUONG MAY HAD 180CH TV",
+                        "ghi_no": 3600000.0,
+                        "ghi_co": 7150000.0,
+                        "so_du": 0.0,
+                        "nguoi_huong_chuyen": "STY TRAH MOTOR NA",
+                        "ngan_hang_huong_chuyen": "A HISSO CHO PHO DONG NAM"
+                    },
+                    {
+                        "stt": "65",
+                        "ngay_giao_dich": "11/03/19",
+                        "mo_ta": "Tfr A/c: 110010 10910996",
+                        "ghi_no": 40000000.0,
+                        "ghi_co": 36000000.0,
+                        "so_du": 8407728.0,
+                        "nguoi_huong_chuyen": "HOANG BAO LY",
+                        "ngan_hang_huong_chuyen": "MARITIME BANK"
+                    },
+                    {
+                        "stt": "66",
+                        "ngay_giao_dich": "11/03/19",
+                        "mo_ta": "RUT TM CHO SHITEK",
+                        "ghi_no": 3300.0,
+                        "ghi_co": 36000000.0,
+                        "so_du": 8404428.0,
+                        "nguoi_huong_chuyen": "036000000",
+                        "ngan_hang_huong_chuyen": "Discomplicate"
+                    }
+                ],
+                "tong_ket": {
+                    "tong_ghi_no": 0.0,
+                    "tong_ghi_co": 0.0
+                }
+            }
+        }
+    },
+    {
+        "image": "D:/Private/Project/kaggle/VietOCR/ocr_with_normal_table/output/json\\images\\page_MSBbank_6.jpg",
+        "ground_truth": {
+            "gt_parse": {
+                "ten_ngan_hang": "",
+                "ma_khach_hang": "",
+                "thong_tin_tai_khoan": {
+                    "ten_chu_tai_khoan": "",
+                    "so_tai_khoan": "",
+                    "kinh_gui": "",
+                    "mst_khach_hang": "",
+                    "so_du_dau": 0.0
+                },
+                "ten_cac_cot": [
+                    "STT",
+                    "Ngày/Date",
+                    "Mô tả/Description",
+                    "Ghi nợ/Debt",
+                    "Ghi có/Credit",
+                    "Số dư/Balance",
+                    "Ng.hưởng/chuyển",
+                    "NH.hưởng/chuyển"
+                ],
+                "giao_dich": [
+                    {
+                        "stt": "67",
+                        "ngay_giao_dich": "roppers",
+                        "mo_ta": "THUẬT THỊ THỊ THƯỜNG CHẤP ĐỀ THỊ THƯỜNG THỊ THỨC THỊ THỊ THỊ",
+                        "ghi_no": 1.0,
+                        "ghi_co": 0.0,
+                        "so_du": 0.0,
+                        "nguoi_huong_chuyen": "CONSEXTENSION",
+                        "ngan_hang_huong_chuyen": "một trong chủ thiểm con"
+                    },
+                    {
+                        "stt": "68",
+                        "ngay_giao_dich": "18/03/19",
+                        "mo_ta": "RUT TM CHO SHITEK",
+                        "ghi_no": 3300.0,
+                        "ghi_co": 3600000.0,
+                        "so_du": 241722035.0,
+                        "nguoi_huong_chuyen": "036000000",
+                        "ngan_hang_huong_chuyen": "Discomplicate"
+                    },
+                    {
+                        "stt": "69",
+                        "ngay_giao_dich": "18/03/19",
+                        "mo_ta": "Ttr A/c: 11.0010.0910996",
+                        "ghi_no": 240000000.0,
+                        "ghi_co": 36000000.0,
+                        "so_du": 1722035.0,
+                        "nguoi_huong_chuyen": "HOANG BAO LY",
+                        "ngan_hang_huong_chuyen": "MARITIME BANK"
+                    },
+                    {
+                        "stt": "r.",
+                        "ngay_giao_dich": "nesser",
+                        "mo_ta": "036000000005",
+                        "ghi_no": 1.0,
+                        "ghi_co": 0.0,
+                        "so_du": 0.0,
+                        "nguoi_huong_chuyen": "REFRUILTOWORK",
+                        "ngan_hang_huong_chuyen": "chế gồm cao"
+                    },
+                    {
+                        "stt": "71",
+                        "ngay_giao_dich": "20/03/19",
+                        "mo_ta": "Ttr A/c: 11.0010.10910996",
+                        "ghi_no": 94000000.0,
+                        "ghi_co": 36000000.0,
+                        "so_du": 292535.0,
+                        "nguoi_huong_chuyen": "HOANG BAO LY",
+                        "ngan_hang_huong_chuyen": "MARITIME BANK"
+                    },
+                    {
+                        "stt": "72",
+                        "ngay_giao_dich": "20/03/19",
+                        "mo_ta": "RUT TM CHO SHITEK",
+                        "ghi_no": 3300.0,
+                        "ghi_co": 36000000.0,
+                        "so_du": 289235.0,
+                        "nguoi_huong_chuyen": "036000000",
+                        "ngan_hang_huong_chuyen": "Discomplicate"
+                    },
+                    {
+                        "stt": "72",
+                        "ngay_giao_dich": "299.300",
+                        "mo_ta": "Trong thuy bung cu như chiến chế",
+                        "ghi_no": 1.0,
+                        "ghi_co": 0.0,
+                        "so_du": 88764736.0,
+                        "nguoi_huong_chuyen": "CONSEXTRUS BIỂN",
+                        "ngan_hang_huong_chuyen": "một cho chí chế giớm cn"
+                    },
+                    {
+                        "stt": "74",
+                        "ngay_giao_dich": "2999gy15",
+                        "mo_ta": "0360000003000337",
+                        "ghi_no": 0.0,
+                        "ghi_co": 0.0,
+                        "so_du": 0.0,
+                        "nguoi_huong_chuyen": "CÔNG TY TRANH",
+                        "ngan_hang_huong_chuyen": "PHÁT THỊ CÁC THIỆP ĐẤT NGHỊ THỊ THUỔI"
+                    },
+                    {
+                        "stt": "75",
+                        "ngay_giao_dich": "2999gy15",
+                        "mo_ta": "03600000036000327",
+                        "ghi_no": 0.0,
+                        "ghi_co": 0.0,
+                        "so_du": 0.0,
+                        "nguoi_huong_chuyen": "CÔNG TY TRANH",
+                        "ngan_hang_huong_chuyen": "HERTHACLE YAND đã \" MOI"
+                    },
+                    {
+                        "stt": "76",
+                        "ngay_giao_dich": "22193/19",
+                        "mo_ta": "HỌC THẾ 200, TOÀN AN 2....000 PHÚC",
+                        "ghi_no": 3600000.0,
+                        "ghi_co": 25335000.0,
+                        "so_du": 0.0,
+                        "nguoi_huong_chuyen": "CNSTYSPDYOTO",
+                        "ngan_hang_huong_chuyen": "chiến chong cho thiểm cn"
+                    },
+                    {
+                        "stt": "77",
+                        "ngay_giao_dich": "22198710",
+                        "mo_ta": "03602 TRONG 27 BABO1) THANH",
+                        "ghi_no": 0.0,
+                        "ghi_co": 0.0,
+                        "so_du": 0.0,
+                        "nguoi_huong_chuyen": "CẦU TU - K50 PHIAN",
+                        "ngan_hang_huong_chuyen": "NHH TMCP Quan doi"
+                    },
+                    {
+                        "stt": "78",
+                        "ngay_giao_dich": "27194719",
+                        "mo_ta": "036233 THO SÉ7 BA 001) THANH",
+                        "ghi_no": 13200.0,
+                        "ghi_co": 0.0,
+                        "so_du": 0.0,
+                        "nguoi_huong_chuyen": "CẦU TU - NGÔ PHIAN",
+                        "ngan_hang_huong_chuyen": "NH TMCP Quan doi"
+                    },
+                    {
+                        "stt": "79",
+                        "ngay_giao_dich": "nagoryzo",
+                        "mo_ta": "THỊ THỊ THỊ THỊ THỊ THỊ THỊ THỊ THUẬN THUẬN THỊ THỊ THỊ THỊ THỊ THỊ THỊ THỊ THỊ THỊ THỊ THỊ THỊ THỊ THỊ THỊ THỊ THỊ THỊ THỊ THỊ T",
+                        "ghi_no": 1.0,
+                        "ghi_co": 0.0,
+                        "so_du": 0.0,
+                        "nguoi_huong_chuyen": "SUCCURGERATIONAL",
+                        "ngan_hang_huong_chuyen": "chịch tiếm cn"
+                    }
+                ],
+                "tong_ket": {
+                    "tong_ghi_no": 0.0,
+                    "tong_ghi_co": 0.0
+                }
+            }
+        }
+    },
+    {
+        "image": "D:/Private/Project/kaggle/VietOCR/ocr_with_normal_table/output/json\\images\\page_MSBbank_7.jpg",
+        "ground_truth": {
+            "gt_parse": {
+                "ten_ngan_hang": "",
+                "ma_khach_hang": "",
+                "thong_tin_tai_khoan": {
+                    "ten_chu_tai_khoan": "",
+                    "so_tai_khoan": "",
+                    "kinh_gui": "",
+                    "mst_khach_hang": "",
+                    "so_du_dau": 0.0
+                },
+                "ten_cac_cot": [
+                    "STT",
+                    "Ngày/Date",
+                    "Mô tả/Description",
+                    "Ghi nợ/Debt",
+                    "Ghi có/Credit",
+                    "Số dư/Balance",
+                    "Ng.hưởng/chuyển",
+                    "NH.hưởng/chuyển"
+                ],
+                "giao_dich": [
+                    {
+                        "stt": "30",
+                        "ngay_giao_dich": "28108719",
+                        "mo_ta": "aran poon thiep thong thon 1004 vao tai.",
+                        "ghi_no": 3600000.0,
+                        "ghi_co": 50000000.0,
+                        "so_du": 76465335.0,
+                        "nguoi_huong_chuyen": "HOANG BAO LY",
+                        "ngan_hang_huong_chuyen": "MARITIME BANK"
+                    },
+                    {
+                        "stt": "21",
+                        "ngay_giao_dich": "annayze",
+                        "mo_ta": "THUYỀN THỊ THỊ THỊ HOẠNH PHỤ THỊ THUẬN THUẬN TÂM",
+                        "ghi_no": 1220000.0,
+                        "ghi_co": 0.0,
+                        "so_du": 76462.08,
+                        "nguoi_huong_chuyen": "CONGLY TRANH NIT",
+                        "ngan_hang_huong_chuyen": "VP Bank CHỉ Hoa Hoá"
+                    },
+                    {
+                        "stt": "02",
+                        "ngay_giao_dich": "2000gger",
+                        "mo_ta": "THUYỀN THỊ THỊ THỊ HOẠNG THỊ TIẾK TAM",
+                        "ghi_no": 0.0,
+                        "ghi_co": 0.0,
+                        "so_du": 0.0,
+                        "nguoi_huong_chuyen": "CONGLY TRANH NIT",
+                        "ngan_hang_huong_chuyen": "VP Buok Chỉ Ha Hoá"
+                    },
+                    {
+                        "stt": "33",
+                        "ngay_giao_dich": "29/05/19",
+                        "mo_ta": "CUỐC THUÊN XÃ THỊ HAI VỊ CHO",
+                        "ghi_no": 3600000.0,
+                        "ghi_co": 40161000.0,
+                        "so_du": 46431210.0,
+                        "nguoi_huong_chuyen": "TX TỈNH MTYTEL",
+                        "ngan_hang_huong_chuyen": "CHI THMCP Quan doi"
+                    },
+                    {
+                        "stt": "84",
+                        "ngay_giao_dich": "31/03/19",
+                        "mo_ta": "TRA LAI TIEN GUI KKH",
+                        "ghi_no": 36000000.0,
+                        "ghi_co": 4706.0,
+                        "so_du": 46435916.0,
+                        "nguoi_huong_chuyen": "036000000",
+                        "ngan_hang_huong_chuyen": "Discomplicate"
+                    },
+                    {
+                        "stt": "85",
+                        "ngay_giao_dich": "31/03/19",
+                        "mo_ta": "0360000000",
+                        "ghi_no": 55000.0,
+                        "ghi_co": 36000000.0,
+                        "so_du": 0.0,
+                        "nguoi_huong_chuyen": "036000000",
+                        "ngan_hang_huong_chuyen": "Discomplicate"
+                    },
+                    {
+                        "stt": "36",
+                        "ngay_giao_dich": "01/04/10",
+                        "mo_ta": "thach toan muoc cat tu thang",
+                        "ghi_no": 3600000.0,
+                        "ghi_co": 6875000.0,
+                        "so_du": 0.0,
+                        "nguoi_huong_chuyen": "TRÊN PHA NƠI CÔNG",
+                        "ngan_hang_huong_chuyen": "NHO TEPT VN CN SO"
+                    },
+                    {
+                        "stt": "87",
+                        "ngay_giao_dich": "02/04/19",
+                        "mo_ta": "THEOSPHODOSTRICOLO VOTATIONS",
+                        "ghi_no": 3600000.0,
+                        "ghi_co": 12760000.0,
+                        "so_du": 0.0,
+                        "nguoi_huong_chuyen": "CONG TY LONG 'BIEN",
+                        "ngan_hang_huong_chuyen": "NHUTMOP MCOALD"
+                    },
+                    {
+                        "stt": "88",
+                        "ngay_giao_dich": "02/04/19",
+                        "mo_ta": "Ttr A/c: 11001010910996",
+                        "ghi_no": 10000000.0,
+                        "ghi_co": 36000000.0,
+                        "so_du": 56015916.0,
+                        "nguoi_huong_chuyen": "HOANG BAO LY",
+                        "ngan_hang_huong_chuyen": "MARITIME BANK"
+                    },
+                    {
+                        "stt": "89",
+                        "ngay_giao_dich": "02/04/19",
+                        "mo_ta": "RUT TM CTY SHITEK",
+                        "ghi_no": 3300.0,
+                        "ghi_co": 36000000.0,
+                        "so_du": 56012616.0,
+                        "nguoi_huong_chuyen": "036000000",
+                        "ngan_hang_huong_chuyen": "Discomplicate"
+                    },
+                    {
+                        "stt": "90",
+                        "ngay_giao_dich": "04/04/19",
+                        "mo_ta": "Ttr Alc.11001010910996",
+                        "ghi_no": 56000000.0,
+                        "ghi_co": 0.0,
+                        "so_du": 12616.0,
+                        "nguoi_huong_chuyen": "HOANG BAO LY",
+                        "ngan_hang_huong_chuyen": "MARITIME BANK"
+                    },
+                    {
+                        "stt": "91",
+                        "ngay_giao_dich": "04/04/19",
+                        "mo_ta": "RUT TM CHO SHITEK",
+                        "ghi_no": 3300.0,
+                        "ghi_co": 36000000.0,
+                        "so_du": 9316.0,
+                        "nguoi_huong_chuyen": "036000000",
+                        "ngan_hang_huong_chuyen": "Discomplicate"
+                    },
+                    {
+                        "stt": "92",
+                        "ngay_giao_dich": "04/04/19",
+                        "mo_ta": "HOA BICHODO/ANH CHOTOV",
+                        "ghi_no": 3600000.0,
+                        "ghi_co": 5544000.0,
+                        "so_du": 5658316.0,
+                        "nguoi_huong_chuyen": "CHÍNH HÀNH CHI PHÓ",
+                        "ngan_hang_huong_chuyen": "hai pho việt hầm cn"
+                    },
+                    {
+                        "stt": "03",
+                        "ngay_giao_dich": "100410",
+                        "mo_ta": "PHONG CÁC THIẾN ĐƯỢC THÔM CHÍ",
+                        "ghi_no": 0.0,
+                        "ghi_co": 0.0,
+                        "so_du": 0.0,
+                        "nguoi_huong_chuyen": "1",
+                        "ngan_hang_huong_chuyen": "Chick"
+                    },
+                    {
+                        "stt": "94",
+                        "ngay_giao_dich": "17/04/19",
+                        "mo_ta": "THERRESCONTORION BAN SAO PHAP SAU PHAP SAN 18.2001.201.001.001.5",
+                        "ghi_no": 3600000.0,
+                        "ghi_co": 40495000.0,
+                        "so_du": 54859316.0,
+                        "nguoi_huong_chuyen": "CNSTYSPDYOTO",
+                        "ngan_hang_huong_chuyen": "phám chong cho vật hiểm cn"
+                    },
+                    {
+                        "stt": "95",
+                        "ngay_giao_dich": "17/04/19",
+                        "mo_ta": "Ttr A/c: 11.0010.0910996",
+                        "ghi_no": 14000000.0,
+                        "ghi_co": 36000000.0,
+                        "so_du": 40859316.0,
+                        "nguoi_huong_chuyen": "HOANG BAO LY",
+                        "ngan_hang_huong_chuyen": "MARITIME BANK"
+                    }
+                ],
+                "tong_ket": {
+                    "tong_ghi_no": 0.0,
+                    "tong_ghi_co": 0.0
+                }
+            }
+        }
+    },
+    {
+        "image": "D:/Private/Project/kaggle/VietOCR/ocr_with_normal_table/output/json\\images\\page_MSBbank_8.jpg",
+        "ground_truth": {
+            "gt_parse": {
+                "ten_ngan_hang": "",
+                "ma_khach_hang": "",
+                "thong_tin_tai_khoan": {
+                    "ten_chu_tai_khoan": "",
+                    "so_tai_khoan": "",
+                    "kinh_gui": "",
+                    "mst_khach_hang": "",
+                    "so_du_dau": 0.0
+                },
+                "ten_cac_cot": [
+                    "STT",
+                    "Ngày/Date",
+                    "Mô tả/Description",
+                    "Ghi nợ/Debt",
+                    "Ghi có/Credit",
+                    "Số dư/Balance",
+                    "Ng.hưởng/chuyển",
+                    "NH.hưởng/chuyển"
+                ],
+                "giao_dich": [
+                    {
+                        "stt": "96",
+                        "ngay_giao_dich": "17/04/19",
+                        "mo_ta": "RUT TM CHO SHITEK",
+                        "ghi_no": 3300.0,
+                        "ghi_co": 36000000.0,
+                        "so_du": 40856016.0,
+                        "nguoi_huong_chuyen": "036000000",
+                        "ngan_hang_huong_chuyen": "036000000"
+                    },
+                    {
+                        "stt": "7",
+                        "ngay_giao_dich": "19982?",
+                        "mo_ta": "TRONG THUYỀN THỊ THỊ THỊ THỊ THỊ THỊ THỊ THỊ THỊ THỊ THỊ THỊ THỊ THỊ THỊ THỊ THỊ THỊ THỊ THỊ",
+                        "ghi_no": 1.0,
+                        "ghi_co": 0.0,
+                        "so_du": 0.0,
+                        "nguoi_huong_chuyen": "CLIMISHOTOTA",
+                        "ngan_hang_huong_chuyen": "microng to pháp"
+                    },
+                    {
+                        "stt": "98",
+                        "ngay_giao_dich": "18/04/19",
+                        "mo_ta": "CHÁCH CHOO 2. THỊ CAO CHO ĐỘNG THỊ CÁC CHO 2.",
+                        "ghi_no": 360000.0,
+                        "ghi_co": 13200000.0,
+                        "so_du": 62911016.0,
+                        "nguoi_huong_chuyen": "CÁCH PHÓ KIM GIANG",
+                        "ngan_hang_huong_chuyen": "NHƯ CHIẾN CHUYỂN THIỂM CN"
+                    },
+                    {
+                        "stt": "09",
+                        "ngay_giao_dich": "rongzo",
+                        "mo_ta": "Thời tháng thị thị thị hoàn cho chính chính thị thế",
+                        "ghi_no": 36000.0,
+                        "ghi_co": 14800000.0,
+                        "so_du": 0.0,
+                        "nguoi_huong_chuyen": "PHIẾNG TQUÊM HAI.",
+                        "ngan_hang_huong_chuyen": "Số Thuật Thị Thuận Thị - Thương"
+                    },
+                    {
+                        "stt": "100",
+                        "ngay_giao_dich": "20/04/19",
+                        "mo_ta": "Ttr Alc.11001010910996",
+                        "ghi_no": 50000009.0,
+                        "ghi_co": 3600000.0,
+                        "so_du": 14396007.0,
+                        "nguoi_huong_chuyen": "HOANG BAO LY",
+                        "ngan_hang_huong_chuyen": "MAIRITIME BANK"
+                    },
+                    {
+                        "stt": "101",
+                        "ngay_giao_dich": "20.04/19",
+                        "mo_ta": "RUT TM CHO SHITEK",
+                        "ghi_no": 3300.0,
+                        "ghi_co": 36000000.0,
+                        "so_du": 14392707.0,
+                        "nguoi_huong_chuyen": "036000000",
+                        "ngan_hang_huong_chuyen": "Discomplicate"
+                    },
+                    {
+                        "stt": "102",
+                        "ngay_giao_dich": "..2005.....",
+                        "mo_ta": "03500000000055",
+                        "ghi_no": 1.0,
+                        "ghi_co": 0.0,
+                        "so_du": 0.0,
+                        "nguoi_huong_chuyen": "INTERRECEPT THE PROMIT",
+                        "ngan_hang_huong_chuyen": "nguyễn tiềm cao"
+                    },
+                    {
+                        "stt": "103",
+                        "ngay_giao_dich": "24104/19",
+                        "mo_ta": "CHONG TRONG ĐỘPABSOLATIRA LAI ?",
+                        "ghi_no": 10000000.0,
+                        "ghi_co": 0.0,
+                        "so_du": 5348707.0,
+                        "nguoi_huong_chuyen": "CÔNG TY TNHH",
+                        "ngan_hang_huong_chuyen": "Petrolimex CHP Hà noi"
+                    },
+                    {
+                        "stt": "104",
+                        "ngay_giao_dich": "24104/19",
+                        "mo_ta": "COSSE TRODOPABSOLANTRA LAI ?",
+                        "ghi_no": 13200.0,
+                        "ghi_co": 360000.0,
+                        "so_du": 5380507.0,
+                        "nguoi_huong_chuyen": "CÔNG TY TNHH",
+                        "ngan_hang_huong_chuyen": "PETRONICHEZ/ CNG DA NOI"
+                    },
+                    {
+                        "stt": "105",
+                        "ngay_giao_dich": "30/04/19",
+                        "mo_ta": "0360000000",
+                        "ghi_no": 55000.0,
+                        "ghi_co": 36000000.0,
+                        "so_du": 5325507.0,
+                        "nguoi_huong_chuyen": "036000000",
+                        "ngan_hang_huong_chuyen": "Discomplicate"
+                    },
+                    {
+                        "stt": "106",
+                        "ngay_giao_dich": "30/04/19",
+                        "mo_ta": "TRA LAI TIEN GUI KKH",
+                        "ghi_no": 36000000.0,
+                        "ghi_co": 3098.0,
+                        "so_du": 5328600.0,
+                        "nguoi_huong_chuyen": "036000000",
+                        "ngan_hang_huong_chuyen": "Discomplicate"
+                    },
+                    {
+                        "stt": "107",
+                        "ngay_giao_dich": "outpopper",
+                        "mo_ta": "036000000005",
+                        "ghi_no": 1.0,
+                        "ghi_co": 3150001646500.0,
+                        "so_du": 0.0,
+                        "nguoi_huong_chuyen": "STOKEHOUSE",
+                        "ngan_hang_huong_chuyen": "giáo gồm cn"
+                    },
+                    {
+                        "stt": "108",
+                        "ngay_giao_dich": "04/05/19",
+                        "mo_ta": "Ttr Alc.11001010910996",
+                        "ghi_no": 300000000.0,
+                        "ghi_co": 3600000.0,
+                        "so_du": 0.0,
+                        "nguoi_huong_chuyen": "HOANG BAO LY",
+                        "ngan_hang_huong_chuyen": "MAIRITIME BANK"
+                    },
+                    {
+                        "stt": "109",
+                        "ngay_giao_dich": "04/05/19",
+                        "mo_ta": "RUT TM CHO SHITEK",
+                        "ghi_no": 3300.0,
+                        "ghi_co": 36000000.0,
+                        "so_du": 16419842.0,
+                        "nguoi_huong_chuyen": "036000000",
+                        "ngan_hang_huong_chuyen": "Discomplicate"
+                    },
+                    {
+                        "stt": "110",
+                        "ngay_giao_dich": "10/05/19",
+                        "mo_ta": "Ttr A/c: 11.001010910996",
+                        "ghi_no": 16000000.0,
+                        "ghi_co": 36000000.0,
+                        "so_du": 419842.0,
+                        "nguoi_huong_chuyen": "HOANG BAO LY",
+                        "ngan_hang_huong_chuyen": "MARITIME BANK"
+                    }
+                ],
+                "tong_ket": {
+                    "tong_ghi_no": 0.0,
+                    "tong_ghi_co": 0.0
+                }
+            }
+        }
+    },
+    {
+        "image": "D:/Private/Project/kaggle/VietOCR/ocr_with_normal_table/output/json\\images\\page_MSBbank_9.jpg",
+        "ground_truth": {
+            "gt_parse": {
+                "ten_ngan_hang": "",
+                "ma_khach_hang": "",
+                "thong_tin_tai_khoan": {
+                    "ten_chu_tai_khoan": "",
+                    "so_tai_khoan": "",
+                    "kinh_gui": "",
+                    "mst_khach_hang": "",
+                    "so_du_dau": 0.0
+                },
+                "ten_cac_cot": [
+                    "STT",
+                    "Ngày/Date",
+                    "Mô tả/Description",
+                    "Ghi nợ/Debt",
+                    "Ghi có/Credit",
+                    "Số dư/Balance",
+                    "Ng.hưởng/chuyển",
+                    "NH.hưởng/chuyển"
+                ],
+                "giao_dich": [
+                    {
+                        "stt": "111",
+                        "ngay_giao_dich": "10/05/19",
+                        "mo_ta": "RUT TM CHO SHITEK",
+                        "ghi_no": 3300.0,
+                        "ghi_co": 36000000.0,
+                        "so_du": 416542.0,
+                        "nguoi_huong_chuyen": "036000000",
+                        "ngan_hang_huong_chuyen": "036000000"
+                    },
+                    {
+                        "stt": "112",
+                        "ngay_giao_dich": "12/05/19",
+                        "mo_ta": "CHARACOPTO000871 CONACTIO PHU",
+                        "ghi_no": 3600000.0,
+                        "ghi_co": 24530000.0,
+                        "so_du": 0.0,
+                        "nguoi_huong_chuyen": "SACE O VỚI KIM GIANG",
+                        "ngan_hang_huong_chuyen": "Cho cho cho cho hoa chi chinh chuy chi"
+                    },
+                    {
+                        "stt": "113",
+                        "ngay_giao_dich": "15/05/19",
+                        "mo_ta": "Ttr A/c.11.0010 109/10996",
+                        "ghi_no": 24000000.0,
+                        "ghi_co": 36000000.0,
+                        "so_du": 946542.0,
+                        "nguoi_huong_chuyen": "HOANG BAO LY",
+                        "ngan_hang_huong_chuyen": "MARITIME BANK"
+                    },
+                    {
+                        "stt": "114",
+                        "ngay_giao_dich": "15/05/19",
+                        "mo_ta": "RUT TM CHO SHITEK",
+                        "ghi_no": 3300.0,
+                        "ghi_co": 36000000.0,
+                        "so_du": 943242.0,
+                        "nguoi_huong_chuyen": "036000000",
+                        "ngan_hang_huong_chuyen": "Discomplicate"
+                    },
+                    {
+                        "stt": "11s",
+                        "ngay_giao_dich": "170920",
+                        "mo_ta": "Tổng thiếu sống các cho trong",
+                        "ghi_no": 0.0,
+                        "ghi_co": 0.0,
+                        "so_du": 0.0,
+                        "nguoi_huong_chuyen": "CÔNG TY THÀNH HAM",
+                        "ngan_hang_huong_chuyen": "marmacconcân"
+                    },
+                    {
+                        "stt": "116",
+                        "ngay_giao_dich": "17/05/19",
+                        "mo_ta": "Ttr A/c.110010 109/10996",
+                        "ghi_no": 15000009.0,
+                        "ghi_co": 36000000.0,
+                        "so_du": 943233.0,
+                        "nguoi_huong_chuyen": "HOANG BAO LY",
+                        "ngan_hang_huong_chuyen": "MARITIME BANK"
+                    },
+                    {
+                        "stt": "117",
+                        "ngay_giao_dich": "17/05/19",
+                        "mo_ta": "RUT TM CHO SHITEK",
+                        "ghi_no": 3300.0,
+                        "ghi_co": 36000000.0,
+                        "so_du": 939933.0,
+                        "nguoi_huong_chuyen": "Deconcession",
+                        "ngan_hang_huong_chuyen": "Discomplicate"
+                    },
+                    {
+                        "stt": "118",
+                        "ngay_giao_dich": "17/05/10",
+                        "mo_ta": "THACOUTHAU NGUYEN FTTTIEN",
+                        "ghi_no": 3600000.0,
+                        "ghi_co": 3540000.0,
+                        "so_du": 9619983.0,
+                        "nguoi_huong_chuyen": "STYCHOTOTRUONG",
+                        "ngan_hang_huong_chuyen": "NHĐT RPTVN CN TP"
+                    },
+                    {
+                        "stt": "119",
+                        "ngay_giao_dich": "17/05/19",
+                        "mo_ta": "HA TRONG HIEU NOP TK",
+                        "ghi_no": 36000000.0,
+                        "ghi_co": 170000000.0,
+                        "so_du": 179519983.0,
+                        "nguoi_huong_chuyen": "036000000",
+                        "ngan_hang_huong_chuyen": "Discomplicate"
+                    },
+                    {
+                        "stt": "120",
+                        "ngay_giao_dich": "17/05,19",
+                        "mo_ta": "CENCLIẬP HÀNG SCHOLITOAN",
+                        "ghi_no": 0.0,
+                        "ghi_co": 0.0,
+                        "so_du": 3692656.0,
+                        "nguoi_huong_chuyen": "SCHOLL CONCEPTS",
+                        "ngan_hang_huong_chuyen": "LADDESEEMBERG"
+                    },
+                    {
+                        "stt": "121",
+                        "ngay_giao_dich": "17/05/19",
+                        "mo_ta": "037222012211G 17/08/2019 (1)",
+                        "ghi_no": 0.0,
+                        "ghi_co": 0.0,
+                        "so_du": 0.0,
+                        "nguoi_huong_chuyen": "Charter",
+                        "ngan_hang_huong_chuyen": "Charley"
+                    },
+                    {
+                        "stt": "122",
+                        "ngay_giao_dich": "17/05/19",
+                        "mo_ta": "0322220012151NG 17/05.2010",
+                        "ghi_no": 154638.0,
+                        "ghi_co": 0.0,
+                        "so_du": 7848648.0,
+                        "nguoi_huong_chuyen": "Construction",
+                        "ngan_hang_huong_chuyen": "Charled"
+                    },
+                    {
+                        "stt": "123",
+                        "ngay_giao_dich": "18/05/19",
+                        "mo_ta": "Ttr A/c: 11.0010.0910996",
+                        "ghi_no": 7800000.0,
+                        "ghi_co": 36000000.0,
+                        "so_du": 93693.0,
+                        "nguoi_huong_chuyen": "HOANG BAO LY",
+                        "ngan_hang_huong_chuyen": "MARITIME BANK"
+                    },
+                    {
+                        "stt": "124",
+                        "ngay_giao_dich": "18/05/19",
+                        "mo_ta": "RUT TM CHO SHITEK",
+                        "ghi_no": 3300.0,
+                        "ghi_co": 36000000.0,
+                        "so_du": 90393.0,
+                        "nguoi_huong_chuyen": "036000000",
+                        "ngan_hang_huong_chuyen": "Discomplicate"
+                    },
+                    {
+                        "stt": "125",
+                        "ngay_giao_dich": "22/05/10",
+                        "mo_ta": "CHỈ LƯƠNG HIỆN DOC CHIẾN CHƯA VÂN",
+                        "ghi_no": 3600000.0,
+                        "ghi_co": 6875000.0,
+                        "so_du": 0.0,
+                        "nguoi_huong_chuyen": "TRÊN HÀ NỘI CÔNG",
+                        "ngan_hang_huong_chuyen": "NHDT:PT VN Viet"
+                    },
+                    {
+                        "stt": "126",
+                        "ngay_giao_dich": "25/05/19",
+                        "mo_ta": "RUT TM CHO SHITEK",
+                        "ghi_no": 3300.0,
+                        "ghi_co": 0.0,
+                        "so_du": 6962093.0,
+                        "nguoi_huong_chuyen": "036000000",
+                        "ngan_hang_huong_chuyen": "Discomplicate"
+                    },
+                    {
+                        "stt": "127",
+                        "ngay_giao_dich": "25/05/19",
+                        "mo_ta": "Ttr A/c.110010 10910996",
+                        "ghi_no": 6500000.0,
+                        "ghi_co": 36000000.0,
+                        "so_du": 462093.0,
+                        "nguoi_huong_chuyen": "HOANG BAO LY",
+                        "ngan_hang_huong_chuyen": "MARITIME BANK"
+                    }
+                ],
+                "tong_ket": {
+                    "tong_ghi_no": 0.0,
+                    "tong_ghi_co": 0.0
+                }
+            }
+        }
+    },
+    {
+        "image": "D:/Private/Project/kaggle/VietOCR/ocr_with_normal_table/output/json\\images\\page_MSBbank_10.jpg",
+        "ground_truth": {
+            "gt_parse": {
+                "ten_ngan_hang": "",
+                "ma_khach_hang": "",
+                "thong_tin_tai_khoan": {
+                    "ten_chu_tai_khoan": "",
+                    "so_tai_khoan": "",
+                    "kinh_gui": "",
+                    "mst_khach_hang": "",
+                    "so_du_dau": 0.0
+                },
+                "ten_cac_cot": [
+                    "STT",
+                    "Ngày/Date",
+                    "Mô tả/Description",
+                    "Ghi nợ/Debt",
+                    "Ghi có/Credit",
+                    "Số dư/Balance",
+                    "Ng.hưởng/chuyển",
+                    "NH.hưởng/chuyển"
+                ],
+                "giao_dich": [
+                    {
+                        "stt": "126",
+                        "ngay_giao_dich": "28105/19",
+                        "mo_ta": "HOA XE 33 TỔI, TOÀN HÀ XAC ĐO PHÚC",
+                        "ghi_no": 3600000.0,
+                        "ghi_co": 29395000.0,
+                        "so_du": 29797048.0,
+                        "nguoi_huong_chuyen": "INSTXGPDYOTO",
+                        "ngan_hang_huong_chuyen": "Nhương Côn Thiểm CN"
+                    },
+                    {
+                        "stt": "120",
+                        "ngay_giao_dich": "290520",
+                        "mo_ta": "00931 Các Và Các Tước Thuận Huấn",
+                        "ghi_no": 0.0,
+                        "ghi_co": 0.0,
+                        "so_du": 0.0,
+                        "nguoi_huong_chuyen": "CÔNG TY THANH",
+                        "ngan_hang_huong_chuyen": "CHUNDAGE THEO THEO ĐÃ THƠI"
+                    },
+                    {
+                        "stt": "1.0",
+                        "ngay_giao_dich": "2990520",
+                        "mo_ta": "03333 CỐC VÀ CHÍ TƯỚC PHUẨN",
+                        "ghi_no": 182000.0,
+                        "ghi_co": 0.0,
+                        "so_du": 0.0,
+                        "nguoi_huong_chuyen": "CÔNG TY THANH",
+                        "ngan_hang_huong_chuyen": "chính thược các ranh đã mói"
+                    },
+                    {
+                        "stt": "131",
+                        "ngay_giao_dich": "29/05/19",
+                        "mo_ta": "Ttr A/c: 11.0010.0910996",
+                        "ghi_no": 19000000.0,
+                        "ghi_co": 36000000.0,
+                        "so_du": 783893.0,
+                        "nguoi_huong_chuyen": "HOANG BAO LY",
+                        "ngan_hang_huong_chuyen": "MARITIME BANK"
+                    },
+                    {
+                        "stt": "132",
+                        "ngay_giao_dich": "29/05/19",
+                        "mo_ta": "RUT TM CHO SHITEK",
+                        "ghi_no": 3300.0,
+                        "ghi_co": 3600000.0,
+                        "so_du": 780593.0,
+                        "nguoi_huong_chuyen": "036000000",
+                        "ngan_hang_huong_chuyen": "Discomplicate"
+                    },
+                    {
+                        "stt": "133",
+                        "ngay_giao_dich": "31/05/19",
+                        "mo_ta": "TRA LAI TIEN GUI KKH",
+                        "ghi_no": 36000000.0,
+                        "ghi_co": 1207.0,
+                        "so_du": 781800.0,
+                        "nguoi_huong_chuyen": "036000000",
+                        "ngan_hang_huong_chuyen": "Discomplicate"
+                    },
+                    {
+                        "stt": "134",
+                        "ngay_giao_dich": "31/05/19",
+                        "mo_ta": "0360000000",
+                        "ghi_no": 55000.0,
+                        "ghi_co": 36000000.0,
+                        "so_du": 726800.0,
+                        "nguoi_huong_chuyen": "036000000",
+                        "ngan_hang_huong_chuyen": "Discomplicate"
+                    },
+                    {
+                        "stt": "135",
+                        "ngay_giao_dich": "07/06/19",
+                        "mo_ta": "cty trshh tm va dv hop thuyết hoa",
+                        "ghi_no": 36000000.0,
+                        "ghi_co": 1617000.0,
+                        "so_du": 2343800.0,
+                        "nguoi_huong_chuyen": "cty tnhh tm va dv hop",
+                        "ngan_hang_huong_chuyen": "NH TMCP Quoc Te"
+                    },
+                    {
+                        "stt": "136",
+                        "ngay_giao_dich": "07/06/19",
+                        "mo_ta": "Ttr A/c: 11.0010.0910996",
+                        "ghi_no": 2000000.0,
+                        "ghi_co": 36000000.0,
+                        "so_du": 343800.0,
+                        "nguoi_huong_chuyen": "HOANG BAO LY",
+                        "ngan_hang_huong_chuyen": "MARITIME BANK"
+                    },
+                    {
+                        "stt": "137",
+                        "ngay_giao_dich": "07/06/19",
+                        "mo_ta": "RUT TM CHO SHITEK",
+                        "ghi_no": 3300.0,
+                        "ghi_co": 36000000.0,
+                        "so_du": 340500.0,
+                        "nguoi_huong_chuyen": "036000000",
+                        "ngan_hang_huong_chuyen": "Discomplicate"
+                    },
+                    {
+                        "stt": "1.0",
+                        "ngay_giao_dich": "orgaze",
+                        "mo_ta": "0310000099500",
+                        "ghi_no": 1.0,
+                        "ghi_co": 0.0,
+                        "so_du": 0.0,
+                        "nguoi_huong_chuyen": "1",
+                        "ngan_hang_huong_chuyen": "1"
+                    },
+                    {
+                        "stt": "139",
+                        "ngay_giao_dich": "08/06/19",
+                        "mo_ta": "RUT TM CHO SHITEK",
+                        "ghi_no": 3300.0,
+                        "ghi_co": 36000000.0,
+                        "so_du": 10237200.0,
+                        "nguoi_huong_chuyen": "036000000",
+                        "ngan_hang_huong_chuyen": "Discomplicate"
+                    },
+                    {
+                        "stt": "140",
+                        "ngay_giao_dich": "08/06/19",
+                        "mo_ta": "Ttr A/c.110010 10910996",
+                        "ghi_no": 10000000.0,
+                        "ghi_co": 36000000.0,
+                        "so_du": 237200.0,
+                        "nguoi_huong_chuyen": "HOANG BAO LY",
+                        "ngan_hang_huong_chuyen": "MARITIME BANK"
+                    },
+                    {
+                        "stt": "141",
+                        "ngay_giao_dich": "11/08/10",
+                        "mo_ta": "SUNHCN OTO VICCY HOA VANH",
+                        "ghi_no": 3600000.0,
+                        "ghi_co": 11088000.0,
+                        "so_du": 11325200.0,
+                        "nguoi_huong_chuyen": "choa ginh hoi netch vi",
+                        "ngan_hang_huong_chuyen": "nhương cơn công Da"
+                    },
+                    {
+                        "stt": "142",
+                        "ngay_giao_dich": "11/08/19",
+                        "mo_ta": "TỪ THÁNG GI2018 HỒ 00000091",
+                        "ghi_no": 3600000.0,
+                        "ghi_co": 2970000.0,
+                        "so_du": 14296200.0,
+                        "nguoi_huong_chuyen": "TRÊN HÀ NỘI, CÔNG",
+                        "ngan_hang_huong_chuyen": "NHOT:PT VN Viet"
+                    },
+                    {
+                        "stt": "143",
+                        "ngay_giao_dich": "12.08.19",
+                        "mo_ta": "rcke40ppoo28 thesaco lang ha",
+                        "ghi_no": 3600000.0,
+                        "ghi_co": 44770000.0,
+                        "so_du": 59065200.0,
+                        "nguoi_huong_chuyen": "INSTXEPDYOTO",
+                        "ngan_hang_huong_chuyen": "NHÀ CHỨNG CHIẾT NGỒM CN"
+                    }
+                ],
+                "tong_ket": {
+                    "tong_ghi_no": 0.0,
+                    "tong_ghi_co": 0.0
+                }
+            }
+        }
+    },
+    {
+        "image": "D:/Private/Project/kaggle/VietOCR/ocr_with_normal_table/output/json\\images\\page_MSBbank_11.jpg",
+        "ground_truth": {
+            "gt_parse": {
+                "ten_ngan_hang": "",
+                "ma_khach_hang": "",
+                "thong_tin_tai_khoan": {
+                    "ten_chu_tai_khoan": "",
+                    "so_tai_khoan": "",
+                    "kinh_gui": "",
+                    "mst_khach_hang": "",
+                    "so_du_dau": 0.0
+                },
+                "ten_cac_cot": [
+                    "STT",
+                    "Ngày/Date",
+                    "Mô tả/Description",
+                    "Ghi nợ/Debt",
+                    "Ghi có/Credit",
+                    "Số dư/Balance",
+                    "Ng.hưởng/chuyển",
+                    "NH.hưởng/chuyển"
+                ],
+                "giao_dich": [
+                    {
+                        "stt": "144",
+                        "ngay_giao_dich": "14/06/19",
+                        "mo_ta": "Ttr A/c: 11001010910996",
+                        "ghi_no": 59000000.0,
+                        "ghi_co": 36000000.0,
+                        "so_du": 65200.0,
+                        "nguoi_huong_chuyen": "HOANG BAO LY",
+                        "ngan_hang_huong_chuyen": "MARITIME BANK"
+                    },
+                    {
+                        "stt": "145",
+                        "ngay_giao_dich": "14/06/19",
+                        "mo_ta": "RUT TM CHO SHITEK",
+                        "ghi_no": 3300.0,
+                        "ghi_co": 0.0,
+                        "so_du": 61900.0,
+                        "nguoi_huong_chuyen": "036000000",
+                        "ngan_hang_huong_chuyen": "Discomplicate"
+                    },
+                    {
+                        "stt": "146",
+                        "ngay_giao_dich": "vangzo",
+                        "mo_ta": "Chính thị thuận thị con thuật thuận thương",
+                        "ghi_no": 0.0,
+                        "ghi_co": 440.0,
+                        "so_du": 0.0,
+                        "nguoi_huong_chuyen": "Chick",
+                        "ngan_hang_huong_chuyen": "Chick"
+                    },
+                    {
+                        "stt": "147",
+                        "ngay_giao_dich": "rongra",
+                        "mo_ta": "TRONG THỊ THUẬT THỊ THỊ THỊ THUẬT THUẬT",
+                        "ghi_no": 0.0,
+                        "ghi_co": 0.0,
+                        "so_du": 0.0,
+                        "nguoi_huong_chuyen": "CONSEXTENSION",
+                        "ngan_hang_huong_chuyen": "một cho cho chế giớm cho"
+                    },
+                    {
+                        "stt": "148",
+                        "ngay_giao_dich": "19/06/19",
+                        "mo_ta": "CLEARIZER PHODOBIN CONG TẠO PHÚC",
+                        "ghi_no": 3600000.0,
+                        "ghi_co": 9900000.0,
+                        "so_du": 27121900.0,
+                        "nguoi_huong_chuyen": "HAXACO KIM GIANG",
+                        "ngan_hang_huong_chuyen": "NHUTMCE NGOẠI"
+                    },
+                    {
+                        "stt": "149",
+                        "ngay_giao_dich": "24108/10",
+                        "mo_ta": "SO.2005.000.1.1H0.5 PHOBAST HOBASTHD",
+                        "ghi_no": 0.0,
+                        "ghi_co": 41800000.0,
+                        "so_du": 68921900.0,
+                        "nguoi_huong_chuyen": "STY CO PHAN DỊCHNH",
+                        "ngan_hang_huong_chuyen": "biet TMCP Quan doi"
+                    },
+                    {
+                        "stt": "160",
+                        "ngay_giao_dich": "24.09.20",
+                        "mo_ta": "chính thiết công nhiều tiếp thanh",
+                        "ghi_no": 0.0,
+                        "ghi_co": 0.0,
+                        "so_du": 0.0,
+                        "nguoi_huong_chuyen": "Chick",
+                        "ngan_hang_huong_chuyen": "Chick"
+                    },
+                    {
+                        "stt": "151",
+                        "ngay_giao_dich": "25/08/19",
+                        "mo_ta": "56.2C62000976 THACO LACT",
+                        "ghi_no": 3600000.0,
+                        "ghi_co": 2090000.0,
+                        "so_du": 0.0,
+                        "nguoi_huong_chuyen": "CP. Ô NÓ TRƯỜNG HẢI",
+                        "ngan_hang_huong_chuyen": "hai phong việt hiểm cn"
+                    },
+                    {
+                        "stt": "152",
+                        "ngay_giao_dich": "25/06/19",
+                        "mo_ta": "CHÍNH HÀNH THỊ TRO PHỦ CỐC MUA",
+                        "ghi_no": 3600000.0,
+                        "ghi_co": 88062975.0,
+                        "so_du": 160119875.0,
+                        "nguoi_huong_chuyen": "CÔNG TY TNHH HAN",
+                        "ngan_hang_huong_chuyen": "nhuong cai Cong Da"
+                    },
+                    {
+                        "stt": "153",
+                        "ngay_giao_dich": "26/06/19",
+                        "mo_ta": "NHIỀU CON THỊ CHO CHÍ VỀ SINH DIỄN",
+                        "ghi_no": 3600000.0,
+                        "ghi_co": 1705000.0,
+                        "so_du": 161824875.0,
+                        "nguoi_huong_chuyen": "STYCHOIO TRUONG",
+                        "ngan_hang_huong_chuyen": "NHO TRPT VN CN SO"
+                    },
+                    {
+                        "stt": "154",
+                        "ngay_giao_dich": "22908419",
+                        "mo_ta": "CHUYÊN THỊ ĐỘNG SA ĐOẠN GUI KHAM",
+                        "ghi_no": 13200.0,
+                        "ghi_co": 360000.0,
+                        "so_du": 0.0,
+                        "nguoi_huong_chuyen": "HA LE THUC TRANG",
+                        "ngan_hang_huong_chuyen": "Nhuong con Đac Giang"
+                    },
+                    {
+                        "stt": "155",
+                        "ngay_giao_dich": "26/08/10",
+                        "mo_ta": "CHOA TRANG CON 2000/CUI KHAM",
+                        "ghi_no": 4400000.0,
+                        "ghi_co": 0.0,
+                        "so_du": 157411675.0,
+                        "nguoi_huong_chuyen": "HA LE THUC TRANG",
+                        "ngan_hang_huong_chuyen": "nhuong con Bac Giang"
+                    },
+                    {
+                        "stt": "156",
+                        "ngay_giao_dich": "26/08/10",
+                        "mo_ta": "03023 THDE 2888.000/THANH",
+                        "ghi_no": 12200.0,
+                        "ghi_co": 360000.0,
+                        "so_du": 0.0,
+                        "nguoi_huong_chuyen": "CÔNG TY TNHH",
+                        "ngan_hang_huong_chuyen": "Petrolimex CNPHà noi"
+                    },
+                    {
+                        "stt": "157",
+                        "ngay_giao_dich": "26/08/19",
+                        "mo_ta": "03023 THDE 2688.000/THANH",
+                        "ghi_no": 10000000.0,
+                        "ghi_co": 0.0,
+                        "so_du": 0.0,
+                        "nguoi_huong_chuyen": "CÔNG TY TNHH",
+                        "ngan_hang_huong_chuyen": "Petrolimex CN/Hà noi"
+                    }
+                ],
+                "tong_ket": {
+                    "tong_ghi_no": 0.0,
+                    "tong_ghi_co": 0.0
+                }
+            }
+        }
+    },
+    {
+        "image": "D:/Private/Project/kaggle/VietOCR/ocr_with_normal_table/output/json\\images\\page_MSBbank_12.jpg",
+        "ground_truth": {
+            "gt_parse": {
+                "ten_ngan_hang": "",
+                "ma_khach_hang": "",
+                "thong_tin_tai_khoan": {
+                    "ten_chu_tai_khoan": "",
+                    "so_tai_khoan": "",
+                    "kinh_gui": "",
+                    "mst_khach_hang": "",
+                    "so_du_dau": 0.0
+                },
+                "ten_cac_cot": [
+                    "STT",
+                    "Ngày/Date",
+                    "Mô tả/Description",
+                    "Ghi nợ/Debt",
+                    "Ghi có/Credit",
+                    "Số dư/Balance",
+                    "Ng.hưởng/chuyển",
+                    "NH.hưởng/chuyển"
+                ],
+                "giao_dich": [
+                    {
+                        "stt": "158",
+                        "ngay_giao_dich": "29/08/19",
+                        "mo_ta": "COMPORTUNES",
+                        "ghi_no": 125262710.0,
+                        "ghi_co": 3600000.0,
+                        "so_du": 22136765.0,
+                        "nguoi_huong_chuyen": "TRANS TRADE",
+                        "ngan_hang_huong_chuyen": "E2MORGAN CHASE"
+                    },
+                    {
+                        "stt": "150",
+                        "ngay_giao_dich": "20/06/10",
+                        "mo_ta": "002.452082.201 GIA 2.050VND",
+                        "ghi_no": 154110.0,
+                        "ghi_co": 0.0,
+                        "so_du": 0.0,
+                        "nguoi_huong_chuyen": "Charter",
+                        "ngan_hang_huong_chuyen": "Charley"
+                    },
+                    {
+                        "stt": "160",
+                        "ngay_giao_dich": "20/06/10",
+                        "mo_ta": "002.452082.10, GIA 25350VND",
+                        "ghi_no": 275578.0,
+                        "ghi_co": 0.0,
+                        "so_du": 21706077.0,
+                        "nguoi_huong_chuyen": "Charter",
+                        "ngan_hang_huong_chuyen": "Charley"
+                    },
+                    {
+                        "stt": "161",
+                        "ngay_giao_dich": "30/06/19",
+                        "mo_ta": "TRA LAI TIEN GUI KKH",
+                        "ghi_no": 36000000.0,
+                        "ghi_co": 5421.0,
+                        "so_du": 21711498.0,
+                        "nguoi_huong_chuyen": "036000000",
+                        "ngan_hang_huong_chuyen": "Discomplicate"
+                    },
+                    {
+                        "stt": "162",
+                        "ngay_giao_dich": "30/06/19",
+                        "mo_ta": "0360000000",
+                        "ghi_no": 55000.0,
+                        "ghi_co": 36000000.0,
+                        "so_du": 21656498.0,
+                        "nguoi_huong_chuyen": "036000000",
+                        "ngan_hang_huong_chuyen": "Discomplicate"
+                    },
+                    {
+                        "stt": "163",
+                        "ngay_giao_dich": "04/07/19",
+                        "mo_ta": "RUT TM CHO CTY SHITEK",
+                        "ghi_no": 3300.0,
+                        "ghi_co": 36000000.0,
+                        "so_du": 0.0,
+                        "nguoi_huong_chuyen": "036000000",
+                        "ngan_hang_huong_chuyen": "Discomplicate"
+                    },
+                    {
+                        "stt": "164",
+                        "ngay_giao_dich": "04/07/19",
+                        "mo_ta": "Ttr A/c: 11001010910996",
+                        "ghi_no": 21000000.0,
+                        "ghi_co": 36000000.0,
+                        "so_du": 0.0,
+                        "nguoi_huong_chuyen": "HOANG BAO LY",
+                        "ngan_hang_huong_chuyen": "MARITIME BANK"
+                    },
+                    {
+                        "stt": "165",
+                        "ngay_giao_dich": "04/07/49",
+                        "mo_ta": "TỪ THANH THÁNG 6.2018 HÀ 00000102",
+                        "ghi_no": 3600000.0,
+                        "ghi_co": 11110000.0,
+                        "so_du": 0.0,
+                        "nguoi_huong_chuyen": "TRÊN PHÁNH THỊ CÔNG",
+                        "ngan_hang_huong_chuyen": "NHOTAPT VN Viet"
+                    },
+                    {
+                        "stt": "16e",
+                        "ngay_giao_dich": "08977.0",
+                        "mo_ta": "03701000000055",
+                        "ghi_no": 0.0,
+                        "ghi_co": 0.0,
+                        "so_du": 18912.188,
+                        "nguoi_huong_chuyen": "Có Cho Phát Công Tàu",
+                        "ngan_hang_huong_chuyen": "PHÓ THỊ CHỈ THỊ THỊ THỊ THẾ THỐM CN"
+                    },
+                    {
+                        "stt": "167",
+                        "ngay_giao_dich": "09/07/19",
+                        "mo_ta": "TC.VNCN038736.Giam doc nop",
+                        "ghi_no": 36000000.0,
+                        "ghi_co": 100000000.0,
+                        "so_du": 0.0,
+                        "nguoi_huong_chuyen": "HA TRONG HIEU",
+                        "ngan_hang_huong_chuyen": "NH TMCP NGOALD"
+                    },
+                    {
+                        "stt": "168",
+                        "ngay_giao_dich": "00/07/19",
+                        "mo_ta": "THA BỐ PHẦU THẦN VÔ CÁO",
+                        "ghi_no": 3600000.0,
+                        "ghi_co": 4290000.0,
+                        "so_du": 0.0,
+                        "nguoi_huong_chuyen": "CN HOA BÌNH CTY CP",
+                        "ngan_hang_huong_chuyen": "Ngan hang DT Viet"
+                    },
+                    {
+                        "stt": "160",
+                        "ngay_giao_dich": "10/07/10",
+                        "mo_ta": "TC/VNCNo70274.Giam doc nop",
+                        "ghi_no": 3600000.0,
+                        "ghi_co": 40000000.0,
+                        "so_du": 0.0,
+                        "nguoi_huong_chuyen": "HÀ TRONG HIẾU",
+                        "ngan_hang_huong_chuyen": "Nhương na Và Thầm CN"
+                    },
+                    {
+                        "stt": "170",
+                        "ngay_giao_dich": "1002210",
+                        "mo_ta": "038000001970000039",
+                        "ghi_no": 182000.0,
+                        "ghi_co": 0.0,
+                        "so_du": 0.0,
+                        "nguoi_huong_chuyen": "TRONG THỊ THỊ THỊ THUYỀN THUYỀN THU THUY",
+                        "ngan_hang_huong_chuyen": "Người thực thuận thị người chính"
+                    },
+                    {
+                        "stt": "171",
+                        "ngay_giao_dich": "1002210",
+                        "mo_ta": "038000001970000039",
+                        "ghi_no": 0.0,
+                        "ghi_co": 0.0,
+                        "so_du": 0.0,
+                        "nguoi_huong_chuyen": "TRONG THỊ THỊ THỊ THUYỀN THUYỀN THU THUY",
+                        "ngan_hang_huong_chuyen": "Người \" thợp thống doanh"
+                    },
+                    {
+                        "stt": "172",
+                        "ngay_giao_dich": "10/07/19",
+                        "mo_ta": "1L5B/RM030219071085009",
+                        "ghi_no": 36000000.0,
+                        "ghi_co": 141138000.0,
+                        "so_du": 0.0,
+                        "nguoi_huong_chuyen": "036000000",
+                        "ngan_hang_huong_chuyen": "Discomplicate"
+                    },
+                    {
+                        "stt": "173",
+                        "ngay_giao_dich": "10/07/19",
+                        "mo_ta": "Ttr A/c: 11.0010.0910996",
+                        "ghi_no": 15000000.0,
+                        "ghi_co": 36000000.0,
+                        "so_du": 0.0,
+                        "nguoi_huong_chuyen": "HOANG BAO LY",
+                        "ngan_hang_huong_chuyen": "MARITIME BANK"
+                    }
+                ],
+                "tong_ket": {
+                    "tong_ghi_no": 0.0,
+                    "tong_ghi_co": 0.0
+                }
+            }
+        }
+    },
+    {
+        "image": "D:/Private/Project/kaggle/VietOCR/ocr_with_normal_table/output/json\\images\\page_MSBbank_13.jpg",
+        "ground_truth": {
+            "gt_parse": {
+                "ten_ngan_hang": "",
+                "ma_khach_hang": "",
+                "thong_tin_tai_khoan": {
+                    "ten_chu_tai_khoan": "",
+                    "so_tai_khoan": "",
+                    "kinh_gui": "",
+                    "mst_khach_hang": "",
+                    "so_du_dau": 0.0
+                },
+                "ten_cac_cot": [
+                    "STT",
+                    "Ngày/Date",
+                    "Mô tả/Description",
+                    "Ghi nợ/Debt",
+                    "Ghi có/Credit",
+                    "Số dư/Balance",
+                    "Ng.hưởng/chuyển",
+                    "NH.hưởng/chuyển"
+                ],
+                "giao_dich": [
+                    {
+                        "stt": "174",
+                        "ngay_giao_dich": "10/07/19",
+                        "mo_ta": "RUT TM CHO SHITEK",
+                        "ghi_no": 3300.0,
+                        "ghi_co": 36000000.0,
+                        "so_du": 148186698.0,
+                        "nguoi_huong_chuyen": "036000000",
+                        "ngan_hang_huong_chuyen": "036000000"
+                    },
+                    {
+                        "stt": "176",
+                        "ngay_giao_dich": "1192200",
+                        "mo_ta": "CHÍNH THỊ THỊ THỊ THỊ THỊ THUẬN ĐƯỢC THUYỀN THỊ THỊ THỊ THỊ THỊ THỊ",
+                        "ghi_no": 12.4,
+                        "ghi_co": 1.0,
+                        "so_du": 0.0,
+                        "nguoi_huong_chuyen": "0360000000550",
+                        "ngan_hang_huong_chuyen": "người thực thuật thị thuật chính"
+                    },
+                    {
+                        "stt": "17e",
+                        "ngay_giao_dich": "1192200",
+                        "mo_ta": "CHIẾN THỊ THỊ THỊ THỊ THUẬN THỊ THỊ THUẬN THUYỀN THUY",
+                        "ghi_no": 0.0,
+                        "ghi_co": 1.0,
+                        "so_du": 0.0,
+                        "nguoi_huong_chuyen": "0360000000000",
+                        "ngan_hang_huong_chuyen": "người thực thuật thị thuật chính"
+                    },
+                    {
+                        "stt": "177",
+                        "ngay_giao_dich": "1197/19",
+                        "mo_ta": "HOÀNG THỊ LIÊN THỊ TOÀN A XA CHOI ANH",
+                        "ghi_no": 3600000.0,
+                        "ghi_co": 32050000.0,
+                        "so_du": 0.0,
+                        "nguoi_huong_chuyen": "CNCTYCPDVOTO",
+                        "ngan_hang_huong_chuyen": "Nhương Việt Nằm CN"
+                    },
+                    {
+                        "stt": "178",
+                        "ngay_giao_dich": "12/07/19",
+                        "mo_ta": "RUT TM CHO SHITEK",
+                        "ghi_no": 3300.0,
+                        "ghi_co": 3600000.0,
+                        "so_du": 0.0,
+                        "nguoi_huong_chuyen": "036000000",
+                        "ngan_hang_huong_chuyen": "Discomplicate"
+                    },
+                    {
+                        "stt": "179",
+                        "ngay_giao_dich": "12/07/19",
+                        "mo_ta": "Ttr A/c.11.001010910996",
+                        "ghi_no": 34000000.0,
+                        "ghi_co": 36000000.0,
+                        "so_du": 0.0,
+                        "nguoi_huong_chuyen": "HOANG BAO LY",
+                        "ngan_hang_huong_chuyen": "MARITIME BANK"
+                    },
+                    {
+                        "stt": "180",
+                        "ngay_giao_dich": "15.07/10",
+                        "mo_ta": "CHIẾN THỊ THỊ THỊ THỊ THỊ THỊ THỐNG THỊ Ô PHÚ",
+                        "ghi_no": 3600000.0,
+                        "ghi_co": 17600000.0,
+                        "so_du": 0.0,
+                        "nguoi_huong_chuyen": "SACEP DY O NĂM GIANG",
+                        "ngan_hang_huong_chuyen": "Nhương na vào thầm cn"
+                    },
+                    {
+                        "stt": "101",
+                        "ngay_giao_dich": "negger\"",
+                        "mo_ta": "03910000000",
+                        "ghi_no": 1.0,
+                        "ghi_co": 0.0,
+                        "so_du": 0.0,
+                        "nguoi_huong_chuyen": "1",
+                        "ngan_hang_huong_chuyen": "1"
+                    },
+                    {
+                        "stt": "182",
+                        "ngay_giao_dich": "17/07/19",
+                        "mo_ta": "Ttr Alc: 11001010910996",
+                        "ghi_no": 32000000.0,
+                        "ghi_co": 3600000.0,
+                        "so_du": 0.0,
+                        "nguoi_huong_chuyen": "HOANG BAO LY",
+                        "ngan_hang_huong_chuyen": "MAIRITIME BANK"
+                    },
+                    {
+                        "stt": "183",
+                        "ngay_giao_dich": "17/07/19",
+                        "mo_ta": "RUT TM CHO CTY SHITEK",
+                        "ghi_no": 3300.0,
+                        "ghi_co": 36000000.0,
+                        "so_du": 0.0,
+                        "nguoi_huong_chuyen": "036000000",
+                        "ngan_hang_huong_chuyen": "Discomplicate"
+                    },
+                    {
+                        "stt": "....",
+                        "ngay_giao_dich": "near",
+                        "mo_ta": "\"CHIẾN THỊ THỊ THỊ \"\"\"",
+                        "ghi_no": 0.0,
+                        "ghi_co": 0.0,
+                        "so_du": 0.0,
+                        "nguoi_huong_chuyen": "1",
+                        "ngan_hang_huong_chuyen": ""
+                    },
+                    {
+                        "stt": "185",
+                        "ngay_giao_dich": "2457419",
+                        "mo_ta": "070120000002414",
+                        "ghi_no": 3600000.0,
+                        "ghi_co": 7260000.0,
+                        "so_du": 0.0,
+                        "nguoi_huong_chuyen": "CHANH XƯƠYOTA",
+                        "ngan_hang_huong_chuyen": "Nhưng công vào Hộc m cn"
+                    },
+                    {
+                        "stt": "186",
+                        "ngay_giao_dich": "24/07/19",
+                        "mo_ta": "RUT TM CHO CTY SHITEK",
+                        "ghi_no": 3300.0,
+                        "ghi_co": 36000000.0,
+                        "so_du": 17339598.0,
+                        "nguoi_huong_chuyen": "036000000",
+                        "ngan_hang_huong_chuyen": "Discomplicate"
+                    },
+                    {
+                        "stt": "187",
+                        "ngay_giao_dich": "24/07/19",
+                        "mo_ta": "Ttr A/c.1100 10 10910996",
+                        "ghi_no": 10000000.0,
+                        "ghi_co": 36000000.0,
+                        "so_du": 7339598.0,
+                        "nguoi_huong_chuyen": "HOANG BAO LY",
+                        "ngan_hang_huong_chuyen": "MARITIME BANK"
+                    }
+                ],
+                "tong_ket": {
+                    "tong_ghi_no": 0.0,
+                    "tong_ghi_co": 0.0
+                }
+            }
+        }
+    },
+    {
+        "image": "D:/Private/Project/kaggle/VietOCR/ocr_with_normal_table/output/json\\images\\page_MSBbank_14.jpg",
+        "ground_truth": {
+            "gt_parse": {
+                "ten_ngan_hang": "",
+                "ma_khach_hang": "",
+                "thong_tin_tai_khoan": {
+                    "ten_chu_tai_khoan": "",
+                    "so_tai_khoan": "",
+                    "kinh_gui": "",
+                    "mst_khach_hang": "",
+                    "so_du_dau": 0.0
+                },
+                "ten_cac_cot": [
+                    "STT",
+                    "Ngày/Date",
+                    "Mô tả/Description",
+                    "Ghi nợ/Debt",
+                    "Ghi có/Credit",
+                    "Số dư/Balance",
+                    "Ng.hưởng/chuyển",
+                    "NH.hưởng/chuyển"
+                ],
+                "giao_dich": [
+                    {
+                        "stt": "189",
+                        "ngay_giao_dich": "28993710",
+                        "mo_ta": "TRONG CHÍNH THỊ THỊ THỊ THỊ THỊ THỊ THỊ THO MINH",
+                        "ghi_no": 1.0,
+                        "ghi_co": 4422.0,
+                        "so_du": 0.0,
+                        "nguoi_huong_chuyen": "SUCCURSES",
+                        "ngan_hang_huong_chuyen": "minh tháng thị phiên"
+                    },
+                    {
+                        "stt": "100",
+                        "ngay_giao_dich": "00,3710",
+                        "mo_ta": "TRONG THIẾU THỊ PHÚC NHƯA XE",
+                        "ghi_no": 0.0,
+                        "ghi_co": 0.0,
+                        "so_du": 0.0,
+                        "nguoi_huong_chuyen": "CÔNG TY TRANH",
+                        "ngan_hang_huong_chuyen": "chính thược các ranh đã mói"
+                    },
+                    {
+                        "stt": "190",
+                        "ngay_giao_dich": "00,3710",
+                        "mo_ta": "TRONG THIẾU THỊ PHÚC NHƯA XE",
+                        "ghi_no": 0.0,
+                        "ghi_co": 0.0,
+                        "so_du": 0.0,
+                        "nguoi_huong_chuyen": "CÔNG TY TRANH",
+                        "ngan_hang_huong_chuyen": "PHÁT THỊ CÁC TÂN ĐÃ THỊ HÓA"
+                    },
+                    {
+                        "stt": "191",
+                        "ngay_giao_dich": "31/07/10",
+                        "mo_ta": "SUNH CHI OTO VICCH HOA BAT",
+                        "ghi_no": 3600000.0,
+                        "ghi_co": 0.0,
+                        "so_du": 19221348.0,
+                        "nguoi_huong_chuyen": "CHOA ĐỊNH HOÀN FICH",
+                        "ngan_hang_huong_chuyen": "nhuong cai Dong Da"
+                    },
+                    {
+                        "stt": "192",
+                        "ngay_giao_dich": "31/97/19",
+                        "mo_ta": "HYUNDAI OB THANH TOAN",
+                        "ghi_no": 38000000.0,
+                        "ghi_co": 62986000.0,
+                        "so_du": 82207398.0,
+                        "nguoi_huong_chuyen": "STY CO PHẦN DỊCHH",
+                        "ngan_hang_huong_chuyen": "NH TMCP Quan doi"
+                    },
+                    {
+                        "stt": "193",
+                        "ngay_giao_dich": "31/07/19",
+                        "mo_ta": "0360000000",
+                        "ghi_no": 55000.0,
+                        "ghi_co": 36000000.0,
+                        "so_du": 0.0,
+                        "nguoi_huong_chuyen": "036000000",
+                        "ngan_hang_huong_chuyen": "Discomplicate"
+                    },
+                    {
+                        "stt": "194",
+                        "ngay_giao_dich": "31/07/19",
+                        "mo_ta": "TRA LAI TIEN GUI KKH",
+                        "ghi_no": 0.0,
+                        "ghi_co": 3890.0,
+                        "so_du": 0.0,
+                        "nguoi_huong_chuyen": "036000000",
+                        "ngan_hang_huong_chuyen": "Discomplicate"
+                    },
+                    {
+                        "stt": "195",
+                        "ngay_giao_dich": "01/08/19",
+                        "mo_ta": "RUT TM CHO SHITEK",
+                        "ghi_no": 3300.0,
+                        "ghi_co": 36000000.0,
+                        "so_du": 0.0,
+                        "nguoi_huong_chuyen": "036000000",
+                        "ngan_hang_huong_chuyen": "Discomplicate"
+                    },
+                    {
+                        "stt": "196",
+                        "ngay_giao_dich": "01/08/19",
+                        "mo_ta": "Ttr A/c.11.001010910996",
+                        "ghi_no": 82000000.0,
+                        "ghi_co": 36000000.0,
+                        "so_du": 152988.0,
+                        "nguoi_huong_chuyen": "HOANG BAO LY",
+                        "ngan_hang_huong_chuyen": "MARITIME BANK"
+                    },
+                    {
+                        "stt": "197",
+                        "ngay_giao_dich": "01/08/19",
+                        "mo_ta": "OTO TVT CHUYEN TIEN HANG",
+                        "ghi_no": 36000000.0,
+                        "ghi_co": 81903250.0,
+                        "so_du": 0.0,
+                        "nguoi_huong_chuyen": "Cty TNH TM Va DVo",
+                        "ngan_hang_huong_chuyen": "NHNO 8-PTNT CN TT"
+                    },
+                    {
+                        "stt": "198",
+                        "ngay_giao_dich": "02.08/19",
+                        "mo_ta": "CONCONSPECTIONALIZATION",
+                        "ghi_no": 3600000.0,
+                        "ghi_co": 51879300.0,
+                        "so_du": 0.0,
+                        "nguoi_huong_chuyen": "CONG TY LONG BIEN",
+                        "ngan_hang_huong_chuyen": "Nhương cho chạt hầm cn"
+                    },
+                    {
+                        "stt": "199",
+                        "ngay_giao_dich": "02/08/19",
+                        "mo_ta": "Ttr A/c: 11.0010.0910996",
+                        "ghi_no": 40000000.0,
+                        "ghi_co": 36000000.0,
+                        "so_du": 93935538.0,
+                        "nguoi_huong_chuyen": "HOANG BAO LY",
+                        "ngan_hang_huong_chuyen": "MARITIME BANK"
+                    },
+                    {
+                        "stt": "200",
+                        "ngay_giao_dich": "02/08/19",
+                        "mo_ta": "RUT TM CHO SHITEK",
+                        "ghi_no": 3300.0,
+                        "ghi_co": 36000000.0,
+                        "so_du": 93932238.0,
+                        "nguoi_huong_chuyen": "036000000",
+                        "ngan_hang_huong_chuyen": "Discomplicate"
+                    },
+                    {
+                        "stt": "201",
+                        "ngay_giao_dich": "02/08/19",
+                        "mo_ta": "RUT TM CHO SHITEK",
+                        "ghi_no": 3300.0,
+                        "ghi_co": 36000000.0,
+                        "so_du": 93928938.0,
+                        "nguoi_huong_chuyen": "036000000",
+                        "ngan_hang_huong_chuyen": "Discomplicate"
+                    },
+                    {
+                        "stt": "202",
+                        "ngay_giao_dich": "02/08/19",
+                        "mo_ta": "Ttr Alc.11001010910996",
+                        "ghi_no": 30000000.0,
+                        "ghi_co": 3600000.0,
+                        "so_du": 0.0,
+                        "nguoi_huong_chuyen": "HOANG BAO LY",
+                        "ngan_hang_huong_chuyen": "MARITIME BANK"
+                    },
+                    {
+                        "stt": "203",
+                        "ngay_giao_dich": "03/08/19",
+                        "mo_ta": "Ttr A/c.11.001010910996",
+                        "ghi_no": 17000000.0,
+                        "ghi_co": 36000000.0,
+                        "so_du": 46928938.0,
+                        "nguoi_huong_chuyen": "HOANG BAO LY",
+                        "ngan_hang_huong_chuyen": "MARITIME BANK"
+                    },
+                    {
+                        "stt": "204",
+                        "ngay_giao_dich": "03/08/19",
+                        "mo_ta": "RUT TM CHO SHITEK",
+                        "ghi_no": 3300.0,
+                        "ghi_co": 36000000.0,
+                        "so_du": 46925638.0,
+                        "nguoi_huong_chuyen": "0360000000",
+                        "ngan_hang_huong_chuyen": "Deconcession"
+                    }
+                ],
+                "tong_ket": {
+                    "tong_ghi_no": 0.0,
+                    "tong_ghi_co": 0.0
+                }
+            }
+        }
+    },
+    {
+        "image": "D:/Private/Project/kaggle/VietOCR/ocr_with_normal_table/output/json\\images\\page_MSBbank_15.jpg",
+        "ground_truth": {
+            "gt_parse": {
+                "ten_ngan_hang": "",
+                "ma_khach_hang": "",
+                "thong_tin_tai_khoan": {
+                    "ten_chu_tai_khoan": "",
+                    "so_tai_khoan": "",
+                    "kinh_gui": "",
+                    "mst_khach_hang": "",
+                    "so_du_dau": 0.0
+                },
+                "ten_cac_cot": [
+                    "STT",
+                    "Ngày/Date",
+                    "Mô tả/Description",
+                    "Ghi nợ/Debt",
+                    "Ghi có/Credit",
+                    "Số dư/Balance",
+                    "Ng.hưởng/chuyển",
+                    "NH.hưởng/chuyển"
+                ],
+                "giao_dich": [
+                    {
+                        "stt": "205",
+                        "ngay_giao_dich": "05/08/19",
+                        "mo_ta": "Ttr A/c: 11001010910996",
+                        "ghi_no": 46000000.0,
+                        "ghi_co": 36000000.0,
+                        "so_du": 925638.0,
+                        "nguoi_huong_chuyen": "HOANG BAO LY",
+                        "ngan_hang_huong_chuyen": "MARITIME BANK"
+                    },
+                    {
+                        "stt": "206",
+                        "ngay_giao_dich": "05/08/19",
+                        "mo_ta": "RUT TM CHO SHITEK",
+                        "ghi_no": 3300.0,
+                        "ghi_co": 0.0,
+                        "so_du": 922338.0,
+                        "nguoi_huong_chuyen": "036000000",
+                        "ngan_hang_huong_chuyen": "Discomplicate"
+                    },
+                    {
+                        "stt": "207",
+                        "ngay_giao_dich": "02/08/10",
+                        "mo_ta": "cam thoa đến do hop thuy thanh",
+                        "ghi_no": 3600000.0,
+                        "ghi_co": 8811000.0,
+                        "so_du": 0.0,
+                        "nguoi_huong_chuyen": "st trahh tm va dy hop",
+                        "ngan_hang_huong_chuyen": "Khi TMCP Quoc Te"
+                    },
+                    {
+                        "stt": "208",
+                        "ngay_giao_dich": "12/08/19",
+                        "mo_ta": "Ttr A/c.11.0010.10910996",
+                        "ghi_no": 9000000.0,
+                        "ghi_co": 36000000.0,
+                        "so_du": 733338.0,
+                        "nguoi_huong_chuyen": "HOANG BAO LY",
+                        "ngan_hang_huong_chuyen": "MARITIME BANK"
+                    },
+                    {
+                        "stt": "209",
+                        "ngay_giao_dich": "12/08/19",
+                        "mo_ta": "RUT TM CHO SHITEK",
+                        "ghi_no": 3300.0,
+                        "ghi_co": 36000000.0,
+                        "so_du": 730038.0,
+                        "nguoi_huong_chuyen": "036000000",
+                        "ngan_hang_huong_chuyen": "Discomplicate"
+                    },
+                    {
+                        "stt": "210",
+                        "ngay_giao_dich": "12/08/10",
+                        "mo_ta": "THÁNG TI20AN HAD 00001.80 CHIA",
+                        "ghi_no": 3600000.0,
+                        "ghi_co": 4290000.0,
+                        "so_du": 5020038.0,
+                        "nguoi_huong_chuyen": "TRONG HÀ NỘI CÔNG",
+                        "ngan_hang_huong_chuyen": "Ngan hang DT Xiet"
+                    },
+                    {
+                        "stt": "211",
+                        "ngay_giao_dich": "15508/10",
+                        "mo_ta": "HO2205180 PHÚ HA/1200LANG",
+                        "ghi_no": 3600000.0,
+                        "ghi_co": 52815000.0,
+                        "so_du": 57836038.0,
+                        "nguoi_huong_chuyen": "CNCT CP DV OTO",
+                        "ngan_hang_huong_chuyen": "Nhương Chạt Nằm CN"
+                    },
+                    {
+                        "stt": "212",
+                        "ngay_giao_dich": "15/08/19",
+                        "mo_ta": "RUT TM CHO SHITEK",
+                        "ghi_no": 3300.0,
+                        "ghi_co": 0.0,
+                        "so_du": 57831738.0,
+                        "nguoi_huong_chuyen": "Deconcession",
+                        "ngan_hang_huong_chuyen": "Discomplicate"
+                    },
+                    {
+                        "stt": "213",
+                        "ngay_giao_dich": "15/08/19",
+                        "mo_ta": "Ttr AC.11001010910996",
+                        "ghi_no": 57000000.0,
+                        "ghi_co": 36000000.0,
+                        "so_du": 831738.0,
+                        "nguoi_huong_chuyen": "HOANG BAO LY",
+                        "ngan_hang_huong_chuyen": "MARITIME BANK"
+                    },
+                    {
+                        "stt": "214",
+                        "ngay_giao_dich": "21498/19",
+                        "mo_ta": "CHỦ TỔNG PHÁP CÓ CÔNG NIÊN",
+                        "ghi_no": 3600000.0,
+                        "ghi_co": 16610000.0,
+                        "so_du": 17441738.0,
+                        "nguoi_huong_chuyen": "CP. Ô.... TRƯỜNG HẢI",
+                        "ngan_hang_huong_chuyen": "Nhương và thầm cn"
+                    },
+                    {
+                        "stt": "215",
+                        "ngay_giao_dich": "21/08/19",
+                        "mo_ta": "Ttr A/c: 110010.10910996",
+                        "ghi_no": 17000000.0,
+                        "ghi_co": 36000000.0,
+                        "so_du": 441738.0,
+                        "nguoi_huong_chuyen": "HOANG BAO LY",
+                        "ngan_hang_huong_chuyen": "MARITIME BANK"
+                    },
+                    {
+                        "stt": "216",
+                        "ngay_giao_dich": "21/08/19",
+                        "mo_ta": "RUT TM CHO SHITEK",
+                        "ghi_no": 3300.0,
+                        "ghi_co": 36000000.0,
+                        "so_du": 438438.0,
+                        "nguoi_huong_chuyen": "036000000",
+                        "ngan_hang_huong_chuyen": "036000000"
+                    },
+                    {
+                        "stt": "217",
+                        "ngay_giao_dich": "21/08/19",
+                        "mo_ta": "CHANH THỊ THỊ THỊ THỊ THỊ THỊ THUẬN THỐNG THƠ PHÚ THỊ",
+                        "ghi_no": 3600000.0,
+                        "ghi_co": 31130000.0,
+                        "so_du": 31668438.0,
+                        "nguoi_huong_chuyen": "SACEP DUO KIM GIANG",
+                        "ngan_hang_huong_chuyen": "NHTMCP Mạc A"
+                    },
+                    {
+                        "stt": "218",
+                        "ngay_giao_dich": "22/08/19",
+                        "mo_ta": "HACH TOAN THE SOBOLETIKE",
+                        "ghi_no": 360000.0,
+                        "ghi_co": 9900000.0,
+                        "so_du": 0.0,
+                        "nguoi_huong_chuyen": "CHATNHIỀU TOXOTA",
+                        "ngan_hang_huong_chuyen": "Nhưng cep CộP Ho Chi"
+                    },
+                    {
+                        "stt": "219",
+                        "ngay_giao_dich": "28/08/19",
+                        "mo_ta": "CHOR THEO DONGERS 102.5HITEK CK",
+                        "ghi_no": 13200.0,
+                        "ghi_co": 360000.0,
+                        "so_du": 0.0,
+                        "nguoi_huong_chuyen": "CÔNG TY TNHH",
+                        "ngan_hang_huong_chuyen": "Petrolimex CNP Hà noi"
+                    },
+                    {
+                        "stt": "220",
+                        "ngay_giao_dich": "28/08/19",
+                        "mo_ta": "CORDE TRADIOGRES 102.5HITEK CK",
+                        "ghi_no": 10000000.0,
+                        "ghi_co": 0.0,
+                        "so_du": 0.0,
+                        "nguoi_huong_chuyen": "CÔNG TY TNHH",
+                        "ngan_hang_huong_chuyen": "Petrolimex CHP Hà noi"
+                    },
+                    {
+                        "stt": "221",
+                        "ngay_giao_dich": "28/08/19",
+                        "mo_ta": "RUT TM CHO SHITEK",
+                        "ghi_no": 3300.0,
+                        "ghi_co": 36000000.0,
+                        "so_du": 31451938.0,
+                        "nguoi_huong_chuyen": "036000000",
+                        "ngan_hang_huong_chuyen": "036000000"
+                    }
+                ],
+                "tong_ket": {
+                    "tong_ghi_no": 0.0,
+                    "tong_ghi_co": 0.0
+                }
+            }
+        }
+    },
+    {
+        "image": "D:/Private/Project/kaggle/VietOCR/ocr_with_normal_table/output/json\\images\\page_MSBbank_16.jpg",
+        "ground_truth": {
+            "gt_parse": {
+                "ten_ngan_hang": "",
+                "ma_khach_hang": "",
+                "thong_tin_tai_khoan": {
+                    "ten_chu_tai_khoan": "",
+                    "so_tai_khoan": "",
+                    "kinh_gui": "",
+                    "mst_khach_hang": "",
+                    "so_du_dau": 0.0
+                },
+                "ten_cac_cot": [
+                    "STT",
+                    "Ngày/Date",
+                    "Mô tả/Description",
+                    "Ghi nợ/Debt",
+                    "Ghi có/Credit",
+                    "Số dư/Balance",
+                    "Ng.hưởng/chuyển",
+                    "NH.hưởng/chuyển"
+                ],
+                "giao_dich": [
+                    {
+                        "stt": "222",
+                        "ngay_giao_dich": "28/08/19",
+                        "mo_ta": "Ttr A/c: 11001010910996",
+                        "ghi_no": 16000000.0,
+                        "ghi_co": 36000000.0,
+                        "so_du": 15451938.0,
+                        "nguoi_huong_chuyen": "HOANG BAO LY",
+                        "ngan_hang_huong_chuyen": "MARITIME BANK"
+                    },
+                    {
+                        "stt": "1...",
+                        "ngay_giao_dich": "massers",
+                        "mo_ta": "0360000000550",
+                        "ghi_no": 1.0,
+                        "ghi_co": 0.0,
+                        "so_du": 0.0,
+                        "nguoi_huong_chuyen": "gây cộp xáo và viêu",
+                        "ngan_hang_huong_chuyen": "DEPRESSIONMENTS"
+                    },
+                    {
+                        "stt": "224",
+                        "ngay_giao_dich": "sapperia",
+                        "mo_ta": "\"035,5 thanh trong 1,5..........\"\"\"",
+                        "ghi_no": 1.0,
+                        "ghi_co": 0.0,
+                        "so_du": 0.0,
+                        "nguoi_huong_chuyen": "CONGRADING BIEN",
+                        "ngan_hang_huong_chuyen": "chỉ thực cộn giảm cn"
+                    },
+                    {
+                        "stt": "225",
+                        "ngay_giao_dich": "30/08/19",
+                        "mo_ta": "THANH TOAN CH. 414, THEO 3",
+                        "ghi_no": 3300.0,
+                        "ghi_co": 36000000.0,
+                        "so_du": 101003888.0,
+                        "nguoi_huong_chuyen": "0360000003",
+                        "ngan_hang_huong_chuyen": "Discomplicate"
+                    },
+                    {
+                        "stt": "226",
+                        "ngay_giao_dich": "30108/19",
+                        "mo_ta": "HOÀNG THỊ THỊ CHO THỊ THẾ THEO 3",
+                        "ghi_no": 0.0,
+                        "ghi_co": 0.0,
+                        "so_du": 79770084.0,
+                        "nguoi_huong_chuyen": "CHÍNH VĂN VĂN THỊ QUỐC",
+                        "ngan_hang_huong_chuyen": "MARITIME BANK"
+                    },
+                    {
+                        "stt": "227",
+                        "ngay_giao_dich": "30/08/19",
+                        "mo_ta": "Ttr A/c: 11001010910996",
+                        "ghi_no": 79000000.0,
+                        "ghi_co": 36000000.0,
+                        "so_du": 770084.0,
+                        "nguoi_huong_chuyen": "HOANG BAO LY",
+                        "ngan_hang_huong_chuyen": "MARITIME BANK"
+                    },
+                    {
+                        "stt": "228",
+                        "ngay_giao_dich": "30/08/19",
+                        "mo_ta": "RUT TM CHO SHITEK",
+                        "ghi_no": 3300.0,
+                        "ghi_co": 36000000.0,
+                        "so_du": 766784.0,
+                        "nguoi_huong_chuyen": "036000000",
+                        "ngan_hang_huong_chuyen": "Discomplicate"
+                    },
+                    {
+                        "stt": "229",
+                        "ngay_giao_dich": "30/08/19",
+                        "mo_ta": "TIt A/c.110010/10910996",
+                        "ghi_no": 3600000.0,
+                        "ghi_co": 71000000.0,
+                        "so_du": 71766784.0,
+                        "nguoi_huong_chuyen": "HOANG BAO LY",
+                        "ngan_hang_huong_chuyen": "MARITIME BANK"
+                    },
+                    {
+                        "stt": "240",
+                        "ngay_giao_dich": "songzo",
+                        "mo_ta": "contranscontributionalists",
+                        "ghi_no": 0.0,
+                        "ghi_co": 0.0,
+                        "so_du": 0.0,
+                        "nguoi_huong_chuyen": "5 TỐC NGỌC THỊ THUẬT",
+                        "ngan_hang_huong_chuyen": "HUTBICE NCOSCO"
+                    },
+                    {
+                        "stt": "4.1",
+                        "ngay_giao_dich": "reseer",
+                        "mo_ta": "0360000000055",
+                        "ghi_no": 0.0,
+                        "ghi_co": 1.0,
+                        "so_du": 0.0,
+                        "nguoi_huong_chuyen": "1",
+                        "ngan_hang_huong_chuyen": "1"
+                    },
+                    {
+                        "stt": "...",
+                        "ngay_giao_dich": "reseer",
+                        "mo_ta": "congractionalization",
+                        "ghi_no": 0.0,
+                        "ghi_co": 1.0,
+                        "so_du": 0.0,
+                        "nguoi_huong_chuyen": "1",
+                        "ngan_hang_huong_chuyen": "1"
+                    },
+                    {
+                        "stt": "233",
+                        "ngay_giao_dich": "31/08/19",
+                        "mo_ta": "0360000000",
+                        "ghi_no": 55000.0,
+                        "ghi_co": 36000000.0,
+                        "so_du": 0.0,
+                        "nguoi_huong_chuyen": "036000000",
+                        "ngan_hang_huong_chuyen": "Discomplicate"
+                    },
+                    {
+                        "stt": "234",
+                        "ngay_giao_dich": "31/08/19",
+                        "mo_ta": "TRA LAI TIEN GUI KKH",
+                        "ghi_no": 36000000.0,
+                        "ghi_co": 3990.0,
+                        "so_du": 0.0,
+                        "nguoi_huong_chuyen": "036000000",
+                        "ngan_hang_huong_chuyen": "Discomplicate"
+                    },
+                    {
+                        "stt": "235",
+                        "ngay_giao_dich": "03/09/19",
+                        "mo_ta": "Ttr A/c.1100 10 10910996",
+                        "ghi_no": 23000000.0,
+                        "ghi_co": 36000000.0,
+                        "so_du": 163149.0,
+                        "nguoi_huong_chuyen": "HOANG BAO LY",
+                        "ngan_hang_huong_chuyen": "MARITIME BANK"
+                    }
+                ],
+                "tong_ket": {
+                    "tong_ghi_no": 0.0,
+                    "tong_ghi_co": 0.0
+                }
+            }
+        }
+    },
+    {
+        "image": "D:/Private/Project/kaggle/VietOCR/ocr_with_normal_table/output/json\\images\\page_MSBbank_17.jpg",
+        "ground_truth": {
+            "gt_parse": {
+                "ten_ngan_hang": "",
+                "ma_khach_hang": "",
+                "thong_tin_tai_khoan": {
+                    "ten_chu_tai_khoan": "",
+                    "so_tai_khoan": "",
+                    "kinh_gui": "",
+                    "mst_khach_hang": "",
+                    "so_du_dau": 0.0
+                },
+                "ten_cac_cot": [
+                    "STT",
+                    "Ngày/Date",
+                    "Mô tả/Description",
+                    "Ghi nợ/Debt",
+                    "Ghi có/Credit",
+                    "Số dư/Balance",
+                    "Ng.hưởng/chuyển",
+                    "NH.hưởng/chuyển"
+                ],
+                "giao_dich": [
+                    {
+                        "stt": "236",
+                        "ngay_giao_dich": "03/09/19",
+                        "mo_ta": "RUT TM CHO SHITEK",
+                        "ghi_no": 3300.0,
+                        "ghi_co": 36000000.0,
+                        "so_du": 159849.0,
+                        "nguoi_huong_chuyen": "036000000",
+                        "ngan_hang_huong_chuyen": "036000000"
+                    },
+                    {
+                        "stt": "237",
+                        "ngay_giao_dich": "09/09/19",
+                        "mo_ta": "CTX TNH TM VA DV OTO TVT",
+                        "ghi_no": 3800000.0,
+                        "ghi_co": 81903250.0,
+                        "so_du": 82063099.0,
+                        "nguoi_huong_chuyen": "Cty TNH TM Va DV o",
+                        "ngan_hang_huong_chuyen": "NHNO 8-PTNT CN TT"
+                    },
+                    {
+                        "stt": "238",
+                        "ngay_giao_dich": "10/09/19",
+                        "mo_ta": "RUT TM CHO SHITEK",
+                        "ghi_no": 3300.0,
+                        "ghi_co": 36000000.0,
+                        "so_du": 82059799.0,
+                        "nguoi_huong_chuyen": "Deconcession",
+                        "ngan_hang_huong_chuyen": "036000000"
+                    },
+                    {
+                        "stt": "239",
+                        "ngay_giao_dich": "10/09/19",
+                        "mo_ta": "Ttr A%c.11.0010.10910996",
+                        "ghi_no": 82000000.0,
+                        "ghi_co": 36000000.0,
+                        "so_du": 59799.0,
+                        "nguoi_huong_chuyen": "HOANG BAO LY",
+                        "ngan_hang_huong_chuyen": "MARITIME BANK"
+                    },
+                    {
+                        "stt": "240",
+                        "ngay_giao_dich": "10/09/10",
+                        "mo_ta": "TO CAMMACHOVAN HED ODDO BEFORD",
+                        "ghi_no": 3600000.0,
+                        "ghi_co": 3300000.0,
+                        "so_du": 8359799.0,
+                        "nguoi_huong_chuyen": "PHAM THANH SON",
+                        "ngan_hang_huong_chuyen": "NHƯ MCP NGOẠND"
+                    },
+                    {
+                        "stt": "241",
+                        "ngay_giao_dich": "11/09/19",
+                        "mo_ta": "Tfr Aic: 11001010910996",
+                        "ghi_no": 36000000.0,
+                        "ghi_co": 45000000.0,
+                        "so_du": 48359799.0,
+                        "nguoi_huong_chuyen": "HOANG BAO LY",
+                        "ngan_hang_huong_chuyen": "MARITIME BANK"
+                    },
+                    {
+                        "stt": "242",
+                        "ngay_giao_dich": "\"1995...",
+                        "mo_ta": "CONTRANSPORTIONALISTS",
+                        "ghi_no": 180000.0,
+                        "ghi_co": 1.0,
+                        "so_du": 0.0,
+                        "nguoi_huong_chuyen": "CONSTRUCTIONALIZATION",
+                        "ngan_hang_huong_chuyen": "HEPTREST VW CHI DO"
+                    },
+                    {
+                        "stt": "24",
+                        "ngay_giao_dich": "\"1995...",
+                        "mo_ta": "CONTRANSPORTIONALISTS",
+                        "ghi_no": 0.0,
+                        "ghi_co": 1.0,
+                        "so_du": 0.0,
+                        "nguoi_huong_chuyen": "CONSTRY SOCTIONALLY",
+                        "ngan_hang_huong_chuyen": "HEPTREST VW CHI DO"
+                    },
+                    {
+                        "stt": "244",
+                        "ngay_giao_dich": "11/09/19",
+                        "mo_ta": "Tfr AVc: 11001010910996",
+                        "ghi_no": 36000000.0,
+                        "ghi_co": 44000000.0,
+                        "so_du": 47346599.0,
+                        "nguoi_huong_chuyen": "HOANG BAO LY",
+                        "ngan_hang_huong_chuyen": "MARITIME BANK"
+                    },
+                    {
+                        "stt": "246",
+                        "ngay_giao_dich": "11991.",
+                        "mo_ta": "CHÍNH THỊ THỊ THỊ ĐIỀU THỊ THỊ THỊ THỊ THỊ THUẬN THUẬN ĐÔNG",
+                        "ghi_no": 14000.0,
+                        "ghi_co": 1.0,
+                        "so_du": 0.0,
+                        "nguoi_huong_chuyen": "CONSTY SON THEOLOGIST",
+                        "ngan_hang_huong_chuyen": "HEPTREST VWICH SO"
+                    },
+                    {
+                        "stt": "246",
+                        "ngay_giao_dich": "1199/19",
+                        "mo_ta": "CHÍNH THỊ THỊ THỊ THỊ THỊ THỊ THUẬN THUẬN CHOA",
+                        "ghi_no": 0.0,
+                        "ghi_co": 0.0,
+                        "so_du": 2255.189,
+                        "nguoi_huong_chuyen": "CONSUPPORTUNENTLY",
+                        "ngan_hang_huong_chuyen": "HEOTRAPT VNCHSO"
+                    },
+                    {
+                        "stt": "247",
+                        "ngay_giao_dich": "11/09/19",
+                        "mo_ta": "Tfr AVc: 11001010910996",
+                        "ghi_no": 36000000.0,
+                        "ghi_co": 40500000.0,
+                        "so_du": 42833399.0,
+                        "nguoi_huong_chuyen": "HOANG BAO LY",
+                        "ngan_hang_huong_chuyen": "MARITIME BANK"
+                    },
+                    {
+                        "stt": "248",
+                        "ngay_giao_dich": "1209/19",
+                        "mo_ta": "SUNHEM QUOC GY HOA BINH",
+                        "ghi_no": 3600000.0,
+                        "ghi_co": 8316000.0,
+                        "so_du": 51144399.0,
+                        "nguoi_huong_chuyen": "CHOA BỆNH HOÀN FICH",
+                        "ngan_hang_huong_chuyen": "nhuong con Công Da"
+                    },
+                    {
+                        "stt": "249",
+                        "ngay_giao_dich": "xạng n.",
+                        "mo_ta": "CONTRANSPECTIONALISTS",
+                        "ghi_no": 0.0,
+                        "ghi_co": 1.0,
+                        "so_du": 0.0,
+                        "nguoi_huong_chuyen": "CONG LIÊN SỐC THỊ THUẬT THỊ THỊ",
+                        "ngan_hang_huong_chuyen": "HEPTREFT WW CHOO"
+                    },
+                    {
+                        "stt": "260",
+                        "ngay_giao_dich": "xạng n.",
+                        "mo_ta": "CONTRANSPECTIONALISTS",
+                        "ghi_no": 0.0,
+                        "ghi_co": 1.0,
+                        "so_du": 0.0,
+                        "nguoi_huong_chuyen": "CONSTRUCTIONALISTS",
+                        "ngan_hang_huong_chuyen": "HEPTREST VW CHISO"
+                    }
+                ],
+                "tong_ket": {
+                    "tong_ghi_no": 0.0,
+                    "tong_ghi_co": 0.0
+                }
+            }
+        }
+    },
+    {
+        "image": "D:/Private/Project/kaggle/VietOCR/ocr_with_normal_table/output/json\\images\\page_MSBbank_18.jpg",
+        "ground_truth": {
+            "gt_parse": {
+                "ten_ngan_hang": "",
+                "ma_khach_hang": "",
+                "thong_tin_tai_khoan": {
+                    "ten_chu_tai_khoan": "",
+                    "so_tai_khoan": "",
+                    "kinh_gui": "",
+                    "mst_khach_hang": "",
+                    "so_du_dau": 0.0
+                },
+                "ten_cac_cot": [
+                    "STT",
+                    "Ngày/Date",
+                    "Mô tả/Description",
+                    "Ghi nợ/Debt",
+                    "Ghi có/Credit",
+                    "Số dư/Balance",
+                    "Ng.hưởng/chuyển",
+                    "NH.hưởng/chuyển"
+                ],
+                "giao_dich": [
+                    {
+                        "stt": "251",
+                        "ngay_giao_dich": "12/99/19",
+                        "mo_ta": "AHCOM KIN THANH TGOAN LAN",
+                        "ghi_no": 3600000.0,
+                        "ghi_co": 3800000.0,
+                        "so_du": 17568999.0,
+                        "nguoi_huong_chuyen": "CT TNIH AHCOM HA",
+                        "ngan_hang_huong_chuyen": "huong cen chong Da"
+                    },
+                    {
+                        "stt": "252",
+                        "ngay_giao_dich": "12009/19",
+                        "mo_ta": "HA2205780 PHU PA, 106, 20ANG",
+                        "ghi_no": 3600000.0,
+                        "ghi_co": 46335000.0,
+                        "so_du": 0.0,
+                        "nguoi_huong_chuyen": "TRONG CAO TÔI CÁ",
+                        "ngan_hang_huong_chuyen": "Nhương cho chạt hầm cn"
+                    },
+                    {
+                        "stt": "253",
+                        "ngay_giao_dich": "14/09/19",
+                        "mo_ta": "RUT TM CHO SHITEK",
+                        "ghi_no": 3300.0,
+                        "ghi_co": 38000000.0,
+                        "so_du": 63885099.0,
+                        "nguoi_huong_chuyen": "036000000",
+                        "ngan_hang_huong_chuyen": "Construction"
+                    },
+                    {
+                        "stt": "254",
+                        "ngay_giao_dich": "14/09/19",
+                        "mo_ta": "Ttr A/c: 110010.10910996",
+                        "ghi_no": 60000000.0,
+                        "ghi_co": 36000000.0,
+                        "so_du": 3885099.0,
+                        "nguoi_huong_chuyen": "HOANG BAO LY",
+                        "ngan_hang_huong_chuyen": "MARITIME BANK"
+                    },
+                    {
+                        "stt": "255",
+                        "ngay_giao_dich": "17/09/19",
+                        "mo_ta": "Cong ty Thuy Duong chuyen tien",
+                        "ghi_no": 38000000.0,
+                        "ghi_co": 58025000.0,
+                        "so_du": 61910099.0,
+                        "nguoi_huong_chuyen": "THUYDUONGO.LTD",
+                        "ngan_hang_huong_chuyen": "NH TMCP Quan doi"
+                    },
+                    {
+                        "stt": "256",
+                        "ngay_giao_dich": "17/09/19",
+                        "mo_ta": "Ttr A/c: 110010.10910996",
+                        "ghi_no": 60000000.0,
+                        "ghi_co": 36000000.0,
+                        "so_du": 1910099.0,
+                        "nguoi_huong_chuyen": "HOANG BAO LY",
+                        "ngan_hang_huong_chuyen": "MARITIME BANK"
+                    },
+                    {
+                        "stt": "257",
+                        "ngay_giao_dich": "17/09/19",
+                        "mo_ta": "RUT TM CHO SHITEK",
+                        "ghi_no": 3300.0,
+                        "ghi_co": 36000000.0,
+                        "so_du": 1906799.0,
+                        "nguoi_huong_chuyen": "036000000",
+                        "ngan_hang_huong_chuyen": "Discomplicate"
+                    },
+                    {
+                        "stt": "252",
+                        "ngay_giao_dich": "17.095.",
+                        "mo_ta": "CONTERRIAL TO TO TO THI THE PHONE THUNG CHUNG CHUNG CỔ",
+                        "ghi_no": 0.0,
+                        "ghi_co": 712.0,
+                        "so_du": 8400479200.0,
+                        "nguoi_huong_chuyen": "Chick",
+                        "ngan_hang_huong_chuyen": "Chick"
+                    },
+                    {
+                        "stt": "........",
+                        "ngay_giao_dich": "\"7,7,2002\"",
+                        "mo_ta": "\"Transchoologist\"\"\"",
+                        "ghi_no": 1.0,
+                        "ghi_co": 0.0,
+                        "so_du": 0.0,
+                        "nguoi_huong_chuyen": "1",
+                        "ngan_hang_huong_chuyen": "1"
+                    },
+                    {
+                        "stt": "-",
+                        "ngay_giao_dich": ".................................................................................................................................",
+                        "mo_ta": "P",
+                        "ghi_no": 0.0,
+                        "ghi_co": 0.0,
+                        "so_du": 0.0,
+                        "nguoi_huong_chuyen": "-",
+                        "ngan_hang_huong_chuyen": "CHINH"
+                    }
+                ],
+                "tong_ket": {
+                    "tong_ghi_no": 0.0,
+                    "tong_ghi_co": 0.0
+                }
+            }
+        }
+    },
+    {
+        "image": "D:/Private/Project/kaggle/VietOCR/ocr_with_normal_table/output/json\\images\\page_MSBbank_19.jpg",
+        "ground_truth": {
+            "gt_parse": {
+                "ten_ngan_hang": "",
+                "ma_khach_hang": "",
+                "thong_tin_tai_khoan": {
+                    "ten_chu_tai_khoan": "",
+                    "so_tai_khoan": "",
+                    "kinh_gui": "",
+                    "mst_khach_hang": "",
+                    "so_du_dau": 0.0
+                },
+                "ten_cac_cot": [
+                    "STT",
+                    "Ngày/Date",
+                    "Mô tả/Description",
+                    "Ghi nợ/Debt",
+                    "Ghi có/Credit",
+                    "Số dư/Balance",
+                    "Ng.hưởng/chuyển",
+                    "NH.hưởng/chuyển"
+                ],
+                "giao_dich": [
+                    {
+                        "stt": "-",
+                        "ngay_giao_dich": "?................................................................................................................................",
+                        "mo_ta": "P",
+                        "ghi_no": 0.0,
+                        "ghi_co": 0.0,
+                        "so_du": 0.0,
+                        "nguoi_huong_chuyen": "-",
+                        "ngan_hang_huong_chuyen": "03600000000"
+                    },
+                    {
+                        "stt": "262",
+                        "ngay_giao_dich": "19/09/19",
+                        "mo_ta": "Cong ty Thuy Duong chuyen tien",
+                        "ghi_no": 36000000.0,
+                        "ghi_co": 3520000.0,
+                        "so_du": 14045799.0,
+                        "nguoi_huong_chuyen": "THUYDUONGO.LTD",
+                        "ngan_hang_huong_chuyen": "NH TMCP Quan doi"
+                    },
+                    {
+                        "stt": "263",
+                        "ngay_giao_dich": "22/09/19",
+                        "mo_ta": "Ttr Alc.11001010910996",
+                        "ghi_no": 10000000.0,
+                        "ghi_co": 0.0,
+                        "so_du": 4045799.0,
+                        "nguoi_huong_chuyen": "HOANG BAO LY",
+                        "ngan_hang_huong_chuyen": "MARITIME BANK"
+                    },
+                    {
+                        "stt": "264",
+                        "ngay_giao_dich": "22/09/19",
+                        "mo_ta": "RUT TM CHO SHITEK",
+                        "ghi_no": 3300.0,
+                        "ghi_co": 36000000.0,
+                        "so_du": 4042499.0,
+                        "nguoi_huong_chuyen": "036000000",
+                        "ngan_hang_huong_chuyen": "Discomplicate"
+                    },
+                    {
+                        "stt": "265",
+                        "ngay_giao_dich": "22409/19",
+                        "mo_ta": "PHÁT CHIẾN THỨC THÁNG BIỆO NGOÀI",
+                        "ghi_no": 3600000.0,
+                        "ghi_co": 9900000.0,
+                        "so_du": 13942499.0,
+                        "nguoi_huong_chuyen": "SACEP DUO KIM GIANG",
+                        "ngan_hang_huong_chuyen": "NHUTMOP MCOALD"
+                    },
+                    {
+                        "stt": "266",
+                        "ngay_giao_dich": "26/09/19",
+                        "mo_ta": "Ttr A/c: 11.0010.0910996",
+                        "ghi_no": 4000000.0,
+                        "ghi_co": 36000000.0,
+                        "so_du": 9942499.0,
+                        "nguoi_huong_chuyen": "HOANG BAO LY",
+                        "ngan_hang_huong_chuyen": "MARITIME BANK"
+                    },
+                    {
+                        "stt": "267",
+                        "ngay_giao_dich": "26/09/19",
+                        "mo_ta": "RUT TM CHO SHITEK",
+                        "ghi_no": 3300.0,
+                        "ghi_co": 36000000.0,
+                        "so_du": 0.0,
+                        "nguoi_huong_chuyen": "036000000",
+                        "ngan_hang_huong_chuyen": "Discomplicate"
+                    },
+                    {
+                        "stt": "260",
+                        "ngay_giao_dich": "29.00.",
+                        "mo_ta": "03600000009900271",
+                        "ghi_no": 18000.0,
+                        "ghi_co": 1.0,
+                        "so_du": 0.0,
+                        "nguoi_huong_chuyen": "CÔNG TY THINH",
+                        "ngan_hang_huong_chuyen": "permunce race đã \"................. đã \"........................................................................................."
+                    },
+                    {
+                        "stt": "260",
+                        "ngay_giao_dich": "29.00.",
+                        "mo_ta": "03600000009900271",
+                        "ghi_no": 0.0,
+                        "ghi_co": 1.0,
+                        "so_du": 0.0,
+                        "nguoi_huong_chuyen": "CÔNG TY TRINH",
+                        "ngan_hang_huong_chuyen": "HERTHACEP TRANH đÃ THỊ THỊ THUY"
+                    },
+                    {
+                        "stt": "270",
+                        "ngay_giao_dich": "30/09/19",
+                        "mo_ta": "TRA LAI TIEN GUI KKH",
+                        "ghi_no": 36000000.0,
+                        "ghi_co": 2117.0,
+                        "so_du": 428116.0,
+                        "nguoi_huong_chuyen": "036000000",
+                        "ngan_hang_huong_chuyen": "Discomplicate"
+                    },
+                    {
+                        "stt": "271",
+                        "ngay_giao_dich": "30/09/19",
+                        "mo_ta": "0360000000",
+                        "ghi_no": 55000.0,
+                        "ghi_co": 36000000.0,
+                        "so_du": 373116.0,
+                        "nguoi_huong_chuyen": "036000000",
+                        "ngan_hang_huong_chuyen": "Discomplicate"
+                    },
+                    {
+                        "stt": "272",
+                        "ngay_giao_dich": "02210/19",
+                        "mo_ta": "CHIẾN THỊ THỊ THUẬN NGUỒI PHÒNG HONG TÔNG TÔNG",
+                        "ghi_no": 3600000.0,
+                        "ghi_co": 34061775.0,
+                        "so_du": 0.0,
+                        "nguoi_huong_chuyen": "CONG TY TNH BIEN",
+                        "ngan_hang_huong_chuyen": "nhương việt hầm cn"
+                    },
+                    {
+                        "stt": "273",
+                        "ngay_giao_dich": "02/10/19",
+                        "mo_ta": "TRẦN TOÀN LƯƠNG THÁNG",
+                        "ghi_no": 0.0,
+                        "ghi_co": 0.0,
+                        "so_du": 0.0,
+                        "nguoi_huong_chuyen": "HOANG BAO LY",
+                        "ngan_hang_huong_chuyen": "MARITIME BANK"
+                    }
+                ],
+                "tong_ket": {
+                    "tong_ghi_no": 0.0,
+                    "tong_ghi_co": 0.0
+                }
+            }
+        }
+    },
+    {
+        "image": "D:/Private/Project/kaggle/VietOCR/ocr_with_normal_table/output/json\\images\\page_MSBbank_20.jpg",
+        "ground_truth": {
+            "gt_parse": {
+                "ten_ngan_hang": "",
+                "ma_khach_hang": "",
+                "thong_tin_tai_khoan": {
+                    "ten_chu_tai_khoan": "",
+                    "so_tai_khoan": "",
+                    "kinh_gui": "",
+                    "mst_khach_hang": "",
+                    "so_du_dau": 0.0
+                },
+                "ten_cac_cot": [
+                    "STT",
+                    "Ngày/Date",
+                    "Mô tả/Description",
+                    "Ghi nợ/Debt",
+                    "Ghi có/Credit",
+                    "Số dư/Balance",
+                    "Ng.hưởng/chuyển",
+                    "NH.hưởng/chuyển"
+                ],
+                "giao_dich": [
+                    {
+                        "stt": "274",
+                        "ngay_giao_dich": "02/10/19",
+                        "mo_ta": "THANH TOAN LUONG THANG",
+                        "ghi_no": 3300.0,
+                        "ghi_co": 36000000.0,
+                        "so_du": 8431591.0,
+                        "nguoi_huong_chuyen": "036000000",
+                        "ngan_hang_huong_chuyen": "036000000"
+                    },
+                    {
+                        "stt": "275",
+                        "ngay_giao_dich": "03/10/19",
+                        "mo_ta": "Ttr Alc.11001010910996",
+                        "ghi_no": 8000000.0,
+                        "ghi_co": 0.0,
+                        "so_du": 431591.0,
+                        "nguoi_huong_chuyen": "HOANG BAO LY",
+                        "ngan_hang_huong_chuyen": "MARITIME BANK"
+                    },
+                    {
+                        "stt": "276",
+                        "ngay_giao_dich": "03/10/19",
+                        "mo_ta": "RUT TM CHO SHITEK",
+                        "ghi_no": 3300.0,
+                        "ghi_co": 36000000.0,
+                        "so_du": 428291.0,
+                        "nguoi_huong_chuyen": "Deconcession",
+                        "ngan_hang_huong_chuyen": "Discomplicate"
+                    },
+                    {
+                        "stt": "277",
+                        "ngay_giao_dich": "00/10/19",
+                        "mo_ta": "HONĐAO TO YP CTMUA",
+                        "ghi_no": 3600000.0,
+                        "ghi_co": 11088000.0,
+                        "so_du": 11616291.0,
+                        "nguoi_huong_chuyen": "CHOA BỆNH HOÀN FICH",
+                        "ngan_hang_huong_chuyen": "NHƯƠN CP CÒN BÌNH"
+                    },
+                    {
+                        "stt": "278",
+                        "ngay_giao_dich": "04/10/19",
+                        "mo_ta": "HOẶC CHIẾU DÂY CHUYỂN CA NỘT HỒ",
+                        "ghi_no": 3600000.0,
+                        "ghi_co": 67534500.0,
+                        "so_du": 79050791.0,
+                        "nguoi_huong_chuyen": "STCP VOXE NAM",
+                        "ngan_hang_huong_chuyen": "Nhương na vào thầm cn"
+                    },
+                    {
+                        "stt": "279",
+                        "ngay_giao_dich": "04/10/19",
+                        "mo_ta": "RUT TM CHO CONG TY SHITEK",
+                        "ghi_no": 3300.0,
+                        "ghi_co": 36000000.0,
+                        "so_du": 79047491.0,
+                        "nguoi_huong_chuyen": "036000000",
+                        "ngan_hang_huong_chuyen": "Construction"
+                    },
+                    {
+                        "stt": "280",
+                        "ngay_giao_dich": "04/10/19",
+                        "mo_ta": "HIỀN TÊM CHO CÔNG TY SHITEK",
+                        "ghi_no": 70000000.0,
+                        "ghi_co": 0.0,
+                        "so_du": 9047491.0,
+                        "nguoi_huong_chuyen": "hoang bao ly",
+                        "ngan_hang_huong_chuyen": "MARITIME BANK"
+                    },
+                    {
+                        "stt": "281",
+                        "ngay_giao_dich": "07/10/19",
+                        "mo_ta": "Ttr Alc: 11001010910996",
+                        "ghi_no": 9000000.0,
+                        "ghi_co": 0.0,
+                        "so_du": 47491.0,
+                        "nguoi_huong_chuyen": "HOANG BAO LY",
+                        "ngan_hang_huong_chuyen": "MARITIME BANK"
+                    },
+                    {
+                        "stt": "282",
+                        "ngay_giao_dich": "07/10/19",
+                        "mo_ta": "RUT TM CHO SHITEK",
+                        "ghi_no": 3300.0,
+                        "ghi_co": 36000000.0,
+                        "so_du": 44191.0,
+                        "nguoi_huong_chuyen": "036000000",
+                        "ngan_hang_huong_chuyen": "Discomplicate"
+                    },
+                    {
+                        "stt": "260",
+                        "ngay_giao_dich": "opposes",
+                        "mo_ta": "contranschoologists",
+                        "ghi_no": 1.0,
+                        "ghi_co": 0.0,
+                        "so_du": 0.0,
+                        "nguoi_huong_chuyen": "1",
+                        "ngan_hang_huong_chuyen": "1"
+                    },
+                    {
+                        "stt": "284",
+                        "ngay_giao_dich": "09/10/19",
+                        "mo_ta": "Ttr A/c: 11.0010.0910996",
+                        "ghi_no": 14000000.0,
+                        "ghi_co": 36000000.0,
+                        "so_du": 14191.0,
+                        "nguoi_huong_chuyen": "HOANG BAO LY",
+                        "ngan_hang_huong_chuyen": "MARITIME BANK"
+                    },
+                    {
+                        "stt": "285",
+                        "ngay_giao_dich": "09/10/19",
+                        "mo_ta": "RUT TM CHO SHITEK",
+                        "ghi_no": 3300.0,
+                        "ghi_co": 36000000.0,
+                        "so_du": 10891.0,
+                        "nguoi_huong_chuyen": "036000000",
+                        "ngan_hang_huong_chuyen": "Discomplicate"
+                    },
+                    {
+                        "stt": ".00",
+                        "ngay_giao_dich": "negger",
+                        "mo_ta": "Thành chính thị cho chính thị thị thức",
+                        "ghi_no": 1.0,
+                        "ghi_co": 0.0,
+                        "so_du": 2002200.0,
+                        "nguoi_huong_chuyen": "THEOCHELISM",
+                        "ngan_hang_huong_chuyen": "\"chiến chính\"\"\""
+                    },
+                    {
+                        "stt": "287",
+                        "ngay_giao_dich": "15/10/19",
+                        "mo_ta": "Ttr A/c: 11001010910996",
+                        "ghi_no": 9000000.0,
+                        "ghi_co": 36000000.0,
+                        "so_du": 52891.0,
+                        "nguoi_huong_chuyen": "HOANG BAO LY",
+                        "ngan_hang_huong_chuyen": "MARITIME BANK"
+                    },
+                    {
+                        "stt": "288",
+                        "ngay_giao_dich": "15/10/19",
+                        "mo_ta": "RUT TM CHO SHITEK",
+                        "ghi_no": 3300.0,
+                        "ghi_co": 36000000.0,
+                        "so_du": 49591.0,
+                        "nguoi_huong_chuyen": "036000000",
+                        "ngan_hang_huong_chuyen": "Discomplicate"
+                    },
+                    {
+                        "stt": "289",
+                        "ngay_giao_dich": "16/10/19",
+                        "mo_ta": "a 177 nam 10.000.000.000 long bien chuyen",
+                        "ghi_no": 3600000.0,
+                        "ghi_co": 2090000.0,
+                        "so_du": 2139591.0,
+                        "nguoi_huong_chuyen": "Charter",
+                        "ngan_hang_huong_chuyen": "Charley"
+                    }
+                ],
+                "tong_ket": {
+                    "tong_ghi_no": 0.0,
+                    "tong_ghi_co": 0.0
+                }
+            }
+        }
+    },
+    {
+        "image": "D:/Private/Project/kaggle/VietOCR/ocr_with_normal_table/output/json\\images\\page_MSBbank_21.jpg",
+        "ground_truth": {
+            "gt_parse": {
+                "ten_ngan_hang": "",
+                "ma_khach_hang": "",
+                "thong_tin_tai_khoan": {
+                    "ten_chu_tai_khoan": "",
+                    "so_tai_khoan": "",
+                    "kinh_gui": "",
+                    "mst_khach_hang": "",
+                    "so_du_dau": 0.0
+                },
+                "ten_cac_cot": [
+                    "STT",
+                    "Ngày/Date",
+                    "Mô tả/Description",
+                    "Ghi nợ/Debt",
+                    "Ghi có/Credit",
+                    "Số dư/Balance",
+                    "Ng.hưởng/chuyển",
+                    "NH.hưởng/chuyển"
+                ],
+                "giao_dich": [
+                    {
+                        "stt": "290",
+                        "ngay_giao_dich": "21/50.19",
+                        "mo_ta": "CONTRACTISTICODORDANTITICATORIES",
+                        "ghi_no": 3600000.0,
+                        "ghi_co": 61100000.0,
+                        "so_du": 68239501.0,
+                        "nguoi_huong_chuyen": "INSTXGPDYOTO",
+                        "ngan_hang_huong_chuyen": "Nhưng nhạ cho thiểm chính"
+                    },
+                    {
+                        "stt": "291",
+                        "ngay_giao_dich": "21/10/19",
+                        "mo_ta": "RUT TM CHO SHITEK",
+                        "ghi_no": 3300.0,
+                        "ghi_co": 36000000.0,
+                        "so_du": 63236291.0,
+                        "nguoi_huong_chuyen": "036000000",
+                        "ngan_hang_huong_chuyen": "Deconcession"
+                    },
+                    {
+                        "stt": "292",
+                        "ngay_giao_dich": "21/10/19",
+                        "mo_ta": "Ttr A/c.11.0010 109/10996",
+                        "ghi_no": 60000000.0,
+                        "ghi_co": 36000000.0,
+                        "so_du": 3236291.0,
+                        "nguoi_huong_chuyen": "HOANG BAO LY",
+                        "ngan_hang_huong_chuyen": "MARITIME BANK"
+                    },
+                    {
+                        "stt": "293",
+                        "ngay_giao_dich": "22/10/10",
+                        "mo_ta": "CHIẾN THỊ THỊ THỊ THỊ THỊ THỊ THỊ THUYỀN THUYỀN THỊ THỊ O PHÚ PHÚ",
+                        "ghi_no": 3600000.0,
+                        "ghi_co": 33000000.0,
+                        "so_du": 0.0,
+                        "nguoi_huong_chuyen": "SCACEP DY O NIM GIANG",
+                        "ngan_hang_huong_chuyen": "Nhương cho chạt hầm cn"
+                    },
+                    {
+                        "stt": "294",
+                        "ngay_giao_dich": "zanaga",
+                        "mo_ta": "031000000000055",
+                        "ghi_no": 0.0,
+                        "ghi_co": 0.0,
+                        "so_du": 0.0,
+                        "nguoi_huong_chuyen": "SILCESPHENAM",
+                        "ngan_hang_huong_chuyen": "HUMETRESTYWOHTP"
+                    },
+                    {
+                        "stt": "295",
+                        "ngay_giao_dich": "24/10/19",
+                        "mo_ta": "RUT TM CHO SHITEK",
+                        "ghi_no": 3300.0,
+                        "ghi_co": 0.0,
+                        "so_du": 57875491.0,
+                        "nguoi_huong_chuyen": "0360000000",
+                        "ngan_hang_huong_chuyen": "Discomplicate"
+                    },
+                    {
+                        "stt": "296",
+                        "ngay_giao_dich": "24/10/19",
+                        "mo_ta": "Ttr A/c: 110010.10910996",
+                        "ghi_no": 40000000.0,
+                        "ghi_co": 36000000.0,
+                        "so_du": 17875491.0,
+                        "nguoi_huong_chuyen": "HOANG BAO LY",
+                        "ngan_hang_huong_chuyen": "MARITIME BANK"
+                    },
+                    {
+                        "stt": "297",
+                        "ngay_giao_dich": "28.0/19",
+                        "mo_ta": "CỦA CCỐC VÀ HÒA CHATIẾN",
+                        "ghi_no": 3600000.0,
+                        "ghi_co": 118798675.0,
+                        "so_du": 136660166.0,
+                        "nguoi_huong_chuyen": "CÔNG TY TNHH HAN",
+                        "ngan_hang_huong_chuyen": "CHỈ HOÀN KHVI THUÔNG"
+                    },
+                    {
+                        "stt": "298",
+                        "ngay_giao_dich": "27/10/19",
+                        "mo_ta": "RUT TM CHO SHITEK",
+                        "ghi_no": 3300.0,
+                        "ghi_co": 36000000.0,
+                        "so_du": 0.0,
+                        "nguoi_huong_chuyen": "036000000",
+                        "ngan_hang_huong_chuyen": "Discomplicate"
+                    },
+                    {
+                        "stt": "299",
+                        "ngay_giao_dich": "27/20/19",
+                        "mo_ta": "Ttr ANc:11001010910996",
+                        "ghi_no": 36000000.0,
+                        "ghi_co": 3600000.0,
+                        "so_du": 100665866.0,
+                        "nguoi_huong_chuyen": "HOANG BAO LY",
+                        "ngan_hang_huong_chuyen": "MARITIME BANK"
+                    },
+                    {
+                        "stt": "300",
+                        "ngay_giao_dich": "aungzo",
+                        "mo_ta": "THUYỀN THỊ THUYỀN THỊ THỊ CHO THUẬT",
+                        "ghi_no": 0.0,
+                        "ghi_co": 0.0,
+                        "so_du": 0.0,
+                        "nguoi_huong_chuyen": "\"chiến chích thị thành chế\"\"\"",
+                        "ngan_hang_huong_chuyen": "Thuật Quản CHỉ Tháng"
+                    },
+                    {
+                        "stt": "301",
+                        "ngay_giao_dich": "agroggs",
+                        "mo_ta": "036000000005000009",
+                        "ghi_no": 18000.0,
+                        "ghi_co": 0.0,
+                        "so_du": 0.0,
+                        "nguoi_huong_chuyen": "trong quan có thành gian\"",
+                        "ngan_hang_huong_chuyen": "Quyếc CHi Thang"
+                    },
+                    {
+                        "stt": "302",
+                        "ngay_giao_dich": "zangpa",
+                        "mo_ta": "036000000035000",
+                        "ghi_no": 0.0,
+                        "ghi_co": 0.0,
+                        "so_du": 0.0,
+                        "nguoi_huong_chuyen": "CÔNG TY TRANH",
+                        "ngan_hang_huong_chuyen": "chính thược ranh đã mói"
+                    },
+                    {
+                        "stt": "200",
+                        "ngay_giao_dich": "zangpa",
+                        "mo_ta": "036000000035000",
+                        "ghi_no": 12.2,
+                        "ghi_co": 0.0,
+                        "so_du": 3261946600.0,
+                        "nguoi_huong_chuyen": "CÔNG TY TRANH",
+                        "ngan_hang_huong_chuyen": "chính thược ranh đã mói"
+                    },
+                    {
+                        "stt": "304",
+                        "ngay_giao_dich": "20/10/19",
+                        "mo_ta": "............................... khoảng, beacry thì công,.........................................................................",
+                        "ghi_no": 0.0,
+                        "ghi_co": 18167000.0,
+                        "so_du": 0.0,
+                        "nguoi_huong_chuyen": "SƯTNH TOYOTA HAI",
+                        "ngan_hang_huong_chuyen": "NHƯTMCP CON BÌNH"
+                    }
+                ],
+                "tong_ket": {
+                    "tong_ghi_no": 0.0,
+                    "tong_ghi_co": 0.0
+                }
+            }
+        }
+    },
+    {
+        "image": "D:/Private/Project/kaggle/VietOCR/ocr_with_normal_table/output/json\\images\\page_MSBbank_22.jpg",
+        "ground_truth": {
+            "gt_parse": {
+                "ten_ngan_hang": "",
+                "ma_khach_hang": "",
+                "thong_tin_tai_khoan": {
+                    "ten_chu_tai_khoan": "",
+                    "so_tai_khoan": "",
+                    "kinh_gui": "",
+                    "mst_khach_hang": "",
+                    "so_du_dau": 0.0
+                },
+                "ten_cac_cot": [
+                    "STT",
+                    "Ngày/Date",
+                    "Mô tả/Description",
+                    "Ghi nợ/Debt",
+                    "Ghi có/Credit",
+                    "Số dư/Balance",
+                    "Ng.hưởng/chuyển",
+                    "NH.hưởng/chuyển"
+                ],
+                "giao_dich": [
+                    {
+                        "stt": "306",
+                        "ngay_giao_dich": "maggers",
+                        "mo_ta": "CONTRONG THỊ THỊ THỊ THUYỀN",
+                        "ghi_no": 1.0,
+                        "ghi_co": 0.0,
+                        "so_du": 0.0,
+                        "nguoi_huong_chuyen": "staxishmen",
+                        "ngan_hang_huong_chuyen": "25 thị cu"
+                    },
+                    {
+                        "stt": "30e",
+                        "ngay_giao_dich": "29150010",
+                        "mo_ta": "03600000000055",
+                        "ghi_no": 0.0,
+                        "ghi_co": 7700.0,
+                        "so_du": 0.0,
+                        "nguoi_huong_chuyen": "CÂY THANH VÀ HOOL",
+                        "ngan_hang_huong_chuyen": "Exthicp sai Gon Ha"
+                    },
+                    {
+                        "stt": "307",
+                        "ngay_giao_dich": "31/20/19",
+                        "mo_ta": "TRA LAI TIEN GUI KKH",
+                        "ghi_no": 36000000.0,
+                        "ghi_co": 4735.0,
+                        "so_du": 82796401.0,
+                        "nguoi_huong_chuyen": "Deconcession",
+                        "ngan_hang_huong_chuyen": "Discomplicate"
+                    },
+                    {
+                        "stt": "308",
+                        "ngay_giao_dich": "31/20/19",
+                        "mo_ta": "0360000000",
+                        "ghi_no": 55000.0,
+                        "ghi_co": 36000000.0,
+                        "so_du": 82741401.0,
+                        "nguoi_huong_chuyen": "0360000003",
+                        "ngan_hang_huong_chuyen": "Discomplicate"
+                    },
+                    {
+                        "stt": "309",
+                        "ngay_giao_dich": "0451419",
+                        "mo_ta": "CÔNG HỌC CÒN, CÔNG DOAN",
+                        "ghi_no": 3600000.0,
+                        "ghi_co": 2640000.0,
+                        "so_du": 0.0,
+                        "nguoi_huong_chuyen": "SHIPPERCHEP OT BANH",
+                        "ngan_hang_huong_chuyen": "Nhương na Và Thầm CN"
+                    },
+                    {
+                        "stt": "310",
+                        "ngay_giao_dich": "05/11/19",
+                        "mo_ta": "Ttr A/c: 11001010910996",
+                        "ghi_no": 85000000.0,
+                        "ghi_co": 36000000.0,
+                        "so_du": 381401.0,
+                        "nguoi_huong_chuyen": "HOANG BAO LY",
+                        "ngan_hang_huong_chuyen": "MARITIME BANK"
+                    },
+                    {
+                        "stt": "311",
+                        "ngay_giao_dich": "05/11/19",
+                        "mo_ta": "RUT TM CHO SHITEK",
+                        "ghi_no": 3300.0,
+                        "ghi_co": 36000000.0,
+                        "so_du": 0.0,
+                        "nguoi_huong_chuyen": "036000000",
+                        "ngan_hang_huong_chuyen": "Discomplicate"
+                    },
+                    {
+                        "stt": "312",
+                        "ngay_giao_dich": "ospyr",
+                        "mo_ta": "TRONG CHIẾN PHỦ CHÍNH THỊ THỊ THỊ THỊ THỊ THỊ THẾ",
+                        "ghi_no": 1.0,
+                        "ghi_co": 0.0,
+                        "so_du": 0.0,
+                        "nguoi_huong_chuyen": "Congrammer P.500.000",
+                        "ngan_hang_huong_chuyen": "HOTAPT VHI VIỆC"
+                    },
+                    {
+                        "stt": "21",
+                        "ngay_giao_dich": "OẠC TỰ 3",
+                        "mo_ta": "TRONG THƯỜNG GIAO QUẢN HOÀNG ĐIỆP",
+                        "ghi_no": 0.0,
+                        "ghi_co": 0.0,
+                        "so_du": 3177445.0,
+                        "nguoi_huong_chuyen": "CONSEXTENSION",
+                        "ngan_hang_huong_chuyen": "một chương công tiếm cho"
+                    },
+                    {
+                        "stt": "314",
+                        "ngay_giao_dich": "09/11/19",
+                        "mo_ta": "RUT TM CHO SHITEK",
+                        "ghi_no": 3300.0,
+                        "ghi_co": 36000000.0,
+                        "so_du": 31371151.0,
+                        "nguoi_huong_chuyen": "036000000",
+                        "ngan_hang_huong_chuyen": "Discomplicate"
+                    },
+                    {
+                        "stt": "315",
+                        "ngay_giao_dich": "09/11/19",
+                        "mo_ta": "Ttr A/c.11001010910996",
+                        "ghi_no": 30000000.0,
+                        "ghi_co": 0.0,
+                        "so_du": 1371151.0,
+                        "nguoi_huong_chuyen": "HOANG BAO LY",
+                        "ngan_hang_huong_chuyen": "MAIRITIME BANK"
+                    },
+                    {
+                        "stt": "316",
+                        "ngay_giao_dich": "?5...2?",
+                        "mo_ta": "CÁC GIẢO THỊ ONG HUY PPHỤC",
+                        "ghi_no": 0.0,
+                        "ghi_co": 0.0,
+                        "so_du": 0.0,
+                        "nguoi_huong_chuyen": "Chủ Lược Phát Công Than",
+                        "ngan_hang_huong_chuyen": "PHƯƠNG THẾ PHÁT."
+                    },
+                    {
+                        "stt": "317",
+                        "ngay_giao_dich": "15/14/19",
+                        "mo_ta": "HEARTESTCONDOGE HAVACO LANG",
+                        "ghi_no": 3600000.0,
+                        "ghi_co": 69225000.0,
+                        "so_du": 97376151.0,
+                        "nguoi_huong_chuyen": "INSTXGPDYOTO",
+                        "ngan_hang_huong_chuyen": "Nhương Việt Nam CN"
+                    },
+                    {
+                        "stt": "318",
+                        "ngay_giao_dich": "18/11/19",
+                        "mo_ta": "RUT TM CHO SHITEK",
+                        "ghi_no": 3300.0,
+                        "ghi_co": 36000000.0,
+                        "so_du": 97372851.0,
+                        "nguoi_huong_chuyen": "036000000",
+                        "ngan_hang_huong_chuyen": "036000000"
+                    },
+                    {
+                        "stt": "319",
+                        "ngay_giao_dich": "18/21/19",
+                        "mo_ta": "Ttr A/c: 11.001010910996",
+                        "ghi_no": 97000000.0,
+                        "ghi_co": 36000000.0,
+                        "so_du": 372851.0,
+                        "nguoi_huong_chuyen": "HOANG BAO LY",
+                        "ngan_hang_huong_chuyen": "MARITIME BANK"
+                    }
+                ],
+                "tong_ket": {
+                    "tong_ghi_no": 0.0,
+                    "tong_ghi_co": 0.0
+                }
+            }
+        }
+    },
+    {
+        "image": "D:/Private/Project/kaggle/VietOCR/ocr_with_normal_table/output/json\\images\\page_MSBbank_23.jpg",
+        "ground_truth": {
+            "gt_parse": {
+                "ten_ngan_hang": "",
+                "ma_khach_hang": "",
+                "thong_tin_tai_khoan": {
+                    "ten_chu_tai_khoan": "",
+                    "so_tai_khoan": "",
+                    "kinh_gui": "",
+                    "mst_khach_hang": "",
+                    "so_du_dau": 0.0
+                },
+                "ten_cac_cot": [
+                    "STT",
+                    "Ngày/Date",
+                    "Mô tả/Description",
+                    "Ghi nợ/Debt",
+                    "Ghi có/Credit",
+                    "Số dư/Balance",
+                    "Ng.hưởng/chuyển",
+                    "NH.hưởng/chuyển"
+                ],
+                "giao_dich": [
+                    {
+                        "stt": "220",
+                        "ngay_giao_dich": "nacque",
+                        "mo_ta": "036000000000050",
+                        "ghi_no": 0.0,
+                        "ghi_co": 0.0,
+                        "so_du": 0.0,
+                        "nguoi_huong_chuyen": "ETCH ĐƯỢC TIÊN KHÔNG CHÍCH",
+                        "ngan_hang_huong_chuyen": "một thị cho, , tiếm cn"
+                    },
+                    {
+                        "stt": "321",
+                        "ngay_giao_dich": "19/11/19",
+                        "mo_ta": "TT phi dich vu nano xe T10-2019",
+                        "ghi_no": 36000000.0,
+                        "ghi_co": 3000000.0,
+                        "so_du": 26472851.0,
+                        "nguoi_huong_chuyen": "CTYC 2DVOTO",
+                        "ngan_hang_huong_chuyen": "NHTMCP Condinh"
+                    },
+                    {
+                        "stt": "322",
+                        "ngay_giao_dich": "22/11/19",
+                        "mo_ta": "RUT TM CHO SHITEK",
+                        "ghi_no": 3300.0,
+                        "ghi_co": 36000000.0,
+                        "so_du": 26469551.0,
+                        "nguoi_huong_chuyen": "036000000",
+                        "ngan_hang_huong_chuyen": "036000000"
+                    },
+                    {
+                        "stt": "323",
+                        "ngay_giao_dich": "22/11/1%",
+                        "mo_ta": "Ttr ANc:11001010910996",
+                        "ghi_no": 26000000.0,
+                        "ghi_co": 3600000.0,
+                        "so_du": 469551.0,
+                        "nguoi_huong_chuyen": "HOANG BAO LY",
+                        "ngan_hang_huong_chuyen": "MARITIME BANK"
+                    },
+                    {
+                        "stt": "324",
+                        "ngay_giao_dich": "28/11/19",
+                        "mo_ta": "ĐỒNG CHÍ VỀ SINH KHOẢNG",
+                        "ghi_no": 3600000.0,
+                        "ghi_co": 7150000.0,
+                        "so_du": 7619551.0,
+                        "nguoi_huong_chuyen": "STYTHAH TICTHOA",
+                        "ngan_hang_huong_chuyen": "CHi TMCP Quan doi"
+                    },
+                    {
+                        "stt": "325",
+                        "ngay_giao_dich": "28/11/19",
+                        "mo_ta": "Tfr A%. 110010.0910996",
+                        "ghi_no": 36000000.0,
+                        "ghi_co": 3300000.0,
+                        "so_du": 10919551.0,
+                        "nguoi_huong_chuyen": "HOANG BAO LY",
+                        "ngan_hang_huong_chuyen": "MARITIME BANK"
+                    },
+                    {
+                        "stt": "326",
+                        "ngay_giao_dich": "285,1/19",
+                        "mo_ta": "CONTRANSITIONALIZED",
+                        "ghi_no": 13200.0,
+                        "ghi_co": 0.0,
+                        "so_du": 10906351.0,
+                        "nguoi_huong_chuyen": "CÔNG TY TNHH",
+                        "ngan_hang_huong_chuyen": "Petrolimex CHP Hà noi"
+                    },
+                    {
+                        "stt": "327",
+                        "ngay_giao_dich": "285,1/19",
+                        "mo_ta": "03002 THE PROBB2 1 1005HMENTT",
+                        "ghi_no": 10500000.0,
+                        "ghi_co": 0.0,
+                        "so_du": 406351.0,
+                        "nguoi_huong_chuyen": "CÔNG TY TNHH",
+                        "ngan_hang_huong_chuyen": "Petrolimex CHP - xã noi"
+                    },
+                    {
+                        "stt": "200",
+                        "ngay_giao_dich": "29,..92?",
+                        "mo_ta": "chính thị thị thị thị cho thị trất nghị cho cho cho chính thế nghị cho cho chính thế chế nghị cho cho chế chế chế chế cho chế cho",
+                        "ghi_no": 0.0,
+                        "ghi_co": 0.0,
+                        "so_du": 0.0,
+                        "nguoi_huong_chuyen": "CHIẾP HÌNH THỊ GIANG",
+                        "ngan_hang_huong_chuyen": "Heijug Phy Thuong"
+                    },
+                    {
+                        "stt": "329",
+                        "ngay_giao_dich": "39/11/19",
+                        "mo_ta": "Ttr A/c: 110010.10910996",
+                        "ghi_no": 53000000.0,
+                        "ghi_co": 36000000.0,
+                        "so_du": 406351.0,
+                        "nguoi_huong_chuyen": "HOANG BAO LY",
+                        "ngan_hang_huong_chuyen": "MARITIME BANK"
+                    },
+                    {
+                        "stt": "330",
+                        "ngay_giao_dich": "39/11/19",
+                        "mo_ta": "RUT TM CHO SHITEK",
+                        "ghi_no": 3300.0,
+                        "ghi_co": 36000000.0,
+                        "so_du": 403051.0,
+                        "nguoi_huong_chuyen": "036000000",
+                        "ngan_hang_huong_chuyen": "Discomplicate"
+                    },
+                    {
+                        "stt": "331",
+                        "ngay_giao_dich": "39/11/19",
+                        "mo_ta": "0360000000",
+                        "ghi_no": 55000.0,
+                        "ghi_co": 0.0,
+                        "so_du": 348051.0,
+                        "nguoi_huong_chuyen": "Deconcession",
+                        "ngan_hang_huong_chuyen": "Discomplicate"
+                    },
+                    {
+                        "stt": "332",
+                        "ngay_giao_dich": "30/11/19",
+                        "mo_ta": "TRA LAI TIEN GUI KKH",
+                        "ghi_no": 36000000.0,
+                        "ghi_co": 5335.0,
+                        "so_du": 353386.0,
+                        "nguoi_huong_chuyen": "036000000",
+                        "ngan_hang_huong_chuyen": "Discomplicate"
+                    },
+                    {
+                        "stt": "338",
+                        "ngay_giao_dich": "00/12/19",
+                        "mo_ta": "CHIẾN THỊ THUẬN THỊ THUẬN THUÔ HOÀNG THANH TÔNG",
+                        "ghi_no": 3600000.0,
+                        "ghi_co": 21681000.0,
+                        "so_du": 22034346.0,
+                        "nguoi_huong_chuyen": "CONG TY LONH 'BIEN",
+                        "ngan_hang_huong_chuyen": "hiện đồng việt hầm cn"
+                    },
+                    {
+                        "stt": "334",
+                        "ngay_giao_dich": "05/12/19",
+                        "mo_ta": "RUT TM CHO SHITEK",
+                        "ghi_no": 3300.0,
+                        "ghi_co": 36000000.0,
+                        "so_du": 22031086.0,
+                        "nguoi_huong_chuyen": "Deconcession",
+                        "ngan_hang_huong_chuyen": "036000000"
+                    },
+                    {
+                        "stt": "335",
+                        "ngay_giao_dich": "05/12/19",
+                        "mo_ta": "Ttr A/c: 11001010910996",
+                        "ghi_no": 22000000.0,
+                        "ghi_co": 36000000.0,
+                        "so_du": 31086.0,
+                        "nguoi_huong_chuyen": "HOANG BAO LY",
+                        "ngan_hang_huong_chuyen": "MARITIME BANK"
+                    },
+                    {
+                        "stt": "386",
+                        "ngay_giao_dich": "12/12/19",
+                        "mo_ta": "TRONG THỊ THỊ THỊ THỊ HOÀNG THỊ THỊ THỊ THUẬN",
+                        "ghi_no": 0.0,
+                        "ghi_co": 12870000.0,
+                        "so_du": 12901086.0,
+                        "nguoi_huong_chuyen": "CTATNH HU TOYOTA",
+                        "ngan_hang_huong_chuyen": "Nhương Việt Nằm CN"
+                    }
+                ],
+                "tong_ket": {
+                    "tong_ghi_no": 0.0,
+                    "tong_ghi_co": 0.0
+                }
+            }
+        }
+    },
+    {
+        "image": "D:/Private/Project/kaggle/VietOCR/ocr_with_normal_table/output/json\\images\\page_MSBbank_24.jpg",
+        "ground_truth": {
+            "gt_parse": {
+                "ten_ngan_hang": "",
+                "ma_khach_hang": "",
+                "thong_tin_tai_khoan": {
+                    "ten_chu_tai_khoan": "",
+                    "so_tai_khoan": "",
+                    "kinh_gui": "",
+                    "mst_khach_hang": "",
+                    "so_du_dau": 0.0
+                },
+                "ten_cac_cot": [
+                    "STT",
+                    "Ngày/Date",
+                    "Mô tả/Description",
+                    "Ghi nợ/Debt",
+                    "Ghi có/Credit",
+                    "Số dư/Balance",
+                    "Ng.hưởng/chuyển",
+                    "NH.hưởng/chuyển"
+                ],
+                "giao_dich": [
+                    {
+                        "stt": "337",
+                        "ngay_giao_dich": "14/12/19",
+                        "mo_ta": "Ttr A/c: 11001010910996",
+                        "ghi_no": 12000000.0,
+                        "ghi_co": 36000000.0,
+                        "so_du": 901086.0,
+                        "nguoi_huong_chuyen": "HOANG BAO LY",
+                        "ngan_hang_huong_chuyen": "MARITIME BANK"
+                    },
+                    {
+                        "stt": "338",
+                        "ngay_giao_dich": "14/12/19",
+                        "mo_ta": "RUT TM CHO SHITEK",
+                        "ghi_no": 3300.0,
+                        "ghi_co": 0.0,
+                        "so_du": 897786.0,
+                        "nguoi_huong_chuyen": "036000000",
+                        "ngan_hang_huong_chuyen": "Discomplicate"
+                    },
+                    {
+                        "stt": "339",
+                        "ngay_giao_dich": "17/12/19",
+                        "mo_ta": "CONTRAILMEDIVOLUNCTICEONDO",
+                        "ghi_no": 3600000.0,
+                        "ghi_co": 27456000.0,
+                        "so_du": 28358786.0,
+                        "nguoi_huong_chuyen": "STCP VOXENAM",
+                        "ngan_hang_huong_chuyen": "hà hương việt hầm cn"
+                    },
+                    {
+                        "stt": "340",
+                        "ngay_giao_dich": "17/12/19",
+                        "mo_ta": "Ttr A/c.11.0010.10910996",
+                        "ghi_no": 28000000.0,
+                        "ghi_co": 36000000.0,
+                        "so_du": 353786.0,
+                        "nguoi_huong_chuyen": "HOANG BAO LY",
+                        "ngan_hang_huong_chuyen": "MARITIME BANK"
+                    },
+                    {
+                        "stt": "341",
+                        "ngay_giao_dich": "17/12/19",
+                        "mo_ta": "RUT TM CHO SHITEK",
+                        "ghi_no": 3300.0,
+                        "ghi_co": 36000000.0,
+                        "so_du": 350486.0,
+                        "nguoi_huong_chuyen": "036000000",
+                        "ngan_hang_huong_chuyen": "Discomplicate"
+                    },
+                    {
+                        "stt": "342",
+                        "ngay_giao_dich": "20112/19",
+                        "mo_ta": "CHIẾN THỊ CHO THỊ THỊ CÔNG CHO PHÚ",
+                        "ghi_no": 3600000.0,
+                        "ghi_co": 26400000.0,
+                        "so_du": 28750486.0,
+                        "nguoi_huong_chuyen": "SCACEP DY O NIM GIANG",
+                        "ngan_hang_huong_chuyen": "NEUTMOP NGOAND"
+                    },
+                    {
+                        "stt": "343",
+                        "ngay_giao_dich": "20/12/19",
+                        "mo_ta": "RUT TM CHO SHITEK",
+                        "ghi_no": 3300.0,
+                        "ghi_co": 36000000.0,
+                        "so_du": 0.0,
+                        "nguoi_huong_chuyen": "036000000",
+                        "ngan_hang_huong_chuyen": "Discomplicate"
+                    },
+                    {
+                        "stt": "344",
+                        "ngay_giao_dich": "20/12/19",
+                        "mo_ta": "Ttr A/c: 110010.10910996",
+                        "ghi_no": 26000000.0,
+                        "ghi_co": 36000000.0,
+                        "so_du": 747186.0,
+                        "nguoi_huong_chuyen": "HOANG BAO LY",
+                        "ngan_hang_huong_chuyen": "MARITIME BANK"
+                    },
+                    {
+                        "stt": "345",
+                        "ngay_giao_dich": "25/12/19",
+                        "mo_ta": "TRENSTRADODONSUCCO TRATALONG",
+                        "ghi_no": 3600000.0,
+                        "ghi_co": 26516875.0,
+                        "so_du": 27264061.0,
+                        "nguoi_huong_chuyen": "CONGTT. LONG 'BIEN",
+                        "ngan_hang_huong_chuyen": "NHUTMOP NGOẠI"
+                    },
+                    {
+                        "stt": "346",
+                        "ngay_giao_dich": "25/12/19",
+                        "mo_ta": "Ttr A/c.110010 10910996",
+                        "ghi_no": 27000000.0,
+                        "ghi_co": 38000000.0,
+                        "so_du": 264061.0,
+                        "nguoi_huong_chuyen": "HOANG BAO LY",
+                        "ngan_hang_huong_chuyen": "MARITIME BANK"
+                    },
+                    {
+                        "stt": "347",
+                        "ngay_giao_dich": "25/12/19",
+                        "mo_ta": "RUT TM CHO SHITEK",
+                        "ghi_no": 3300.0,
+                        "ghi_co": 36000000.0,
+                        "so_du": 260761.0,
+                        "nguoi_huong_chuyen": "036000000",
+                        "ngan_hang_huong_chuyen": "Discomplicate"
+                    },
+                    {
+                        "stt": "348",
+                        "ngay_giao_dich": "80/12/19",
+                        "mo_ta": "THANCON HOUNG DỊCH VỀ SINH",
+                        "ghi_no": 3600000.0,
+                        "ghi_co": 1705000.0,
+                        "so_du": 1985761.0,
+                        "nguoi_huong_chuyen": "STYCHOTO TRUONG",
+                        "ngan_hang_huong_chuyen": "NHO TEPT VN CN SO"
+                    },
+                    {
+                        "stt": "....",
+                        "ngay_giao_dich": "- 2.3.3....................................................",
+                        "mo_ta": "035000000035000035",
+                        "ghi_no": 1.0,
+                        "ghi_co": 0.0,
+                        "so_du": 0.0,
+                        "nguoi_huong_chuyen": "gây cộp xáo và viêu",
+                        "ngan_hang_huong_chuyen": "marger, michoa"
+                    },
+                    {
+                        "stt": "350",
+                        "ngay_giao_dich": "31/13/19",
+                        "mo_ta": "Ttr A/c.11.001010910996",
+                        "ghi_no": 13000000.0,
+                        "ghi_co": 38000000.0,
+                        "so_du": 295761.0,
+                        "nguoi_huong_chuyen": "HOANG BAO LY",
+                        "ngan_hang_huong_chuyen": "MARITIME BANK"
+                    },
+                    {
+                        "stt": "351",
+                        "ngay_giao_dich": "31/12/19",
+                        "mo_ta": "RUT TM CHO SHITEK",
+                        "ghi_no": 3300.0,
+                        "ghi_co": 36000000.0,
+                        "so_du": 292461.0,
+                        "nguoi_huong_chuyen": "036000000",
+                        "ngan_hang_huong_chuyen": "Discomplicate"
+                    },
+                    {
+                        "stt": "352",
+                        "ngay_giao_dich": "31/12/10",
+                        "mo_ta": "HOA HOA TRẬT CONN BỘ PHAYACO LÀNG",
+                        "ghi_no": 3600000.0,
+                        "ghi_co": 115560000.0,
+                        "so_du": 115852461.0,
+                        "nguoi_huong_chuyen": "CNGTX.5P.DVOTO",
+                        "ngan_hang_huong_chuyen": "Nhương cho các thiểm cn"
+                    },
+                    {
+                        "stt": "353",
+                        "ngay_giao_dich": "31/12/19",
+                        "mo_ta": "RUT TM CHO SHITEK",
+                        "ghi_no": 3300.0,
+                        "ghi_co": 36000000.0,
+                        "so_du": 0.0,
+                        "nguoi_huong_chuyen": "Deconcession",
+                        "ngan_hang_huong_chuyen": "Deconcession"
+                    }
+                ],
+                "tong_ket": {
+                    "tong_ghi_no": 0.0,
+                    "tong_ghi_co": 0.0
+                }
+            }
+        }
+    },
+    {
+        "image": "D:/Private/Project/kaggle/VietOCR/ocr_with_normal_table/output/json\\images\\page_MSBbank_25.jpg",
+        "ground_truth": {
+            "gt_parse": {
+                "ten_ngan_hang": "Ngân hàng MSB",
+                "ma_khach_hang": "",
+                "thong_tin_tai_khoan": {
+                    "ten_chu_tai_khoan": "",
+                    "so_tai_khoan": "",
+                    "kinh_gui": "",
+                    "mst_khach_hang": "",
+                    "so_du_dau": 0.0
+                },
+                "ten_cac_cot": [
+                    "STT",
+                    "Ngày/Date",
+                    "Mô tả/Description",
+                    "Ghi nợ/Debt",
+                    "Ghi có/Credit",
+                    "Số dư/Balance",
+                    "Ng.hưởng/chuyển",
+                    "NH.hưởng/chuyển"
+                ],
+                "giao_dich": [
+                    {
+                        "stt": "354",
+                        "ngay_giao_dich": "31/12/19",
+                        "mo_ta": "Ttr A/c: 11001010910996",
+                        "ghi_no": 115000000.0,
+                        "ghi_co": 36000000.0,
+                        "so_du": 849161.0,
+                        "nguoi_huong_chuyen": "HOANG BAO LY",
+                        "ngan_hang_huong_chuyen": "MARITIME BANK"
+                    },
+                    {
+                        "stt": "355",
+                        "ngay_giao_dich": "31/12/19",
+                        "mo_ta": "TRA LAI TIEN GUI KKH",
+                        "ghi_no": 0.0,
+                        "ghi_co": 443.0,
+                        "so_du": 849604.0,
+                        "nguoi_huong_chuyen": "036000000",
+                        "ngan_hang_huong_chuyen": "Discomplicate"
+                    },
+                    {
+                        "stt": "356",
+                        "ngay_giao_dich": "31/12/19",
+                        "mo_ta": "0360000000",
+                        "ghi_no": 55000.0,
+                        "ghi_co": 36000000.0,
+                        "so_du": 794604.0,
+                        "nguoi_huong_chuyen": "Deconcession",
+                        "ngan_hang_huong_chuyen": "Discomplicate"
+                    },
+                    {
+                        "stt": "0360000000",
+                        "ngay_giao_dich": "",
+                        "mo_ta": "",
+                        "ghi_no": 0.0,
+                        "ghi_co": 0.0,
+                        "so_du": 0.0,
+                        "nguoi_huong_chuyen": "",
+                        "ngan_hang_huong_chuyen": ""
+                    },
+                    {
+                        "stt": "Số dư đầu kỳ/Previous Statement Balace:",
+                        "ngay_giao_dich": "44,164,330.00",
+                        "mo_ta": "",
+                        "ghi_no": 0.0,
+                        "ghi_co": 0.0,
+                        "so_du": 0.0,
+                        "nguoi_huong_chuyen": "",
+                        "ngan_hang_huong_chuyen": ""
+                    },
+                    {
+                        "stt": "Tổng phát sinh trong kỳ/Summary Transaction:",
+                        "ngay_giao_dich": "3,968,005,210.0",
+                        "mo_ta": "3,924,635,484.0",
+                        "ghi_no": 0.0,
+                        "ghi_co": 0.0,
+                        "so_du": 0.0,
+                        "nguoi_huong_chuyen": "",
+                        "ngan_hang_huong_chuyen": ""
+                    },
+                    {
+                        "stt": "Số dư cuối kỳ/Final Balance: 31/12/2019",
+                        "ngay_giao_dich": "794,604.00",
+                        "mo_ta": "",
+                        "ghi_no": 0.0,
+                        "ghi_co": 0.0,
+                        "so_du": 0.0,
+                        "nguoi_huong_chuyen": "",
+                        "ngan_hang_huong_chuyen": ""
+                    },
+                    {
+                        "stt": "030000000000035",
+                        "ngay_giao_dich": "",
+                        "mo_ta": "",
+                        "ghi_no": 0.0,
+                        "ghi_co": 0.0,
+                        "so_du": 0.0,
+                        "nguoi_huong_chuyen": "",
+                        "ngan_hang_huong_chuyen": ""
+                    }
+                ],
+                "tong_ket": {
+                    "tong_ghi_no": 0.0,
+                    "tong_ghi_co": 0.0
+                }
+            }
+        }
+    }
+]

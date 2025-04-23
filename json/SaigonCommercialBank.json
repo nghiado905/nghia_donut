@@ -1,0 +1,344 @@
+[
+    {
+        "image": "D:/Private/Project/kaggle/VietOCR/ocr_with_normal_table/output/json\\images\\page_SaigonCommercialBank_1.jpg",
+        "ground_truth": {
+            "gt_parse": {
+                "ten_ngan_hang": "Ngân hàng TMCP Sài Gòn",
+                "ma_khach_hang": "",
+                "thong_tin_tai_khoan": {
+                    "ten_chu_tai_khoan": "",
+                    "so_tai_khoan": "",
+                    "dia_chi_chi_nhanh": "Địa chì/",
+                    "loai_tien": "",
+                    "tu_ngay": "Từ ngàyl 01/01/2020",
+                    "den_ngay": "",
+                    "ngay_phat_sinh_truoc": "Ngày phát sinh trước/ 31/12/2019",
+                    "so_cmnd_dkdn": "",
+                    "so_du_dau_ky": 0.0,
+                    "so_du_cuoi_ky": 0.0,
+                    "so_du_kha_dung": 0.0
+                },
+                "ten_cac_cot": [
+                    "Ngày CT",
+                    "Số CT",
+                    "Nội dung",
+                    "PS Nợ",
+                    "PS Có",
+                    "GDV"
+                ],
+                "giao_dich": [
+                    {
+                        "ngay_giao_dich": "ob/01/2020",
+                        "so_chung_tu": "000IFT120006AOT9",
+                        "noi_dung": "Cong ty CP TM dai Duong cuyen",
+                        "so_tien_ghi_no": 0.0,
+                        "so_tien_ghi_co": 0.0,
+                        "so_du": 0.0,
+                        "nguoi_giao_dich": "EBGWU"
+                    },
+                    {
+                        "ngay_giao_dich": "conova...20",
+                        "so_chung_tu": "Proconnessors",
+                        "noi_dung": "CONTRANSPORTIONALISTS",
+                        "so_tien_ghi_no": 0.0,
+                        "so_tien_ghi_co": 0.0,
+                        "so_du": 0.0,
+                        "nguoi_giao_dich": "mmo"
+                    },
+                    {
+                        "ngay_giao_dich": "08/01/2020",
+                        "so_chung_tu": "000CTSB200084301",
+                        "noi_dung": "Han nop FT20008556755613",
+                        "so_tien_ghi_no": 0.0,
+                        "so_tien_ghi_co": 2000000.0,
+                        "so_du": 0.0,
+                        "nguoi_giao_dich": "EBGWU"
+                    },
+                    {
+                        "ngay_giao_dich": "10/01/2020",
+                        "so_chung_tu": "084UPMB200100058",
+                        "noi_dung": "SAU PHÍ DV SMBANKEERNESTZB",
+                        "so_tien_ghi_no": 44000.0,
+                        "so_tien_ghi_co": 0.0,
+                        "so_du": 0.0,
+                        "nguoi_giao_dich": "MBGWU"
+                    },
+                    {
+                        "ngay_giao_dich": "15/01/2020",
+                        "so_chung_tu": "FJB2001506400058",
+                        "noi_dung": "Thu phi tai khoan hoat dong",
+                        "so_tien_ghi_no": 33000.0,
+                        "so_tien_ghi_co": 0.0,
+                        "so_du": 0.0,
+                        "nguoi_giao_dich": "oragle"
+                    },
+                    {
+                        "ngay_giao_dich": "31/01/2020",
+                        "so_chung_tu": "064CAO3VNDO00001",
+                        "noi_dung": "Thanh toan lai tgtt",
+                        "so_tien_ghi_no": 0.0,
+                        "so_tien_ghi_co": 5078.0,
+                        "so_du": 0.0,
+                        "nguoi_giao_dich": "SYSTEM"
+                    },
+                    {
+                        "ngay_giao_dich": "10/02/2020",
+                        "so_chung_tu": "000CTSB20041A55T",
+                        "noi_dung": "Han FT20041555996074",
+                        "so_tien_ghi_no": 0.0,
+                        "so_tien_ghi_co": 10700000.0,
+                        "so_du": 0.0,
+                        "nguoi_giao_dich": "EBGWU"
+                    },
+                    {
+                        "ngay_giao_dich": "10.00.000",
+                        "so_chung_tu": "FUB20045 02.00223",
+                        "noi_dung": "CHÍNH THỊ THỊ THỊ THUYỀN THỊ THỊ THỊ THỊ THỊ THỊ THUY",
+                        "so_tien_ghi_no": 1400.0,
+                        "so_tien_ghi_co": 0.0,
+                        "so_du": 0.0,
+                        "nguoi_giao_dich": "suonghtn"
+                    },
+                    {
+                        "ngay_giao_dich": "14/02/2020",
+                        "so_chung_tu": "064UPMB200450032",
+                        "noi_dung": "BẦU PHÍ OY SMS IN KEERN75728",
+                        "so_tien_ghi_no": 44000.0,
+                        "so_tien_ghi_co": 0.0,
+                        "so_du": 0.0,
+                        "nguoi_giao_dich": "MBGWU"
+                    },
+                    {
+                        "ngay_giao_dich": "15/02/2020",
+                        "so_chung_tu": "FJB2004608400085",
+                        "noi_dung": "Thu phi tai khoan hoat dong",
+                        "so_tien_ghi_no": 33000.0,
+                        "so_tien_ghi_co": 0.0,
+                        "so_du": 0.0,
+                        "nguoi_giao_dich": "oracle"
+                    },
+                    {
+                        "ngay_giao_dich": "21/02/2020",
+                        "so_chung_tu": "000IFT1200522504",
+                        "noi_dung": "Cong ty CP TM dai Duong Cuyen",
+                        "so_tien_ghi_no": 0.0,
+                        "so_tien_ghi_co": 103408791.0,
+                        "so_du": 0.0,
+                        "nguoi_giao_dich": "EBGWU"
+                    },
+                    {
+                        "ngay_giao_dich": "220000000",
+                        "so_chung_tu": "PHARCONSOMODOTS",
+                        "noi_dung": "CONTRANSPORTIONALISTS",
+                        "so_tien_ghi_no": 0.0,
+                        "so_tien_ghi_co": 0.0,
+                        "so_du": 0.0,
+                        "nguoi_giao_dich": "THAOTTES"
+                    },
+                    {
+                        "ngay_giao_dich": "29/02/2020",
+                        "so_chung_tu": "064CAO3VNDO00001",
+                        "noi_dung": "THANH TOAN LAI TGTT",
+                        "so_tien_ghi_no": 0.0,
+                        "so_tien_ghi_co": 3781.0,
+                        "so_du": 0.0,
+                        "nguoi_giao_dich": "SYSTEM"
+                    },
+                    {
+                        "ngay_giao_dich": "12/08/2020",
+                        "so_chung_tu": "084UPMB200720532",
+                        "noi_dung": "SAU PHÍ DY SMSAINTERNES728",
+                        "so_tien_ghi_no": 44000.0,
+                        "so_tien_ghi_co": 0.0,
+                        "so_du": 0.0,
+                        "nguoi_giao_dich": "MBGWU"
+                    },
+                    {
+                        "ngay_giao_dich": "18/08/2020",
+                        "so_chung_tu": "FJB2007806400084",
+                        "noi_dung": "Thuo nhi tay khoan ngat dong",
+                        "so_tien_ghi_no": 33000.0,
+                        "so_tien_ghi_co": 0.0,
+                        "so_du": 0.0,
+                        "nguoi_giao_dich": "oracle"
+                    },
+                    {
+                        "ngay_giao_dich": "31/03/2020",
+                        "so_chung_tu": "064CAO3VNDOOCO01",
+                        "noi_dung": "THANH TOAN LAI TGTT",
+                        "so_tien_ghi_no": 0.0,
+                        "so_tien_ghi_co": 881.0,
+                        "so_du": 0.0,
+                        "nguoi_giao_dich": "system"
+                    },
+                    {
+                        "ngay_giao_dich": "08/04/2020",
+                        "so_chung_tu": "064UPMB200990059",
+                        "noi_dung": "HAU PHÍ DY SMSON KEEFUNF5728",
+                        "so_tien_ghi_no": 44000.0,
+                        "so_tien_ghi_co": 0.0,
+                        "so_du": 0.0,
+                        "nguoi_giao_dich": "MBGWU"
+                    },
+                    {
+                        "ngay_giao_dich": "18/04/2020",
+                        "so_chung_tu": "FUB2010608400122",
+                        "noi_dung": "Thuc nhi tai khoan hoat dong",
+                        "so_tien_ghi_no": 33000.0,
+                        "so_tien_ghi_co": 0.0,
+                        "so_du": 0.0,
+                        "nguoi_giao_dich": "oracle"
+                    }
+                ],
+                "tong_ket": {
+                    "tong_so_tien_ghi_no": 0.0,
+                    "tong_so_tien_ghi_co": 0.0
+                }
+            }
+        }
+    },
+    {
+        "image": "D:/Private/Project/kaggle/VietOCR/ocr_with_normal_table/output/json\\images\\page_SaigonCommercialBank_2.jpg",
+        "ground_truth": {
+            "gt_parse": {
+                "ten_ngan_hang": "",
+                "ma_khach_hang": "",
+                "thong_tin_tai_khoan": {
+                    "ten_chu_tai_khoan": "",
+                    "so_tai_khoan": "",
+                    "dia_chi_chi_nhanh": "",
+                    "loai_tien": "",
+                    "tu_ngay": "",
+                    "den_ngay": "",
+                    "ngay_phat_sinh_truoc": "",
+                    "so_cmnd_dkdn": "",
+                    "so_du_dau_ky": 0.0,
+                    "so_du_cuoi_ky": 0.0,
+                    "so_du_kha_dung": 0.0
+                },
+                "ten_cac_cot": [
+                    "Ngày CT",
+                    "Số CT",
+                    "Nội dung",
+                    "PS Nợ",
+                    "PS Có",
+                    "GDV"
+                ],
+                "giao_dich": [
+                    {
+                        "ngay_giao_dich": "211042020",
+                        "so_chung_tu": "000HFTH201120546",
+                        "noi_dung": "\"cong nga \"\"cho that cai Cho vang chuyen\"",
+                        "so_tien_ghi_no": 36000000.0,
+                        "so_tien_ghi_co": 0.0,
+                        "so_du": 0.0,
+                        "nguoi_giao_dich": "EBOWU"
+                    },
+                    {
+                        "ngay_giao_dich": "21/04/2020",
+                        "so_chung_tu": "064FT01201120001",
+                        "noi_dung": "Thu phí dịch vụ (bao gồm VAT).",
+                        "so_tien_ghi_no": 22448.0,
+                        "so_tien_ghi_co": 0.0,
+                        "so_du": 0.0,
+                        "nguoi_giao_dich": "suonghtn"
+                    },
+                    {
+                        "ngay_giao_dich": "221.00.2020",
+                        "so_chung_tu": "fub201120b400134",
+                        "noi_dung": "CHO THUYẾN THUYỀN TRONG, T VIỆT NGHĨA ANH",
+                        "so_tien_ghi_no": 0.0,
+                        "so_tien_ghi_co": 0.0,
+                        "so_du": 0.0,
+                        "nguoi_giao_dich": "suonghtn"
+                    },
+                    {
+                        "ngay_giao_dich": "21/04/2020",
+                        "so_chung_tu": "FJB2011206400135",
+                        "noi_dung": "RUT TIEN TK",
+                        "so_tien_ghi_no": 57000000.0,
+                        "so_tien_ghi_co": 0.0,
+                        "so_du": 0.0,
+                        "nguoi_giao_dich": "SUONGHTN"
+                    },
+                    {
+                        "ngay_giao_dich": "29/04/2020",
+                        "so_chung_tu": "084CAO3VNDO00001",
+                        "noi_dung": "thanh toan lai tgtt",
+                        "so_tien_ghi_no": 0.0,
+                        "so_tien_ghi_co": 658.0,
+                        "so_du": 0.0,
+                        "nguoi_giao_dich": "system"
+                    },
+                    {
+                        "ngay_giao_dich": "11/05/2020",
+                        "so_chung_tu": "084UPMB20 1320023",
+                        "noi_dung": "BẦU PHÍ DY SMS.INTERN75728",
+                        "so_tien_ghi_no": 44000.0,
+                        "so_tien_ghi_co": 0.0,
+                        "so_du": 0.0,
+                        "nguoi_giao_dich": "MBGWU"
+                    },
+                    {
+                        "ngay_giao_dich": "18/0s/2020",
+                        "so_chung_tu": "FUB2013808400138",
+                        "noi_dung": "Thu phi tai khoan hoat deong",
+                        "so_tien_ghi_no": 33000.0,
+                        "so_tien_ghi_co": 0.0,
+                        "so_du": 0.0,
+                        "nguoi_giao_dich": "oracle"
+                    },
+                    {
+                        "ngay_giao_dich": "30/05/2020",
+                        "so_chung_tu": "084CAO3VNDO00001",
+                        "noi_dung": "THANH TOAN LAI TGTT",
+                        "so_tien_ghi_no": 0.0,
+                        "so_tien_ghi_co": 471.0,
+                        "so_du": 0.0,
+                        "nguoi_giao_dich": "system"
+                    },
+                    {
+                        "ngay_giao_dich": "18/08/2020",
+                        "so_chung_tu": "FJB2016708400095",
+                        "noi_dung": "Thu ngi tay khoan hgat d2009",
+                        "so_tien_ghi_no": 33000.0,
+                        "so_tien_ghi_co": 0.0,
+                        "so_du": 0.0,
+                        "nguoi_giao_dich": "ORACLE"
+                    },
+                    {
+                        "ngay_giao_dich": "15/08/2020",
+                        "so_chung_tu": "084UPMB201670052",
+                        "noi_dung": "SAU PHÍ DY SMSANKEERNE5T728",
+                        "so_tien_ghi_no": 44000.0,
+                        "so_tien_ghi_co": 0.0,
+                        "so_du": 0.0,
+                        "nguoi_giao_dich": "MBGWU"
+                    },
+                    {
+                        "ngay_giao_dich": "30/06/2020",
+                        "so_chung_tu": "064CAO3VNDO00001",
+                        "noi_dung": "thanh toan lai tgtt",
+                        "so_tien_ghi_no": 0.0,
+                        "so_tien_ghi_co": 274.0,
+                        "so_du": 0.0,
+                        "nguoi_giao_dich": "system"
+                    },
+                    {
+                        "ngay_giao_dich": "Backboats",
+                        "so_chung_tu": "Contractions",
+                        "noi_dung": "TỔNG PHÁT SINH/TOTAL",
+                        "so_tien_ghi_no": 0.0,
+                        "so_tien_ghi_co": 0.0,
+                        "so_du": 0.0,
+                        "nguoi_giao_dich": "WORKER"
+                    }
+                ],
+                "tong_ket": {
+                    "tong_so_tien_ghi_no": 0.0,
+                    "tong_so_tien_ghi_co": 0.0
+                }
+            }
+        }
+    }
+]

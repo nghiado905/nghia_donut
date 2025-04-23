@@ -1,0 +1,272 @@
+[
+    {
+        "image": "D:/Private/Project/kaggle/VietOCR/ocr_with_normal_table/output/json\\images\\page_Vietcombank_1.jpg",
+        "ground_truth": {
+            "gt_parse": {
+                "ten_ngan_hang": "",
+                "ma_khach_hang": "",
+                "thong_tin_tai_khoan": {
+                    "ten_chu_tai_khoan": "",
+                    "dia_chi": "",
+                    "so_tai_khoan": "",
+                    "so_cf": "",
+                    "loai_tien": "",
+                    "tu_ngay": "01/01/2020",
+                    "den_ngay": "25/01/2020",
+                    "so_du_dau": 0.0
+                },
+                "ten_cac_cot": [
+                    "Ngày GD",
+                    "Số tiền ghi nợ",
+                    "Số tiền ghi có",
+                    "Số dư",
+                    "Nội dung chi tiết"
+                ],
+                "giao_dich": [
+                    {
+                        "ngay_giao_dich": "1704/202002s",
+                        "so_tien_ghi_no": 55000.0,
+                        "so_tien_ghi_co": 36000000.0,
+                        "so_du": 0.0,
+                        "noi_dung": "THU PHI DỊCH VU OMSCHU DONG THÁNG 12/2019. SDT;"
+                    },
+                    {
+                        "ngay_giao_dich": "165001/2029",
+                        "so_tien_ghi_no": 0.0,
+                        "so_tien_ghi_co": 2049000.0,
+                        "so_du": 0.0,
+                        "noi_dung": "15. CN.9704 36680.00040041.Pv-CC0271000636148.ToACC"
+                    },
+                    {
+                        "ngay_giao_dich": "18/01/202048",
+                        "so_tien_ghi_no": 0.0,
+                        "so_tien_ghi_co": 5364000.0,
+                        "so_du": 8780597.0,
+                        "noi_dung": "504798.180120.175020 Chu the DongA Bank chuyen tien"
+                    },
+                    {
+                        "ngay_giao_dich": "20/01/2020",
+                        "so_tien_ghi_no": 7000000.0,
+                        "so_tien_ghi_co": 0.0,
+                        "so_du": 0.0,
+                        "noi_dung": "PHAN THỊ ANH NGA 20515354S GD TIẾNMAT"
+                    },
+                    {
+                        "ngay_giao_dich": "22/01/2029/6179",
+                        "so_tien_ghi_no": 0.0,
+                        "so_tien_ghi_co": 279.0,
+                        "so_du": 1789576.0,
+                        "noi_dung": "Tra lai tien gui/finterest paid"
+                    }
+                ],
+                "tong_ket": {
+                    "tong_so_tien_ghi_no": 0.0,
+                    "tong_so_tien_ghi_co": 0.0
+                }
+            }
+        }
+    },
+    {
+        "image": "D:/Private/Project/kaggle/VietOCR/ocr_with_normal_table/output/json\\images\\page_Vietcombank_2.jpg",
+        "ground_truth": {
+            "gt_parse": {
+                "ten_ngan_hang": "",
+                "ma_khach_hang": "",
+                "thong_tin_tai_khoan": {
+                    "ten_chu_tai_khoan": "",
+                    "dia_chi": "",
+                    "so_tai_khoan": "",
+                    "so_cf": "",
+                    "loai_tien": "",
+                    "tu_ngay": "26/01/2020",
+                    "den_ngay": "06/05/2020",
+                    "so_du_dau": 0.0
+                },
+                "ten_cac_cot": [
+                    "Ngày GD",
+                    "Số tiền ghi nợ",
+                    "Số tiền ghi có",
+                    "Số dư",
+                    "Nội dung chi tiết"
+                ],
+                "giao_dich": [
+                    {
+                        "ngay_giao_dich": "01/02/2020",
+                        "so_tien_ghi_no": 22000.0,
+                        "so_tien_ghi_co": 360000001.0,
+                        "so_du": 1767876.0,
+                        "noi_dung": "TO CHUC QLTK-VND"
+                    },
+                    {
+                        "ngay_giao_dich": "16002/2020",
+                        "so_tien_ghi_no": 42570.0,
+                        "so_tien_ghi_co": 0.0,
+                        "so_du": 125306.0,
+                        "noi_dung": "0778 72%8D5%.5.3M5 CHU DONG THANG 01/2020. SDT"
+                    },
+                    {
+                        "ngay_giao_dich": "055002/2028627573",
+                        "so_tien_ghi_no": 22000.0,
+                        "so_tien_ghi_co": 360000005.0,
+                        "so_du": 0.0,
+                        "noi_dung": "THU PHI QLTK TO CHUC-VND"
+                    },
+                    {
+                        "ngay_giao_dich": "25102/202862/873",
+                        "so_tien_ghi_no": 36000000.0,
+                        "so_tien_ghi_co": 319.0,
+                        "so_du": 1703625.0,
+                        "noi_dung": "INTERESTPAYMENT"
+                    },
+                    {
+                        "ngay_giao_dich": "02/03/2020",
+                        "so_tien_ghi_no": 36000000.0,
+                        "so_tien_ghi_co": 600000000.0,
+                        "so_du": 601703625.0,
+                        "noi_dung": "Sender 4.2204018 DD-020320.SHCD-1810162A BO.NGUYEN"
+                    },
+                    {
+                        "ngay_giao_dich": "05/00/2020",
+                        "so_tien_ghi_no": 600000000.0,
+                        "so_tien_ghi_co": 0.0,
+                        "so_du": 36000000.0,
+                        "noi_dung": "CHỌ WITHDRAWALPHAN THỊ ANH NGA 20515354S"
+                    },
+                    {
+                        "ngay_giao_dich": "05/04/2020",
+                        "so_tien_ghi_no": 0.0,
+                        "so_tien_ghi_co": 700000000.0,
+                        "so_du": 36000000.0,
+                        "noi_dung": "Scmdcc-48204018 DD.0320 SHCD-15109590 B0.NGUYEN"
+                    },
+                    {
+                        "ngay_giao_dich": "03%008/2020",
+                        "so_tien_ghi_no": 0.0,
+                        "so_tien_ghi_co": 600000000.0,
+                        "so_du": 0.0,
+                        "noi_dung": "Sender 43204015 DD.0320.5HCD-18154540 DO NGUYEN"
+                    },
+                    {
+                        "ngay_giao_dich": "05/04/2020",
+                        "so_tien_ghi_no": 700000000.0,
+                        "so_tien_ghi_co": 0.0,
+                        "so_du": 601703625.0,
+                        "noi_dung": "SHO WITHDRAWALPHAN THI ANH NGA 20515354S RT"
+                    },
+                    {
+                        "ngay_giao_dich": "04708/2020",
+                        "so_tien_ghi_no": 600000000.0,
+                        "so_tien_ghi_co": 360000001.0,
+                        "so_du": 0.0,
+                        "noi_dung": "CHO WITHDRAWAL RUT SEC 205.23125 NGUOI NHAN"
+                    },
+                    {
+                        "ngay_giao_dich": "04709/2020",
+                        "so_tien_ghi_no": 600000000.0,
+                        "so_tien_ghi_co": 360000003.0,
+                        "so_du": 0.0,
+                        "noi_dung": "CHỌ WITHDRAWALPHAN THI ANH NGA 205 US354S"
+                    },
+                    {
+                        "ngay_giao_dich": "04/05/2620",
+                        "so_tien_ghi_no": 0.0,
+                        "so_tien_ghi_co": 600000000.0,
+                        "so_du": 0.0,
+                        "noi_dung": "Sember 43204015 DDD.0320.500.194.3172627180 NGUYỄN"
+                    },
+                    {
+                        "ngay_giao_dich": "10.000.2020",
+                        "so_tien_ghi_no": 0.0,
+                        "so_tien_ghi_co": 0.0,
+                        "so_du": 0.0,
+                        "noi_dung": "SENATIVE OPTOON) - 1005.500.00000000000000000000000000000000000000 19600 LANG 15 - 1974 THE HARPERMINES"
+                    },
+                    {
+                        "ngay_giao_dich": "20/08/2020",
+                        "so_tien_ghi_no": 10000000.0,
+                        "so_tien_ghi_co": 0.0,
+                        "so_du": 0.0,
+                        "noi_dung": "CHỌ WITHDRAWALPHAM THI DUYEN RF"
+                    },
+                    {
+                        "ngay_giao_dich": "20/08/2020",
+                        "so_tien_ghi_no": 2000000.0,
+                        "so_tien_ghi_co": 0.0,
+                        "so_du": 0.0,
+                        "noi_dung": "CHO WITRIDRAWALBUT SECHK A8127 NGUOI NHAN"
+                    },
+                    {
+                        "ngay_giao_dich": "2000%2010",
+                        "so_tien_ghi_no": 0.0,
+                        "so_tien_ghi_co": 0.0,
+                        "so_du": 170.625,
+                        "noi_dung": "THE CHUYỂN CHUYỂN KHOẢN 1000.5 CHÍT CHÍ CON LOẠI THIÊN THƯƠNG THƯƠNG"
+                    },
+                    {
+                        "ngay_giao_dich": "08/203927878",
+                        "so_tien_ghi_no": 22000.0,
+                        "so_tien_ghi_co": 0.0,
+                        "so_du": 0.0,
+                        "noi_dung": "THỦ PHÍ QUTK TO CHUC-VND"
+                    },
+                    {
+                        "ngay_giao_dich": "055024/2032627878",
+                        "so_tien_ghi_no": 0.0,
+                        "so_tien_ghi_co": 0.0,
+                        "so_du": 0.0,
+                        "noi_dung": "INTERLEST PAYMENT"
+                    },
+                    {
+                        "ngay_giao_dich": "17/04/2020",
+                        "so_tien_ghi_no": 55000.0,
+                        "so_tien_ghi_co": 0.0,
+                        "so_du": 1633515.0,
+                        "noi_dung": "NHƯ PHÚ DỊCH VŨ SHỐC VÙ DÒNG THÁNG QU/..020.5DT."
+                    },
+                    {
+                        "ngay_giao_dich": "04/2639627878",
+                        "so_tien_ghi_no": 22000.0,
+                        "so_tien_ghi_co": 360000000.0,
+                        "so_du": 0.0,
+                        "noi_dung": "THU PHI QUTK TO CHUC PHO"
+                    }
+                ],
+                "tong_ket": {
+                    "tong_so_tien_ghi_no": 0.0,
+                    "tong_so_tien_ghi_co": 0.0
+                }
+            }
+        }
+    },
+    {
+        "image": "D:/Private/Project/kaggle/VietOCR/ocr_with_normal_table/output/json\\images\\page_Vietcombank_3.jpg",
+        "ground_truth": {
+            "gt_parse": {
+                "ten_ngan_hang": "",
+                "ma_khach_hang": "",
+                "thong_tin_tai_khoan": {
+                    "ten_chu_tai_khoan": "",
+                    "dia_chi": "",
+                    "so_tai_khoan": "",
+                    "so_cf": "",
+                    "loai_tien": "",
+                    "tu_ngay": "",
+                    "den_ngay": "",
+                    "so_du_dau": 0.0
+                },
+                "ten_cac_cot": [
+                    "Ngày GD",
+                    "Số tiền ghi nợ",
+                    "Số tiền ghi có",
+                    "Số dư",
+                    "Nội dung chi tiết"
+                ],
+                "giao_dich": [],
+                "tong_ket": {
+                    "tong_so_tien_ghi_no": 0.0,
+                    "tong_so_tien_ghi_co": 0.0
+                }
+            }
+        }
+    }
+]
