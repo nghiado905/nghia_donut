@@ -1,7 +1,7 @@
 resume_from_checkpoint_path: null 
 result_path: "./result"
 pretrained_model_name_or_path: null
-dataset_name_or_paths: ["dataset"] # should be prepared from https://rrc.cvc.uab.es/?ch=17
+dataset_name_or_paths: ["/kaggle/working/nghia_donut/dataset"] # should be prepared from https://rrc.cvc.uab.es/?ch=17
 sort_json_key: True
 train_batch_sizes: [2]
 val_batch_sizes: [4]
