@@ -3,9 +3,9 @@ result_path: "./result_new"
 pretrained_model_name_or_path: null
 dataset_name_or_paths: ["/kaggle/working/nghia_donut/dataset"] # should be prepared from https://rrc.cvc.uab.es/?ch=17
 sort_json_key: True
-train_batch_sizes: [2]
+train_batch_sizes: [4]
 val_batch_sizes: [4]
-input_size: [960, 720]
+input_size: [1280, 960]
 max_length: 128
 align_long_axis: False
 # num_nodes: 8 # memo: donut-base-finetuned-docvqa was trained with 8 nodes
