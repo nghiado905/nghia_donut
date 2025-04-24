@@ -5,7 +5,7 @@ dataset_name_or_paths: ["/kaggle/working/nghia_donut/dataset"] # should be prepa
 sort_json_key: True
 train_batch_sizes: [2]
 val_batch_sizes: [4]
-input_size: [1280, 960]
+input_size: [800, 600]
 max_length: 128
 align_long_axis: False
 # num_nodes: 8 # memo: donut-base-finetuned-docvqa was trained with 8 nodes
