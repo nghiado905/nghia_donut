@@ -20,7 +20,6 @@ from pytorch_lightning.loggers.tensorboard import TensorBoardLogger
 from pytorch_lightning.plugins import CheckpointIO
 from pytorch_lightning.utilities import rank_zero_only
 from sconf import Config
-from transformers import DonutProcessor
 
 from donut import DonutDataset
 from lightning_module import DonutDataPLModule, DonutModelPLModule
@@ -84,33 +83,22 @@ def train(config):
     model_module = DonutModelPLModule(config)
     data_module = DonutDataPLModule(config)
 
-    # Initialize processor
-    pretrained_model_name_or_path = config.get("pretrained_model_name_or_path", "naver-clova-ix/donut-base")
-    processor = DonutProcessor.from_pretrained(pretrained_model_name_or_path)
-
-    # Add datasets to data_module
+    # add datasets to data_module
     datasets = {"train": [], "validation": []}
     for i, dataset_name_or_path in enumerate(config.dataset_name_or_paths):
         task_name = os.path.basename(dataset_name_or_path)  # e.g., cord-v2, docvqa, rvlcdip, ...
-
-        # Add categorical special tokens (optional)
-        special_tokens = []
+        
+        # add categorical special tokens (optional)
         if task_name == "rvlcdip":
-            special_tokens = [
-                "<advertisement/>", "<budget/>", "<email/>", "<file_folder/>",
-                "<form/>", "<handwritten/>", "<invoice/>", "<letter/>",
-                "<memo/>", "<news_article/>", "<presentation/>", "<questionnaire/>",
+            model_module.model.decoder.add_special_tokens([
+                "<advertisement/>", "<budget/>", "<email/>", "<file_folder/>", 
+                "<form/>", "<handwritten/>", "<invoice/>", "<letter/>", 
+                "<memo/>", "<news_article/>", "<presentation/>", "<questionnaire/>", 
                 "<resume/>", "<scientific_publication/>", "<scientific_report/>", "<specification/>"
-            ]
-        elif task_name == "docvqa":
-            special_tokens = ["<yes/>", "<no/>"]
-        elif task_name == "dataset":  # Custom dataset
-            special_tokens = [f"<s_{task_name}>"]  # Add task-specific token for your dataset
-
-        if special_tokens:
-            model_module.model.decoder.add_special_tokens(special_tokens)
-            processor.tokenizer.add_special_tokens({"additional_special_tokens": special_tokens})
-
+            ])
+        if task_name == "docvqa":
+            model_module.model.decoder.add_special_tokens(["<yes/>", "<no/>"])
+            
         for split in ["train", "validation"]:
             datasets[split].append(
                 DonutDataset(
@@ -125,14 +113,11 @@ def train(config):
                     sort_json_key=config.sort_json_key,
                 )
             )
-
+            # prompt_end_token is used for ignoring a given prompt in a loss function
+            # for docvqa task, i.e., {"question": {used as a prompt}, "answer": {prediction target}},
+            # set prompt_end_token to "<s_answer>"
     data_module.train_datasets = datasets["train"]
     data_module.val_datasets = datasets["validation"]
-
-    # Save processor to output directory
-    output_dir = Path(config.result_path) / config.exp_name / config.exp_version
-    processor.save_pretrained(output_dir)
-    print(f"Processor saved to {output_dir}")
 
     logger = TensorBoardLogger(
         save_dir=config.result_path,
@@ -145,7 +130,7 @@ def train(config):
 
     checkpoint_callback = ModelCheckpoint(
         monitor="val_metric",
-        dirpath=output_dir,
+        dirpath=Path(config.result_path) / config.exp_name / config.exp_version,
         filename="artifacts",
         save_top_k=1,
         save_last=False,
