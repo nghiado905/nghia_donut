@@ -1,0 +1,103 @@
+{
+    "image_path": "D:\\Private\\Project\\kaggle\\LabAI\\Donut\\donut\\dataset\\train\\page_MBbank_1.jpg",
+    "image_dimensions": {
+        "width": 827,
+        "height": 1170
+    },
+    "layout_results": [
+        {
+            "label": "table",
+            "bbox": [
+                13,
+                306,
+                813,
+                1101
+            ],
+            "text": "ILL"
+        },
+        {
+            "label": "header_image",
+            "bbox": [
+                23,
+                81,
+                131,
+                127
+            ],
+            "text": "4mb"
+        },
+        {
+            "label": "text",
+            "bbox": [
+                575,
+                214,
+                722,
+                229
+            ],
+            "text": "Loại tiền/Currency - VND"
+        },
+        {
+            "label": "text",
+            "bbox": [
+                17,
+                151,
+                194,
+                211
+            ],
+            "text": "0360000000000"
+        },
+        {
+            "label": "table_title",
+            "bbox": [
+                328,
+                133,
+                684,
+                146
+            ],
+            "text": "Từ ngày/From date: 01/01/2019 đến ngày/To date: 31/12/2019 thang 10"
+        },
+        {
+            "label": "text",
+            "bbox": [
+                574,
+                151,
+                715,
+                196
+            ],
+            "text": "03311980000000000000"
+        },
+        {
+            "label": "text",
+            "bbox": [
+                263,
+                259,
+                432,
+                274
+            ],
+            "text": "Số dư đầu: 8.114.335.000"
+        },
+        {
+            "label": "doc_title",
+            "bbox": [
+                332,
+                81,
+                683,
+                123
+            ],
+            "text": "THỊ SỐ HẠCH TOÁN CHI TIẾT CỦA TÀI KHOẢNG"
+        }
+    ],
+    "table_cell_results": [
+        {
+            "bbox": [
+                137,
+                903,
+                344,
+                967
+            ],
+            "text": "TRANSPOSITIONALISM",
+            "box_info": {
+                "cls_id": 0,
+                "label": "cell",
+                "score": 0.969581663608551,
+                "coordinate": [
+                    
